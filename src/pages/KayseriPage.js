@@ -1,10 +1,10 @@
-import "./App.css";
+import "../App.css";
 import React, { useState, useEffect } from "react";
-import f from "./data/data.json";
+import g from "../data/kayseridata.json";
 import ReactPaginate from "react-paginate";
 import { Link } from "react-router-dom";
 
-function App() {
+function KayseriPage() {
   const [items, setItem] = useState([]);
   const [searchItem, setSearchItem] = useState([]);
   const [filterItem, setFilterItem] = useState("");
@@ -14,8 +14,8 @@ function App() {
   const regex = /[a-z]/g;
 
   useEffect(() => {
-    setItem(f.data);
-    setSearchItem(f.data);
+    setItem(g.data);
+    setSearchItem(g.data);
   }, []);
 
   const lastPostIndex = currentItemPage * postItemPerPage;
@@ -65,7 +65,8 @@ function App() {
           </ul>
         </div>
       </nav>
-      <h1 className="h1"> Mersin Şehir Hastanesine Getirilen Kişiler</h1>
+
+      <h1 className="h1"> Kayseri Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
@@ -82,29 +83,25 @@ function App() {
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
           <tr className={"text-center"}>
-            <th scope="col">Sıra</th>
+            <th scope="col">Giriş tarihi</th>
             <th scope="col">İsim</th>
-            <th scope="col">Yaş</th>
-            <th scope="col">Yer</th>
-            <th scope="col">Hayati tehlike</th>
-            <th scope="col">Açıklama</th>
+            <th scope="col">Yakın No</th>
+            <th scope="col">Geldiği Yer</th>
+            <th scope="col">Tanı</th>
+            <th scope="col">Birim</th>
+            <th scope="col">Yatış yeri</th>
           </tr>
         </thead>
         <tbody>
           {currentPosts.map((d) => (
             <tr key={d.Sno} className={"text-center"}>
-              <th scope="row">{d["sira"]}</th>
+              <th scope="row">{d["girisTarihi"]}</th>
               <td>{d["isim"]}</td>
-              <td>{d["yas"]}</td>
+              <td>{d["yakinNo"]}</td>
               <td>{d["yer"]}</td>
-              {d["ht"] === 1 ? (
-                <td>Hayati tehlike var</td>
-              ) : d["ht"] === 0 ? (
-                <td>Hayati tehlike yok</td>
-              ) : (
-                <td></td>
-              )}
-              <td>{d["detay"]}</td>
+              <td>{d["tani"]}</td>
+              <td>{d["birim"]}</td>
+              <td>{d["yatisYeri"]}</td>
             </tr>
           ))}
         </tbody>
@@ -133,4 +130,4 @@ function App() {
   );
 }
 
-export default App;
+export default KayseriPage;
