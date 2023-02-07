@@ -29,7 +29,7 @@ function KayseriPage() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = searchItem.filter((item) =>
-        item["isim"].toLowerCase().includes(e.target.value.toLowerCase())
+      item["isim"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
       );
       setItem(filterResult);
     }
