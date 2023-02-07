@@ -102,7 +102,7 @@ function KayseriPage() {
               <th scope="row">{d["girisTarihi"]}</th>
               <td>{d["isim"]}</td>
               <td>{d["yakinNo"]}</td>
-              <td>{d["yer"]}</td>
+              <td>{d["geldigiYer"]}</td>
               <td>{d["tani"]}</td>
               <td>{d["birim"]}</td>
               <td>{d["yatisYeri"]}</td>
