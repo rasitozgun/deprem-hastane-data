@@ -1,6 +1,6 @@
 import "../App.css";
 import React, { useState, useEffect } from "react";
-import g from "../data/kayseridata.json";
+import g from "../data/adanadata.json";
 import ReactPaginate from "react-paginate";
 import Navbar from "../components/Navbar";
 
@@ -43,7 +43,8 @@ function KayseriPage() {
   return (
     <div>
       <Navbar />
-      <h1 className="h1"> Kayseri Şehir Hastanesine Getirilen Kişiler</h1>
+
+      <h1 className="h1"> Adana Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
@@ -60,23 +61,23 @@ function KayseriPage() {
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
           <tr className={"text-center"}>
-            <th scope="col">Giriş tarihi</th>
+            <th scope="col">Numara</th>
             <th scope="col">İsim</th>
-            <th scope="col">Geldiği Yer</th>
-            <th scope="col">Tanı</th>
-            <th scope="col">Birim</th>
-            <th scope="col">Yatış yeri</th>
+            <th scope="col">Sevk Geldiği Yer</th>
+            <th scope="col">Hastane</th>
+            <th scope="col">Kayıt Tarihi</th>
+            <th scope="col">Servis ve Yoğun Bakım</th>
           </tr>
         </thead>
         <tbody>
           {currentPosts.map((d) => (
             <tr key={d.Sno} className={"text-center"}>
-              <th scope="row">{d["girisTarihi"]}</th>
+              <th scope="row">{d["Numara"]}</th>
               <td>{d["isim"]}</td>
-              <td>{d["geldigiYer"]}</td>
-              <td>{d["tani"]}</td>
-              <td>{d["birim"]}</td>
-              <td>{d["yatisYeri"]}</td>
+              <td>{d["sevkGelis"]}</td>
+              <td>{d["hastane"]}</td>
+              <td>{d["girisTarihi"]}</td>
+              <td>{d["servisBakim"]}</td>
             </tr>
           ))}
         </tbody>

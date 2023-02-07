@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import KayseriPage from "./pages/KayseriPage";
+import AdanaPage from "./pages/AdanaPage";
 import reportWebVitals from "./reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -14,6 +15,10 @@ const router = createBrowserRouter([
   {
     path: "kayseriPage",
     element: <KayseriPage />,
+  },
+  {
+    path: "adanaPage",
+    element: <AdanaPage />,
   },
 ]);
 

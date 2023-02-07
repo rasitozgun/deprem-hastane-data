@@ -1,0 +1,4516 @@
+{
+    "Numara": 3,
+    "girisTarihi": "6.02.2023 14:16:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHTAP KIRIKÇI",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 5,
+    "girisTarihi": "6.02.2023 15:55:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEFİK OKUTUR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 6,
+    "girisTarihi": "6.02.2023 18:31:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ GÜLŞEN KİMLİKSİZ 2",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 7,
+    "girisTarihi": "6.02.2023 18:29:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASAN SONER HORŞİT",
+    "servisBakim": "ÜROLOJİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 9,
+    "girisTarihi": "6.02.2023 21:13:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BARIŞ YONCA",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 10,
+    "girisTarihi": "6.02.2023 22:47:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FATMA EKİN KURKMAZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 16,
+    "girisTarihi": "7.02.2023 00:24:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NEHİR ATEŞ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 17,
+    "girisTarihi": "6.02.2023 19:26:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(HATİCE) ACİL HASTA(EROL)",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 18,
+    "girisTarihi": "6.02.2023 20:31:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SİNAN EMRE ALTINARI",
+    "servisBakim": "DAHİLİYE SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 20,
+    "girisTarihi": "7.02.2023 07:11:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİF GÜLSEN ÜNAL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 21,
+    "girisTarihi": "7.02.2023 03:51:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA MEHMET CEZAYİROĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 23,
+    "girisTarihi": "7.02.2023 08:09:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YAZEN) ACİL HASTA(ŞEYİK ALİ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 25,
+    "girisTarihi": "7.02.2023 04:53:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEYNEP ARBAŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 28,
+    "girisTarihi": "7.02.2023 07:36:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BETÜL KÜÇÜKÖNDER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 29,
+    "girisTarihi": "7.02.2023 07:03:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYŞENUR TURAN",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 38,
+    "girisTarihi": "7.02.2023 11:54:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SÜREYYA YILDIZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 40,
+    "girisTarihi": "7.02.2023 14:00:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(GÜLSÜM) KİMLİKSİZ(ŞİRİN)",
+    "servisBakim": "KORONER YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 43,
+    "girisTarihi": "6.02.2023 12:47:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZLEM ÇELİK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 44,
+    "girisTarihi": "6.02.2023 12:38:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(EYLÜL) KİMLİKSİZ(12.36)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 45,
+    "girisTarihi": "6.02.2023 11:47:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FİRDEVS KARATAŞOĞLU",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 46,
+    "girisTarihi": "6.02.2023 12:50:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NURETTİN KARNAK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "İSTANBUL",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 54,
+    "girisTarihi": "6.02.2023 11:48:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BADE GAZALOĞLU",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 57,
+    "girisTarihi": "6.02.2023 13:21:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İBRAHİM ABAY",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 63,
+    "girisTarihi": "6.02.2023 19:03:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FATOŞ AYRILDI",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 68,
+    "girisTarihi": "6.02.2023 14:40:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAMİDE KAYHA",
+    "servisBakim": "DOĞUMHANE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 71,
+    "girisTarihi": "6.02.2023 19:35:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ERDAL) ACİL HASTA(HOŞGEL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 75,
+    "girisTarihi": "6.02.2023 23:24:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 81,
+    "girisTarihi": "7.02.2023 02:31:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AZİZE) ACİL HASTA(BOZOĞLAN)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 82,
+    "girisTarihi": "7.02.2023 02:49:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(HÜSEYİN BEDİR) ACİL HASTA(HATUNOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 84,
+    "girisTarihi": "7.02.2023 07:31:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ZEHRA) ACİL HASTA(DOĞAN)",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 85,
+    "girisTarihi": "7.02.2023 07:34:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(EMİR) ACİL HASTA(KILIÇ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 89,
+    "girisTarihi": "6.02.2023 20:42:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (MELEK) ACİL HASTA (KURT)",
+    "servisBakim": "YENİ DOĞAN YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 103,
+    "girisTarihi": "6.02.2023 11:15:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NECMETTİN ŞABANOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 105,
+    "girisTarihi": "6.02.2023 14:01:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERVE YURTBEKLER",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 106,
+    "girisTarihi": "6.02.2023 13:05:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MAHMUT DURAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 108,
+    "girisTarihi": "6.02.2023 14:06:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YASİN KURAL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 113,
+    "girisTarihi": "6.02.2023 13:39:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YİĞİT SOLMAZ",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 115,
+    "girisTarihi": "6.02.2023 16:02:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA HADİL ACİL HASTA SRAİL",
+    "servisBakim": "GENEL CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 118,
+    "girisTarihi": "6.02.2023 19:02:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TAHSİN GÖRÜR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 119,
+    "girisTarihi": "6.02.2023 19:01:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 120,
+    "girisTarihi": "6.02.2023 11:51:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİFAYE ŞAHİN",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 121,
+    "girisTarihi": "6.02.2023 17:19:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NECDET TURUNÇ",
+    "servisBakim": "ENFEKSİYON HASTALIKLARI SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 122,
+    "girisTarihi": "6.02.2023 18:19:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA GEZMEN",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 123,
+    "girisTarihi": "6.02.2023 14:50:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ( GÜLLÜ) ACİL HASTA ( ELMA)",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 126,
+    "girisTarihi": "6.02.2023 14:58:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHLEM ŞEHLA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 128,
+    "girisTarihi": "6.02.2023 21:09:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "VOLKAN NALÇA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 130,
+    "girisTarihi": "6.02.2023 22:24:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ MUSTAFA KİMLİKSİZ ÇAKAR",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 131,
+    "girisTarihi": "6.02.2023 16:59:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÜZİDE ARSLAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 134,
+    "girisTarihi": "6.02.2023 21:08:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞABAN YAMAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 135,
+    "girisTarihi": "6.02.2023 22:15:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HATİCE ASKER",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 136,
+    "girisTarihi": "6.02.2023 04:59:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÜLİSTAN EVRAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 138,
+    "girisTarihi": "7.02.2023 00:00:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ELA) ACİL HASTA",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 139,
+    "girisTarihi": "6.02.2023 07:56:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CANSU YILDIRIM",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 140,
+    "girisTarihi": "6.02.2023 18:05:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AYTEN) ACİL HASTA(GÜNEŞ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 141,
+    "girisTarihi": "6.02.2023 13:52:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(ÖMER) KİMLİKSİZ1 (KILIÇ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 144,
+    "girisTarihi": "6.02.2023 19:52:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CEMİLE BAKLAVACI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 147,
+    "girisTarihi": "6.02.2023 21:42:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ALİ GÖKÇEOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 148,
+    "girisTarihi": "7.02.2023 00:52:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMİRHAN SIĞIRTMAÇ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 149,
+    "girisTarihi": "7.02.2023 02:39:33",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEHER SEVENOL",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "BİTLİS",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 150,
+    "girisTarihi": "7.02.2023 03:00:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MUHAMMED) ACİL HASTA(GÜLEŞCİ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 152,
+    "girisTarihi": "7.02.2023 03:38:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA AŞAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 153,
+    "girisTarihi": "7.02.2023 01:50:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MESUT ÖZKURT",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 156,
+    "girisTarihi": "7.02.2023 04:25:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KAYRA HOROZ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 157,
+    "girisTarihi": "7.02.2023 05:08:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA TUGAY ÖZÇELİK",
+    "servisBakim": "ARA YOĞUN BAKIM 4",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 159,
+    "girisTarihi": "7.02.2023 07:35:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SİBEL) ACİL HASTA(YALÇIN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 163,
+    "girisTarihi": "7.02.2023 09:52:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERT EFE YANARDAĞ",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 173,
+    "girisTarihi": "6.02.2023 18:12:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(BADİ) KİMLİKSİZ(ŞERH ABDULLAH)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 177,
+    "girisTarihi": "7.02.2023 13:19:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CENGİZ TOZLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 180,
+    "girisTarihi": "6.02.2023 10:28:33",
+    "hastane": "Adana Şehir EAH",
+    "isim": "RESUL GÖKÇE",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 190,
+    "girisTarihi": "6.02.2023 15:37:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HALİDE SECERLİ",
+    "servisBakim": "KBB SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 192,
+    "girisTarihi": "6.02.2023 18:10:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(MAHMUT) KİMLİKSİZ(AĞRI)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 194,
+    "girisTarihi": "6.02.2023 22:03:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERDAL ERDEM",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 3",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 195,
+    "girisTarihi": "6.02.2023 23:03:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 196,
+    "girisTarihi": "6.02.2023 18:27:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HATİCE BOLAT",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 198,
+    "girisTarihi": "6.02.2023 20:12:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 199,
+    "girisTarihi": "6.02.2023 21:27:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMİNE ÇEKMEN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 206,
+    "girisTarihi": "6.02.2023 19:21:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SERMİN) ACİL HASTA(ŞAHİN)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 212,
+    "girisTarihi": "6.02.2023 20:35:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ULE ABBUDE",
+    "servisBakim": "KADIN DOĞUM SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 213,
+    "girisTarihi": "6.02.2023 20:40:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERKAN ÇIRAY",
+    "servisBakim": "CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 219,
+    "girisTarihi": "6.02.2023 22:53:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MURAT TÜRKKAN",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 221,
+    "girisTarihi": "6.02.2023 22:56:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BURAK İNDİBAY",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 222,
+    "girisTarihi": "7.02.2023 03:01:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA İNCİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 224,
+    "girisTarihi": "7.02.2023 07:53:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÜLBAHAR YILDIRIM",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 227,
+    "girisTarihi": "7.02.2023 08:02:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ(SERAP) KİMLİKSİZ(YILDIZER)",
+    "servisBakim": "KADIN DOĞUM SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 232,
+    "girisTarihi": "7.02.2023 06:30:53",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MURAT AKKOÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 237,
+    "girisTarihi": "7.02.2023 08:43:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET DOĞRU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 258,
+    "girisTarihi": "6.02.2023 15:49:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AYNUR) ACİL HASTA(DANDUROĞLU)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 259,
+    "girisTarihi": "6.02.2023 16:45:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SULTAN YILMAZ",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 265,
+    "girisTarihi": "6.02.2023 20:36:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (ABDULFETTAH) ACİL HASTA (SİNSAVİ)",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 267,
+    "girisTarihi": "6.02.2023 20:52:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TUĞRUL GÖK",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 270,
+    "girisTarihi": "6.02.2023 21:27:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "LUTFİYE AŞIK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 271,
+    "girisTarihi": "6.02.2023 22:00:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERVA AKBAŞ",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 273,
+    "girisTarihi": "6.02.2023 22:10:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA MUSTAFA İSMAİL ACİL HASTA KAYA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 277,
+    "girisTarihi": "6.02.2023 13:40:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (ASEL SOLMAZ ACİL HASTA",
+    "servisBakim": "YENİ DOĞAN YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 281,
+    "girisTarihi": "6.02.2023 14:14:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GAZEL SOBEI",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 284,
+    "girisTarihi": "6.02.2023 19:30:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "UTUR MUNAKKAŞİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 286,
+    "girisTarihi": "6.02.2023 19:49:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HATİCE AYDINAY",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 290,
+    "girisTarihi": "6.02.2023 20:11:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SANİYE) ACİL HASTAKARARABİBER)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 291,
+    "girisTarihi": "6.02.2023 20:30:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HATİCE ALTINARI",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 296,
+    "girisTarihi": "7.02.2023 01:26:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASİBE KÖKER",
+    "servisBakim": "NÖROLOJİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 297,
+    "girisTarihi": "7.02.2023 04:22:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERYEM YILMAZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 301,
+    "girisTarihi": "7.02.2023 09:12:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA OĞUZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 319,
+    "girisTarihi": "6.02.2023 11:57:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAMİYET SENDE KIRATLI",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 324,
+    "girisTarihi": "6.02.2023 18:44:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMET ALYA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 325,
+    "girisTarihi": "6.02.2023 21:23:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED SAMED KAYAPINAR",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 330,
+    "girisTarihi": "6.02.2023 21:22:33",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ 1 KİMLİKSİZ 1",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 331,
+    "girisTarihi": "6.02.2023 21:28:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SERDAR SİNAN DİK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 332,
+    "girisTarihi": "6.02.2023 22:46:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ ZEKİYE KİMLİKSİZ ATEŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 336,
+    "girisTarihi": "6.02.2023 20:49:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İBRAHİM KUŞCU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 337,
+    "girisTarihi": "6.02.2023 19:04:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ESMA) ACİL HASTA(KARACAN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 340,
+    "girisTarihi": "6.02.2023 21:14:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYSEL GÜLER",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 341,
+    "girisTarihi": "6.02.2023 20:16:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(NARİN) ACİL HASTA(DAĞLI)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 342,
+    "girisTarihi": "6.02.2023 20:26:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (HALE) (SADETTİN)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 345,
+    "girisTarihi": "6.02.2023 22:42:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CUMA GÖKALP",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 346,
+    "girisTarihi": "6.02.2023 22:44:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MÜNTEHA NEHİR KÜÇÜKOĞLU",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "DURUMU": "kısa kol atel önerilir akut ossseöz patol",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 349,
+    "girisTarihi": "6.02.2023 22:36:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(HATİCE) ACİL HASTA(BOZ)",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 350,
+    "girisTarihi": "6.02.2023 22:36:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(HATİCE) ACİL HASTA(BOZ)",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 351,
+    "girisTarihi": "6.02.2023 23:53:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MELİSA ÇELİK",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 354,
+    "girisTarihi": "6.02.2023 23:01:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ(BORAN) İSİMSİZ(KONAÇ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 356,
+    "girisTarihi": "7.02.2023 03:58:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MÜNEVVER ACİL HASTA(ÖRÜNDÜ",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 3",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 357,
+    "girisTarihi": "7.02.2023 07:25:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HÜSEYİN YİTİK",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 359,
+    "girisTarihi": "7.02.2023 08:58:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AHMET) ACİL HASTA(SÖNMEZ)",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 374,
+    "girisTarihi": "6.02.2023 22:09:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİF NİSA TEZCAN",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "DURUMU": "akut osseöz p",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 376,
+    "girisTarihi": "6.02.2023 11:52:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SİNAN ESER",
+    "servisBakim": "ÜROLOJİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 380,
+    "girisTarihi": "6.02.2023 11:19:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 384,
+    "girisTarihi": "6.02.2023 12:59:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "OĞUZHAN ÇEKİÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "DÜZCE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 390,
+    "girisTarihi": "6.02.2023 22:18:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(22:17) HASTA",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 391,
+    "girisTarihi": "6.02.2023 21:44:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BEKİR YILMAZ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 392,
+    "girisTarihi": "6.02.2023 19:36:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BURCU DURİYE AKGÜL",
+    "servisBakim": "GENEL YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 393,
+    "girisTarihi": "6.02.2023 18:23:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA BARIŞ ACİL HASTA GÜLERYÜZ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 394,
+    "girisTarihi": "6.02.2023 21:58:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ALİ SEFA) ACİL HASTA(DOĞAN)",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 395,
+    "girisTarihi": "6.02.2023 21:36:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HÜSEYİN GÜNGÖR",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 396,
+    "girisTarihi": "6.02.2023 19:35:33",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET DALSEVER",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 400,
+    "girisTarihi": "6.02.2023 21:05:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HALİME İNAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 404,
+    "girisTarihi": "6.02.2023 21:25:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SELİM YURDAL",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 406,
+    "girisTarihi": "6.02.2023 23:55:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MERVE ACİL HASTA(UBEYD",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 407,
+    "girisTarihi": "6.02.2023 22:18:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET ALİ ÖZGÖÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 409,
+    "girisTarihi": "6.02.2023 22:52:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ 1 ( SURİYELİ) KİMLİKSİZ 2",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 410,
+    "girisTarihi": "6.02.2023 23:01:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BEYZA NUR ERGÜN",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 411,
+    "girisTarihi": "6.02.2023 23:11:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "VAHDET HAKAN ÇEVİK",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 413,
+    "girisTarihi": "6.02.2023 17:03:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EŞREF DALYAN",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 415,
+    "girisTarihi": "6.02.2023 23:26:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÖKHAN AKGÖL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 418,
+    "girisTarihi": "6.02.2023 22:49:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ALİ DOĞAN",
+    "servisBakim": "NÖROLOJİ YOĞUN BAKIM",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 422,
+    "girisTarihi": "6.02.2023 11:50:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(HAMO) KİMLİKSİZ1(FAİZ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 424,
+    "girisTarihi": "7.02.2023 01:20:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAKKI DÖNMEZ",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 426,
+    "girisTarihi": "7.02.2023 00:47:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "DURSUNE KAYA",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 430,
+    "girisTarihi": "7.02.2023 01:43:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMET BAYIR",
+    "servisBakim": "KORONER YOĞUN BAKIM 1",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 432,
+    "girisTarihi": "7.02.2023 08:57:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GONCA GÜL KILIÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 442,
+    "girisTarihi": "6.02.2023 16:19:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EYLÜL GÜLERYÜZ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 443,
+    "girisTarihi": "6.02.2023 18:26:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ECE KAYRA SÖNMEZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 445,
+    "girisTarihi": "6.02.2023 19:11:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERAL KAHRIMAN",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 3",
+    "DURUMU": "Önerilerde B",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 446,
+    "girisTarihi": "6.02.2023 16:38:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SELBA) ACİL HASTA(HİLOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 447,
+    "girisTarihi": "6.02.2023 20:22:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MURAT ERMEN",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 448,
+    "girisTarihi": "6.02.2023 14:45:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA FEYYAZ ACİL HASTA DİBEN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 449,
+    "girisTarihi": "6.02.2023 16:46:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(SAMET) KİMLİKSİZ(EKLERELER)",
+    "servisBakim": "DAHİLİYE SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 451,
+    "girisTarihi": "6.02.2023 20:13:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FERHAT OLGUN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "DURUMU": "dr kemal bey",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 453,
+    "girisTarihi": "6.02.2023 22:05:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED EMİR TEZCAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 455,
+    "girisTarihi": "6.02.2023 22:27:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İFFET ÇALIŞKAN",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 461,
+    "girisTarihi": "7.02.2023 05:14:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ASSALAH ACİL HASTA(DİYR",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 462,
+    "girisTarihi": "7.02.2023 06:58:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMED BEREKET",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 463,
+    "girisTarihi": "7.02.2023 02:30:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ÇAĞRI) ACİL HASTA(BOZOĞLAN)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 464,
+    "girisTarihi": "7.02.2023 06:57:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERSİN GÖR",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 2",
+    "sevkGelis": "ŞANLIURFA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 466,
+    "girisTarihi": "7.02.2023 07:39:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "METİN KÜÇÜKÖNDER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 469,
+    "girisTarihi": "7.02.2023 11:01:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ (MERAL ) KİMLİKSİZ (MARANGOZ)",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 478,
+    "girisTarihi": "6.02.2023 14:36:31",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YAĞMUR SARİYE POLAT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 483,
+    "girisTarihi": "6.02.2023 19:38:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET EYİGÜN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 485,
+    "girisTarihi": "6.02.2023 23:01:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SALİH ERDEM EYBEK",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 490,
+    "girisTarihi": "6.02.2023 22:39:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YUSUF ARDA İNDİBAY",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 492,
+    "girisTarihi": "7.02.2023 00:46:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GASTROENTEROLOJİ SERVİSİ",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 494,
+    "girisTarihi": "6.02.2023 23:20:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ABDURRAHMAN YUSUF",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 495,
+    "girisTarihi": "6.02.2023 23:28:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(HÜSEYİN) KİMLİKSİZ(GÜZEL)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 496,
+    "girisTarihi": "6.02.2023 19:00:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SONGÜL) ACİL HASTA(GÖÇER)",
+    "servisBakim": "KORONER YOĞUN BAKIM 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 497,
+    "girisTarihi": "7.02.2023 01:30:57",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA KEMAL ACİL HASTA GÖKTAŞ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 498,
+    "girisTarihi": "7.02.2023 01:11:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ŞEHİDA ASE) ACİL HASTA(HALİL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 504,
+    "girisTarihi": "7.02.2023 03:42:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(CİHAN) ACİL HASTA(RAMAZAN)",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 505,
+    "girisTarihi": "7.02.2023 09:52:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZSELAHATTİN KİMLİKSİZYILMAZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 515,
+    "girisTarihi": "7.02.2023 13:50:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ENTÜBE ACİL HASTA",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 516,
+    "girisTarihi": "6.02.2023 08:24:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KEZİBAN KULAK",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 525,
+    "girisTarihi": "6.02.2023 13:50:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AZİZE BOZOĞLAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 540,
+    "girisTarihi": "6.02.2023 21:12:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÖKDENİZ GÖRÜR",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 543,
+    "girisTarihi": "6.02.2023 19:42:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "DAHİLİYE SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 545,
+    "girisTarihi": "6.02.2023 19:48:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 548,
+    "girisTarihi": "6.02.2023 20:26:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 549,
+    "girisTarihi": "6.02.2023 22:16:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SARİYE TAPAN",
+    "servisBakim": "ÜROLOJİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 551,
+    "girisTarihi": "7.02.2023 00:03:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ABRURRAHMAN ACİL HASTA(MASRİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 561,
+    "girisTarihi": "6.02.2023 18:29:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SERPİL) ACİL HASTA(YILDIZ SÖNMEZ)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 565,
+    "girisTarihi": "6.02.2023 19:26:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 566,
+    "girisTarihi": "6.02.2023 16:31:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KHALIL SHABRAK",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 567,
+    "girisTarihi": "6.02.2023 16:39:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SARAH SABBAGH",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 569,
+    "girisTarihi": "6.02.2023 17:19:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BEBEK ÖZTEKİN",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 576,
+    "girisTarihi": "6.02.2023 22:36:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYŞE İLERİ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 577,
+    "girisTarihi": "6.02.2023 22:54:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZER ŞAHİN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 579,
+    "girisTarihi": "7.02.2023 01:58:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YASİR) ACİL HASTA(HAMSO)",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 580,
+    "girisTarihi": "6.02.2023 22:32:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "LEVENT YAŞAR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 581,
+    "girisTarihi": "7.02.2023 00:51:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÖK DENİZ NUR",
+    "servisBakim": "ARA YOĞUN BAKIM 4",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 582,
+    "girisTarihi": "7.02.2023 02:23:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "VAHİDE YILDIZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 586,
+    "girisTarihi": "7.02.2023 05:16:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BATUHAN DOĞU DÖNMEZER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 587,
+    "girisTarihi": "7.02.2023 07:27:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED FADIL EL SEBİ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 589,
+    "girisTarihi": "7.02.2023 08:15:57",
+    "hastane": "Adana Şehir EAH",
+    "isim": "REFİK GÜLEŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 591,
+    "girisTarihi": "7.02.2023 09:16:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "LATİFE ÇIKAN",
+    "servisBakim": "NÖROLOJİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 592,
+    "girisTarihi": "7.02.2023 02:52:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(KADER ACİL HASTA(SÜLEYMAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 596,
+    "girisTarihi": "6.02.2023 08:20:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEHLE MAHANOĞLU",
+    "servisBakim": "CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 597,
+    "girisTarihi": "6.02.2023 12:02:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BESİME YİĞİTER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 599,
+    "girisTarihi": "6.02.2023 12:56:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YILMAZ YAVUZEŞ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 601,
+    "girisTarihi": "6.02.2023 12:44:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CANSU ILGIN",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 606,
+    "girisTarihi": "6.02.2023 15:15:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSMAİL ERTEKİN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "KARABÜK",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 611,
+    "girisTarihi": "6.02.2023 15:32:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA BETÜL ACİL HASTA HABBEZİ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 614,
+    "girisTarihi": "6.02.2023 16:24:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMET YILMAZLAR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 615,
+    "girisTarihi": "6.02.2023 13:53:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(ASAF) KİMLİKSİZ1(KILIÇ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 616,
+    "girisTarihi": "6.02.2023 14:27:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(MUSTAFA) KİMLİKSİZ1ŞAHITOĞLU)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 617,
+    "girisTarihi": "6.02.2023 18:34:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ADNAN GEBEŞ",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 618,
+    "girisTarihi": "6.02.2023 13:42:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (HURİ ) ACİL HASTA ( GENÇOĞLAN)",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 619,
+    "girisTarihi": "6.02.2023 23:48:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MUHAMMED) ACİL HASTA(ELSÜLEYMAN)",
+    "servisBakim": "PLASTİK CERRAHİ SERVİSİ",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 620,
+    "girisTarihi": "7.02.2023 00:52:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMİRHAN SIĞIRTMAÇ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 621,
+    "girisTarihi": "7.02.2023 07:14:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(FATMA ACİL HASTA(SÖKER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 623,
+    "girisTarihi": "7.02.2023 03:50:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEHRA KOÇ",
+    "servisBakim": "KARDİYOLOJİ SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 628,
+    "girisTarihi": "7.02.2023 04:49:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GENEL CERRAHİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 630,
+    "girisTarihi": "7.02.2023 05:09:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SEVİM ACİL HASTA(MERAL",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 632,
+    "girisTarihi": "7.02.2023 05:39:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERYEM BOZKURT",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 637,
+    "girisTarihi": "7.02.2023 10:31:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA EMEL ACİL HASTAABURAS",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 640,
+    "girisTarihi": "7.02.2023 12:16:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EYSEM AÇIKGÖZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 657,
+    "girisTarihi": "6.02.2023 12:48:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İHSAN KAYA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "ANKARA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 662,
+    "girisTarihi": "6.02.2023 16:58:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ(MEHMET) KİMLİKSİZ(AKTAŞ)",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 663,
+    "girisTarihi": "6.02.2023 17:11:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "DAHİLİYE SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 664,
+    "girisTarihi": "6.02.2023 18:18:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MELİH KELEŞ",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "DURUMU": "direk beyin c",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 665,
+    "girisTarihi": "6.02.2023 18:22:53",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(ESLEM DAMLA 18:21 ) KİMLİKSİZ(TÜMER)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 672,
+    "girisTarihi": "6.02.2023 17:01:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FİLİZ ARZU YALÇIN",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 676,
+    "girisTarihi": "6.02.2023 18:43:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET KEÇECİOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 680,
+    "girisTarihi": "6.02.2023 20:15:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 681,
+    "girisTarihi": "6.02.2023 19:22:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(ANIL) KİMLİKSİZ(KARAHAN)",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 682,
+    "girisTarihi": "6.02.2023 16:47:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞÖHRET KONYAR",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 686,
+    "girisTarihi": "6.02.2023 20:32:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ASLI SARIGÜL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 688,
+    "girisTarihi": "6.02.2023 18:28:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ALPARSLAN MISIRLI",
+    "servisBakim": "YENİ DOĞAN YOĞUN BAKIM",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 693,
+    "girisTarihi": "7.02.2023 00:01:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(REŞET ACİL HASTA(BESTANİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 695,
+    "girisTarihi": "6.02.2023 23:44:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ(LEMİS) KİMLİKSİZ(İSMAİL)",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 696,
+    "girisTarihi": "6.02.2023 23:50:31",
+    "hastane": "Adana Şehir EAH",
+    "isim": "OKAN CÜZDANOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 699,
+    "girisTarihi": "6.02.2023 13:20:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1( ÇETİN KAAAN ) KİMLİKSİZ(NAHARCI)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "DURUMU": "CRUSH SENDORMU ÇYB YATIŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 706,
+    "girisTarihi": "6.02.2023 21:24:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİFNAZ ÇİL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 710,
+    "girisTarihi": "6.02.2023 23:11:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(MURAT) KİMLİKSİZ(ÇİÇEK)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 713,
+    "girisTarihi": "6.02.2023 23:18:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SADİYE ŞAŞMAZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 715,
+    "girisTarihi": "7.02.2023 02:47:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SAADET AYGÜN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "TRABZON",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 716,
+    "girisTarihi": "7.02.2023 00:10:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YUSUF GÜZEL",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 719,
+    "girisTarihi": "7.02.2023 02:56:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MİRAÇ) ACİL HASTA(KERSİKOĞLU)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 720,
+    "girisTarihi": "7.02.2023 03:07:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(BEYZA) ACİL HASTA(BOLAT)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 725,
+    "girisTarihi": "7.02.2023 08:18:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AHMET) ACİL HASTA(HADDAS)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 731,
+    "girisTarihi": "7.02.2023 07:40:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(KADIN ACİL HASTA(SURİYELİ",
+    "servisBakim": "KADIN DOĞUM SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 732,
+    "girisTarihi": "7.02.2023 07:49:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ENTÜBE EDİLEN ACİL HASTA(ERKEK",
+    "servisBakim": "GENEL YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 733,
+    "girisTarihi": "7.02.2023 08:10:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASAN İNTİZAMOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 737,
+    "girisTarihi": "7.02.2023 10:54:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BEKİR TEK",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 738,
+    "girisTarihi": "7.02.2023 12:09:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EDİM DAĞLIK",
+    "servisBakim": "ÇOCUK ENFEKSİYON HASTALIKLARI SERVİSİ 1",
+    "sevkGelis": "MARDİN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 748,
+    "girisTarihi": "7.02.2023 13:21:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FAES ABDULHAİ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 749,
+    "girisTarihi": "7.02.2023 13:03:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SUPHİ CANBOLAT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 751,
+    "girisTarihi": "6.02.2023 07:38:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZNUR KARATAŞOĞLU",
+    "servisBakim": "GENEL CERRAHİ ORGAN NAKLİ SERVİSİ",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 753,
+    "girisTarihi": "6.02.2023 13:50:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEMA BENDEN",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 764,
+    "girisTarihi": "6.02.2023 13:38:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GİZEM KÖKSAL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 765,
+    "girisTarihi": "6.02.2023 14:01:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (FATMA) ACİL HASTA(ALKAN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 768,
+    "girisTarihi": "6.02.2023 17:08:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MURAT BARUTCU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 769,
+    "girisTarihi": "6.02.2023 19:10:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAKAN KOÇAK",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 770,
+    "girisTarihi": "6.02.2023 20:11:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ İBRAHİM KİMLİKSİZ SAKA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "DURUMU": "İSKENDERUN SEVKLİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 773,
+    "girisTarihi": "6.02.2023 20:18:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TEKİN TOPAL",
+    "servisBakim": "DAHİLİYE SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 774,
+    "girisTarihi": "6.02.2023 18:39:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(FATMANUR) ACİL HASTA(KİRAZ)",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 775,
+    "girisTarihi": "6.02.2023 19:13:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "DİDEM SÖNMEZ",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 779,
+    "girisTarihi": "6.02.2023 23:28:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "OKAN SÖNMEZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 782,
+    "girisTarihi": "6.02.2023 11:56:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İREM AKDAŞ",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "DURUMU": "LOMBER FRA",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 786,
+    "girisTarihi": "6.02.2023 20:01:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "DURUMU": "sol tibia fibula şaft frk dolaşım takibi aç",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 788,
+    "girisTarihi": "6.02.2023 20:10:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZCAN EFE İZMİR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 793,
+    "girisTarihi": "6.02.2023 20:37:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SAFA GHANDOURA",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 795,
+    "girisTarihi": "6.02.2023 20:41:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YEMNA) ACİL HASTA(ABBUDE)",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 798,
+    "girisTarihi": "7.02.2023 03:16:40",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NAZ GİZEM YILMAZ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 800,
+    "girisTarihi": "7.02.2023 05:19:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(RUKİYE ACİL HASTA(SARIDAŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 809,
+    "girisTarihi": "7.02.2023 10:32:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NURAY AKDENİZ",
+    "servisBakim": "ARA YOĞUN BAKIM 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 819,
+    "girisTarihi": "6.02.2023 13:41:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SONGÜL SOLMAZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 821,
+    "girisTarihi": "6.02.2023 11:38:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA (ÖZGÜR ) ACİL HASTA (İŞÇİOĞLU)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 835,
+    "girisTarihi": "6.02.2023 14:18:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA AYŞE ACİL HASTA ONGUN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 837,
+    "girisTarihi": "6.02.2023 14:54:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ (BÜLENT ÇOBAN) KİMLİKSİZ 14.54",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 838,
+    "girisTarihi": "6.02.2023 16:49:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAZIM KONAÇ",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 841,
+    "girisTarihi": "6.02.2023 16:52:17",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(İBRAHİM16:51) KİMLİKSİZ(İBRAHİM)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 842,
+    "girisTarihi": "6.02.2023 16:56:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(AZRA 16:55) KİMLİKSİZ(AKTAŞ)",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 844,
+    "girisTarihi": "6.02.2023 18:35:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(FATMA) KİMLİKSİZ2(AÇIK)",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 845,
+    "girisTarihi": "6.02.2023 18:32:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET FUAT SAĞLAM",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 846,
+    "girisTarihi": "6.02.2023 19:11:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET NURİ DAVUT",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 847,
+    "girisTarihi": "6.02.2023 19:17:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ HATİCE KİMLİKSİZ BARUCU",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 848,
+    "girisTarihi": "6.02.2023 16:16:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİF ECE TİMOÇİN",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "DURUMU": "hasta degerle",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 851,
+    "girisTarihi": "6.02.2023 19:34:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ASUDE TUFAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 852,
+    "girisTarihi": "6.02.2023 19:42:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET TEMİM BAYIRLI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 853,
+    "girisTarihi": "6.02.2023 20:32:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SELMA DURUSOY",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "DURUMU": "CEYHAN SEV",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 854,
+    "girisTarihi": "6.02.2023 20:55:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERVE KARATAŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 858,
+    "girisTarihi": "6.02.2023 18:20:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(MEHMET) KİMLİKSİZ2(TÜMER)",
+    "servisBakim": "GENEL YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 860,
+    "girisTarihi": "6.02.2023 19:16:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FATMA CANBULAT",
+    "servisBakim": "ÜROLOJİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 866,
+    "girisTarihi": "6.02.2023 17:38:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(TAYFUR) ACİL HASTA(GÖNÇ)",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 869,
+    "girisTarihi": "6.02.2023 20:37:53",
+    "hastane": "Adana Şehir EAH",
+    "isim": "METİN HARKUT",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 871,
+    "girisTarihi": "6.02.2023 20:45:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YAKUP DAŞDEMİR",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "İSTANBUL",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 873,
+    "girisTarihi": "6.02.2023 21:02:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ABİR KADDUR",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 874,
+    "girisTarihi": "6.02.2023 21:15:17",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NEZİHA YÜCE",
+    "servisBakim": "KORONER YOĞUN BAKIM 2",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 881,
+    "girisTarihi": "6.02.2023 23:49:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SÜLEYMAN AKBULUT",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 888,
+    "girisTarihi": "7.02.2023 00:28:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZDEN KİRİŞCİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 890,
+    "girisTarihi": "6.02.2023 22:26:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEYNEP VARLI",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 891,
+    "girisTarihi": "6.02.2023 23:04:31",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZCAN DOĞRU",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 894,
+    "girisTarihi": "6.02.2023 17:57:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NUREL KARAGÖL",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 895,
+    "girisTarihi": "6.02.2023 18:08:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NAZMİ SİMSAR",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 897,
+    "girisTarihi": "6.02.2023 23:23:21",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TAYİBE HİKMET ŞEKER",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 898,
+    "girisTarihi": "7.02.2023 02:05:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MELİS FATMA GÜMÜŞ",
+    "servisBakim": "ARA YOĞUN BAKIM 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 899,
+    "girisTarihi": "7.02.2023 07:47:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AHMET) ACİL HASTA(ABDULLAHHARAÇ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 901,
+    "girisTarihi": "7.02.2023 06:19:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HANİFİ ÇAK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 903,
+    "girisTarihi": "7.02.2023 06:05:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SAMİYE ATAHAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 908,
+    "girisTarihi": "7.02.2023 09:28:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SADIK MURAT ULUÇAY",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "ADIYAMAN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 909,
+    "girisTarihi": "7.02.2023 09:00:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTAAHMET ACİL HASTASEYİT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 910,
+    "girisTarihi": "7.02.2023 10:03:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA BEKİR ACİL HASTA BİLİNMİYOR",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 914,
+    "girisTarihi": "7.02.2023 10:21:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KEMAL ATEŞ",
+    "servisBakim": "KBB SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 926,
+    "girisTarihi": "7.02.2023 11:41:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMİNE TAŞÇI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 934,
+    "girisTarihi": "6.02.2023 10:31:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED VEDAT ŞENGÜL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 936,
+    "girisTarihi": "6.02.2023 11:56:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERYEM AKDAŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 938,
+    "girisTarihi": "6.02.2023 12:09:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CABBAR ÖZBEK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 942,
+    "girisTarihi": "6.02.2023 12:01:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÖKHAN EMRE İLKBAHAR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 956,
+    "girisTarihi": "6.02.2023 13:00:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERDAL YAVUZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 960,
+    "girisTarihi": "6.02.2023 12:38:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ( AHMET ) ACİL HASTA ( SARP)",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 967,
+    "girisTarihi": "6.02.2023 19:07:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(HAMZA) KİMLİKSİZ(MEHTDİ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 972,
+    "girisTarihi": "6.02.2023 19:58:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TUĞBA SAK",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 973,
+    "girisTarihi": "6.02.2023 17:26:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 975,
+    "girisTarihi": "6.02.2023 20:42:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEDA NUR GÖK",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 978,
+    "girisTarihi": "6.02.2023 21:55:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA TÜRKMEN",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 979,
+    "girisTarihi": "6.02.2023 20:56:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CEMİLE HARNUPOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 985,
+    "girisTarihi": "6.02.2023 17:32:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NEDİRE GÖRÜROĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 991,
+    "girisTarihi": "6.02.2023 21:38:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(GÜLSEREN) KİMLİKSİZ(KURKMAZ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 992,
+    "girisTarihi": "6.02.2023 23:28:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEREN TUNTAY",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 995,
+    "girisTarihi": "7.02.2023 00:29:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MUHAMMED ENES) ACİL HASTA(DOKUZO",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 996,
+    "girisTarihi": "7.02.2023 01:18:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEYNEP ÖKTEM",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 3",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 997,
+    "girisTarihi": "6.02.2023 22:30:42",
+    "hastane": "Adana Şehir EAH",
+    "isim": "DAMLA KÖSE",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 998,
+    "girisTarihi": "7.02.2023 02:24:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "DİLBER KÖRKÜ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 999,
+    "girisTarihi": "7.02.2023 06:37:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AHMET) ACİL HASTA(ZERZU)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1000,
+    "girisTarihi": "7.02.2023 04:27:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YAHYA) ACİL HASTA(KAFEN MAVİ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1001,
+    "girisTarihi": "7.02.2023 00:33:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA 00:32 ACİL HASTA 00:32",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1002,
+    "girisTarihi": "7.02.2023 03:43:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MUHAMMED ACİL HASTA(SÜLEYMAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1009,
+    "girisTarihi": "7.02.2023 05:50:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASAN HAKAN PINAR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1010,
+    "girisTarihi": "7.02.2023 06:08:40",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YAHYA) ACİL HASTA",
+    "servisBakim": "GENEL CERRAHİ SERVİSİ 3",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1015,
+    "girisTarihi": "7.02.2023 01:04:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA SOYLU",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "DURUMU": "hasta ve yakınlarına yatış önerildi hast",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1018,
+    "girisTarihi": "7.02.2023 04:23:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ZEYNEP EYLÜL) ACİL HASTA(KOÇ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1019,
+    "girisTarihi": "7.02.2023 08:37:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1 HUMAM KİMLİKSİZ1 EL DERVİŞ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1021,
+    "girisTarihi": "7.02.2023 09:00:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED MUSTAFA PARLAR",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1025,
+    "girisTarihi": "7.02.2023 09:52:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MÜNİRE) ACİL HASTA(ŞEN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1037,
+    "girisTarihi": "7.02.2023 11:44:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA DURDU ACİL HASTA",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1060,
+    "girisTarihi": "6.02.2023 08:33:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "UĞUR AYDINLIOĞLU",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1062,
+    "girisTarihi": "6.02.2023 12:38:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(ROBİN MUSTAFA) KİMLİKSİZ1(ÖZCAN)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "DURUMU": "femur frx sebebiyle ortopedi tarafında",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1070,
+    "girisTarihi": "6.02.2023 15:39:53",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSLAM ÖĞÜT",
+    "servisBakim": "PLASTİK CERRAHİ SERVİSİ",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1071,
+    "girisTarihi": "6.02.2023 16:00:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ALİ) ACİL HASTA(DEMİR)",
+    "servisBakim": "CERRAHİ YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1078,
+    "girisTarihi": "6.02.2023 16:29:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YAREN KESİCİ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1080,
+    "girisTarihi": "6.02.2023 18:00:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ENDER GÜL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1081,
+    "girisTarihi": "6.02.2023 17:57:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(FATMA) KİMLİKSİZ(COŞKUN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1082,
+    "girisTarihi": "6.02.2023 18:05:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET NAZİK",
+    "servisBakim": "PLASTİK CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1084,
+    "girisTarihi": "6.02.2023 18:57:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERDAL YILMAZ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1085,
+    "girisTarihi": "6.02.2023 18:03:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(DARİN) ACİL HASTA(EL ÖMER)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1088,
+    "girisTarihi": "6.02.2023 19:05:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA NURAY ACİL HASTA KARACA",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1089,
+    "girisTarihi": "6.02.2023 17:42:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BEKİR DOĞRU",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1091,
+    "girisTarihi": "6.02.2023 19:48:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ADİL) ACİL HASTA(KÖSE)",
+    "servisBakim": "GENEL YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1101,
+    "girisTarihi": "6.02.2023 20:13:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSMAİL HOROZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1104,
+    "girisTarihi": "6.02.2023 22:48:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSMAİL KARAKUŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1105,
+    "girisTarihi": "6.02.2023 22:49:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SELİN BULĞURCU",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1113,
+    "girisTarihi": "6.02.2023 23:41:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ(NURAY ERDOĞAN) KİMLİKSİZ(ÇAKIR)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1121,
+    "girisTarihi": "6.02.2023 17:33:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ENDER GÖRÜROĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1125,
+    "girisTarihi": "6.02.2023 13:36:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HİRA ERASLAN",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1130,
+    "girisTarihi": "6.02.2023 13:55:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ AZRA YURTBEKLER",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1136,
+    "girisTarihi": "7.02.2023 00:23:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "PERİHAN TAŞDEMİR",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "AĞRI",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1141,
+    "girisTarihi": "6.02.2023 21:04:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSA DENİZ",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1145,
+    "girisTarihi": "6.02.2023 21:30:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(FATMA) ACİL HASTA(TEMİZKAN)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1148,
+    "girisTarihi": "6.02.2023 22:02:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(NURELLE) KİMLİKSİZ( BEBEK)",
+    "servisBakim": "YENİ DOĞAN YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1149,
+    "girisTarihi": "7.02.2023 01:10:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NURGÜL HANIM GÜNEŞ",
+    "servisBakim": "KALP VE DAMAR CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1150,
+    "girisTarihi": "7.02.2023 01:08:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ZET ) ACİL HASTA(EL HALİL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1151,
+    "girisTarihi": "6.02.2023 23:50:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YAVUZ MERT ÇAKIR",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1152,
+    "girisTarihi": "6.02.2023 23:54:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA UMRAN ACİL HASTA",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1157,
+    "girisTarihi": "7.02.2023 03:16:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AFRA ACİL HASTA(KADDU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1162,
+    "girisTarihi": "6.02.2023 22:05:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYŞE ÖRER",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1164,
+    "girisTarihi": "7.02.2023 08:02:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AİŞE EL MUSTAFA",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1166,
+    "girisTarihi": "7.02.2023 04:27:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET UĞUR MISIRLI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1170,
+    "girisTarihi": "7.02.2023 07:17:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEYMA SARIÇİÇEK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "NİĞDE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1171,
+    "girisTarihi": "7.02.2023 07:33:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TAHSİN ÖZTÜRK",
+    "servisBakim": "ARA YOĞUN BAKIM 4",
+    "sevkGelis": "MALATYA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1173,
+    "girisTarihi": "7.02.2023 08:42:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEMİH FURKAN BİLGİLİ",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1175,
+    "girisTarihi": "7.02.2023 09:37:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AZRA DURU MALAÇ",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1176,
+    "girisTarihi": "7.02.2023 10:24:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HAVVA KIZĞIN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "DURUMU": "ORTOPEDİ A",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1194,
+    "girisTarihi": "6.02.2023 12:49:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BERKAY HASANOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "SAKARYA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1199,
+    "girisTarihi": "6.02.2023 11:17:43",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA NESRA ACİL HASTA ŞABANOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1204,
+    "girisTarihi": "6.02.2023 14:01:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EREN ATEŞ",
+    "servisBakim": "KORONER YOĞUN BAKIM 1",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1210,
+    "girisTarihi": "6.02.2023 14:02:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ( NEBAHAT ) ACİL HASTA ( ÖZTÜRK )",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1211,
+    "girisTarihi": "6.02.2023 15:48:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(EYLÜL) KİMLİKSİZ(GÖÇMEN",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1213,
+    "girisTarihi": "6.02.2023 17:14:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TURGUT KARAGÖN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1214,
+    "girisTarihi": "6.02.2023 18:20:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ 1 AHMET SEFA ) KİMLİKSİZ 1 ( KARATELLİK )",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1215,
+    "girisTarihi": "6.02.2023 22:27:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEFİK ÇALIŞKAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1218,
+    "girisTarihi": "6.02.2023 21:48:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYDIN KONYALIOĞULLARI",
+    "servisBakim": "KORONER YOĞUN BAKIM 2",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1220,
+    "girisTarihi": "6.02.2023 20:43:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(AHMET MEMUN) ACİL HASTA(DERVİŞ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1221,
+    "girisTarihi": "6.02.2023 22:16:39",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TOLGA MAHRİZ KURT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1222,
+    "girisTarihi": "6.02.2023 20:30:48",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA ABBUDE",
+    "servisBakim": "GENEL CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1226,
+    "girisTarihi": "6.02.2023 22:07:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KENAN KETEN",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1228,
+    "girisTarihi": "6.02.2023 13:39:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİFE ŞAMLI",
+    "servisBakim": "NÖROLOJİ YOĞUN BAKIM",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1230,
+    "girisTarihi": "6.02.2023 17:03:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(SEDİ) KİMLİKSİZ(DAMİN)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1235,
+    "girisTarihi": "6.02.2023 19:56:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEMANUR SİVRİTEPE",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1237,
+    "girisTarihi": "6.02.2023 20:28:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FİGEN ÖNAL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1239,
+    "girisTarihi": "6.02.2023 20:36:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMED İSMET ŞEHNE",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1244,
+    "girisTarihi": "6.02.2023 17:49:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÜLER ALTUNOK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1247,
+    "girisTarihi": "6.02.2023 18:10:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(RAVAN) ACİL HASTA(SİNU)",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1249,
+    "girisTarihi": "6.02.2023 18:54:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUSTAFA YILDIZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1250,
+    "girisTarihi": "6.02.2023 19:06:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA NEŞİRE ACİL HASTA GÖKKAYA",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1252,
+    "girisTarihi": "6.02.2023 19:08:16",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HÜSEYİN GÖKKAYA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1265,
+    "girisTarihi": "6.02.2023 21:36:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "DURUMU": "zeynep ateş",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1266,
+    "girisTarihi": "6.02.2023 21:45:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NİMET ÇEMTAŞ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1270,
+    "girisTarihi": "7.02.2023 01:09:02",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İMDAT CEYHAN",
+    "servisBakim": "DAHİLİYE SERVİSİ 3",
+    "DURUMU": "henotoga çık",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1272,
+    "girisTarihi": "7.02.2023 06:37:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(FATMA) ACİL HASTA(ZELZU)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "DURUMU": "hasta degerlendırıldı . sol humerus pro",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1274,
+    "girisTarihi": "7.02.2023 06:09:23",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ELİF MİNA ACİL HASTA ÇELİK",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1275,
+    "girisTarihi": "7.02.2023 05:39:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(NİMET) ACİL HASTA(TAŞKIRAN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1276,
+    "girisTarihi": "7.02.2023 05:08:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ALİ) ACİL HASTA(ALTINÖZ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "DURUMU": "hasta degerlendırıldı . sol uylukta sıslık",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1277,
+    "girisTarihi": "7.02.2023 05:17:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "GÜLSEREN BUSE ÖZAYAR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1281,
+    "girisTarihi": "7.02.2023 00:26:54",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ABDULMECİT ACİL HASTA(HALLA",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1284,
+    "girisTarihi": "7.02.2023 08:43:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMET MERGEN",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1286,
+    "girisTarihi": "7.02.2023 04:19:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERKAN ÇAM",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1291,
+    "girisTarihi": "7.02.2023 08:11:32",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMİNE BARITÇİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1292,
+    "girisTarihi": "7.02.2023 08:28:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "LUJEYN YABANCI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1293,
+    "girisTarihi": "7.02.2023 08:52:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KUBİLAY ÖZER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1297,
+    "girisTarihi": "7.02.2023 10:12:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYHAN KARA",
+    "servisBakim": "KORONER YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1300,
+    "girisTarihi": "7.02.2023 10:20:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YASİN AYKIR",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "BURSA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1309,
+    "girisTarihi": "7.02.2023 11:30:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MAKBULE İPEK AKTAŞ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1322,
+    "girisTarihi": "6.02.2023 08:32:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KADİR BALTACI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1336,
+    "girisTarihi": "6.02.2023 15:41:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "GÖZ HASTALIKLARI SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1339,
+    "girisTarihi": "6.02.2023 16:58:57",
+    "hastane": "Adana Şehir EAH",
+    "isim": "VESİLE ŞAHİN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1340,
+    "girisTarihi": "6.02.2023 16:50:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(MEHMET) KİMLİKSİZ(DÖŞOĞLU 16:48)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1344,
+    "girisTarihi": "6.02.2023 17:22:59",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ABDULREZZAK) KİMLİKSİZ",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1346,
+    "girisTarihi": "6.02.2023 18:25:33",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İBRAHİM YILMAZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1347,
+    "girisTarihi": "6.02.2023 18:29:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASAN SONER HORŞİT",
+    "servisBakim": "ÜROLOJİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1348,
+    "girisTarihi": "6.02.2023 18:35:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(18:34) KİMLİKSİZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1350,
+    "girisTarihi": "6.02.2023 18:08:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(SAADET) KİMLİKSİZ(AĞRI)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1351,
+    "girisTarihi": "6.02.2023 16:58:27",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MAHMUT EL MAHMUT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "DURUMU": "hasta goruldu sağ femur subtorakente",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1352,
+    "girisTarihi": "6.02.2023 18:29:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1355,
+    "girisTarihi": "6.02.2023 20:02:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1356,
+    "girisTarihi": "6.02.2023 23:02:51",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FURKAN KUŞ",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1364,
+    "girisTarihi": "6.02.2023 21:45:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİF MİRZA",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1366,
+    "girisTarihi": "6.02.2023 22:14:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ORHAN GÖKKAYA",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1367,
+    "girisTarihi": "6.02.2023 22:15:28",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ERHAN POLAT",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1369,
+    "girisTarihi": "6.02.2023 22:29:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ALİ SAĞDIÇ",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1371,
+    "girisTarihi": "6.02.2023 22:40:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "YUSUF DOĞAN",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "GAZİANTEP",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1372,
+    "girisTarihi": "6.02.2023 14:01:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(ELİF İKRA) KİMLİKSİZ1(ÖZTÜRK)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1373,
+    "girisTarihi": "7.02.2023 00:27:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖZKAN KİRİŞCİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1374,
+    "girisTarihi": "6.02.2023 17:01:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(BERKAY 16:59 ) KİMLİKSİZ(DÖNMEZ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1376,
+    "girisTarihi": "6.02.2023 18:56:58",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SÜLEYMAN) ACİL HASTA(KUŞ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1380,
+    "girisTarihi": "7.02.2023 00:41:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ESRA KABAALİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1381,
+    "girisTarihi": "6.02.2023 19:31:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ELİF ) ACİL HASTA(ÖNAL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1391,
+    "girisTarihi": "7.02.2023 01:53:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ÜLGER) ACİL HASTA(ÇALGICI)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1392,
+    "girisTarihi": "7.02.2023 02:36:18",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA HANA ADNAN ACİL HASTA HAMMAM",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1393,
+    "girisTarihi": "6.02.2023 14:12:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(GÖKÇE LİNA) KİMLİKSİZ(ÇELİK)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1394,
+    "girisTarihi": "6.02.2023 06:07:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ORTUNÇ HAKAN ŞAKRAK",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1399,
+    "girisTarihi": "7.02.2023 08:17:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ZEYNEP TORTUK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1405,
+    "girisTarihi": "7.02.2023 08:54:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ALİ DİK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1408,
+    "girisTarihi": "7.02.2023 10:57:14",
+    "hastane": "Adana Şehir EAH",
+    "isim": "EMCED FECCİNİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1411,
+    "girisTarihi": "7.02.2023 10:59:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ ( HALİME) KİMLİKSİZ ( IHMEDİ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1427,
+    "girisTarihi": "7.02.2023 11:57:06",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET FATİH KÜÇÜK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1429,
+    "girisTarihi": "7.02.2023 13:02:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(REZEN) ACİL HASTA(AHMET)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1438,
+    "girisTarihi": "6.02.2023 14:49:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ MİTAT TUNA KİMLİKSİZ (ŞANDA)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1439,
+    "girisTarihi": "6.02.2023 13:50:09",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ACİL HASTA",
+    "servisBakim": "YENİ DOĞAN YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1443,
+    "girisTarihi": "6.02.2023 15:41:17",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÖNDER KILIÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1445,
+    "girisTarihi": "6.02.2023 13:35:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSZİ1(ELİF YAĞMUR) KİMLİKSİZ(YAKAR)",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1446,
+    "girisTarihi": "6.02.2023 16:42:10",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MEHMET GENÇOĞLU",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1447,
+    "girisTarihi": "6.02.2023 15:59:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HÜSEYİN ŞİBLİ",
+    "servisBakim": "GENEL YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1448,
+    "girisTarihi": "6.02.2023 19:32:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA  ( SABAH) ACİL HASTA (CAVAİŞ)",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1449,
+    "girisTarihi": "6.02.2023 18:55:46",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SELMA BOLAT",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1451,
+    "girisTarihi": "6.02.2023 20:20:26",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ARDA TOPAL",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1452,
+    "girisTarihi": "6.02.2023 20:46:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ZEY ) ACİL HASTA(MISIRLI)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1453,
+    "girisTarihi": "6.02.2023 18:20:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FARUK KANMAZ",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1454,
+    "girisTarihi": "6.02.2023 19:42:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ÜLKER KILIÇ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1455,
+    "girisTarihi": "6.02.2023 19:09:44",
+    "hastane": "Adana Şehir EAH",
+    "isim": "HASAN ÇOBAN",
+    "servisBakim": "DAHİLİYE SERVİSİ 4",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1456,
+    "girisTarihi": "6.02.2023 06:59:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İREM USKANER",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "DURUMU": "hasta ambula",
+    "sevkGelis": "ADANA",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1457,
+    "girisTarihi": "6.02.2023 21:31:53",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ 1 ( MUNA) KİMLİKSİZ 1 ( EL MUHAMMED )",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1461,
+    "girisTarihi": "6.02.2023 22:02:29",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SULTAN DAL",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1463,
+    "girisTarihi": "6.02.2023 22:16:17",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEREF BOLAT",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "KAHRAMANMARAŞ",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1464,
+    "girisTarihi": "6.02.2023 22:38:03",
+    "hastane": "Adana Şehir EAH",
+    "isim": "NURULLAH ÖZBEK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1465,
+    "girisTarihi": "6.02.2023 22:42:45",
+    "hastane": "Adana Şehir EAH",
+    "isim": "TÜLAY BABAOĞLAN",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "OSMANİYE",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1474,
+    "girisTarihi": "6.02.2023 15:31:25",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(İBRAHİM) ACİL HASTA(EDVAR)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1475,
+    "girisTarihi": "7.02.2023 00:41:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA CEYDA ACİL HASTA PARLAK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1476,
+    "girisTarihi": "6.02.2023 21:44:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA()KAMİL) ACİL HASTA(SÖNMEZ)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1478,
+    "girisTarihi": "7.02.2023 01:30:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "PAKİZE REYYAN GÖKTAŞ",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1481,
+    "girisTarihi": "7.02.2023 01:35:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(OSMAN) ACİL HASTA(ŞEKERCİ)",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "DURUMU": "sol uyluk lateralde 10 cm cilt cilt altı ke",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1483,
+    "girisTarihi": "7.02.2023 01:12:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA ( MURAT  ) ACİL HASTA ( ACEMOĞLU)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1485,
+    "girisTarihi": "6.02.2023 23:16:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYŞE KAYA",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1491,
+    "girisTarihi": "7.02.2023 04:39:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEDA ÖRDEK",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1493,
+    "girisTarihi": "7.02.2023 06:12:01",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞENEL SARI",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1494,
+    "girisTarihi": "7.02.2023 08:41:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FİDAN DÖNMEZ",
+    "servisBakim": "DOĞUMHANE",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1501,
+    "girisTarihi": "7.02.2023 06:41:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MUHAMMET KAMİL GÖKTAŞ",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1504,
+    "girisTarihi": "7.02.2023 00:08:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SELAHATTİN İNCE",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1506,
+    "girisTarihi": "7.02.2023 10:11:30",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CUMALİ KÜREÇ",
+    "servisBakim": "DAHİLİYE SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1508,
+    "girisTarihi": "7.02.2023 09:36:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "RAHŞAN DÖNMEZ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1509,
+    "girisTarihi": "7.02.2023 09:56:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SİNEM CANTEMUR",
+    "servisBakim": "ORTOPEDİ SERVİSİ 3",
+    "sevkGelis": "ERZİNCAN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1512,
+    "girisTarihi": "7.02.2023 11:50:50",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(MEHMET) KİMLİKSİZ(ÖZBEY)",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1514,
+    "girisTarihi": "6.02.2023 23:18:31",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ(KARAHAN) KİMLİKSİZ(BİLSE)",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1527,
+    "girisTarihi": "6.02.2023 13:39:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİFE ŞAMLI",
+    "servisBakim": "NÖROLOJİ YOĞUN BAKIM",
+    "sevkGelis": "ADANA",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1530,
+    "girisTarihi": "6.02.2023 11:13:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MOHAMAD ALSHAMIYAH",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 1",
+    "DURUMU": "ARTER KESİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1534,
+    "girisTarihi": "6.02.2023 14:16:00",
+    "hastane": "Adana Şehir EAH",
+    "isim": "KİMLİKSİZ1(14:14) KİMLİKSİZ1(DEPREM)",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1535,
+    "girisTarihi": "6.02.2023 08:07:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "İSİMSİZ (EDİZ) KİMLİKSİZ 08.06",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1537,
+    "girisTarihi": "6.02.2023 15:36:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(SUNA) ACİL HASTA(TELEME)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1538,
+    "girisTarihi": "6.02.2023 15:52:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTAFATMA ACİL HASTA SAYAR",
+    "servisBakim": "GÖZ HASTALIKLARI SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1547,
+    "girisTarihi": "6.02.2023 18:27:38",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BİLGE SÖNMEZ",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1548,
+    "girisTarihi": "6.02.2023 15:46:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "RABİA ZİTTO",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1551,
+    "girisTarihi": "6.02.2023 22:50:04",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SUNDAR MENGİ",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1552,
+    "girisTarihi": "6.02.2023 19:15:34",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ELİF SEÇKİN KARANFİL",
+    "servisBakim": "GENEL CERRAHİ YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1554,
+    "girisTarihi": "6.02.2023 21:14:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEMİR ÇEKER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1565,
+    "girisTarihi": "6.02.2023 22:01:41",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BELİZ ZİYADE AKBAŞ",
+    "servisBakim": "DAHİLİYE SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1573,
+    "girisTarihi": "6.02.2023 19:12:19",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SEHER SAHİLLİOĞLU",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1574,
+    "girisTarihi": "6.02.2023 15:45:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MENFİYE ZİTTO",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1582,
+    "girisTarihi": "6.02.2023 21:52:24",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYŞE SALİMOĞLU",
+    "servisBakim": "ÇOCUK YOĞUN BAKIM 2",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1583,
+    "girisTarihi": "6.02.2023 21:56:36",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(FATMA) ACİL HASTA(KARAHASAN)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1584,
+    "girisTarihi": "6.02.2023 21:57:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ŞEVVAL GEZMEN",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 2",
+    "DURUMU": "hasta degerlendırıldı . sağ ust ekstremı",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1585,
+    "girisTarihi": "6.02.2023 22:03:56",
+    "hastane": "Adana Şehir EAH",
+    "isim": "VATAN GAZAL",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1586,
+    "girisTarihi": "6.02.2023 22:49:05",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AZZETTİN BAL",
+    "servisBakim": "ÇOCUK CERRAHİ SERVİSİ 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1587,
+    "girisTarihi": "6.02.2023 22:01:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ZEYNEP) ACİL HASTA(TÜL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1588,
+    "girisTarihi": "6.02.2023 22:52:37",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(YAHYA) ACİL HASTA(AKBALIK)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1592,
+    "girisTarihi": "6.02.2023 22:38:35",
+    "hastane": "Adana Şehir EAH",
+    "isim": "CELİLE AKKAYA",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1593,
+    "girisTarihi": "6.02.2023 22:43:47",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(CANSEL) ACİL HASTA(SARIGÜL)",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1601,
+    "girisTarihi": "7.02.2023 01:24:13",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ARDA) ACİL HASTA(ÇİLLER)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1603,
+    "girisTarihi": "7.02.2023 00:48:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SAMET PİRİNÇ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "ADIYAMAN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1604,
+    "girisTarihi": "7.02.2023 00:48:52",
+    "hastane": "Adana Şehir EAH",
+    "isim": "SAMET PİRİNÇ",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 6",
+    "sevkGelis": "ADIYAMAN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1605,
+    "girisTarihi": "7.02.2023 02:50:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "RİFAT GÜNER",
+    "servisBakim": "ANESTEZİ VE REANİMASYON YOĞUN BAKIM 1",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1607,
+    "girisTarihi": "7.02.2023 04:34:49",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MÜRGEN KORKMAZ",
+    "servisBakim": "BEYİN CER. YOĞUN BAKIM 2",
+    "DURUMU": "paac grafisi a",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1608,
+    "girisTarihi": "6.02.2023 19:50:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MERYEM AY",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1610,
+    "girisTarihi": "7.02.2023 06:00:55",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(MEHMET) ACİL HASTA(AYDIÇ)",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 4",
+    "DURUMU": "hasta acilde afet şartlarında değerlend",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1612,
+    "girisTarihi": "6.02.2023 21:45:07",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(İSLAM) ACİL HASTA",
+    "servisBakim": "ÇOCUK HASTALIKLARI SERVİSİ 7",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1614,
+    "girisTarihi": "7.02.2023 02:43:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "MAHMUT GAZİ OLUR",
+    "servisBakim": "BEYİN CERRAHİ SERVİSİ 1",
+    "sevkGelis": "ADIYAMAN",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1617,
+    "girisTarihi": "7.02.2023 03:48:11",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ACİL HASTA(ŞERİA ACİL HASTA(DELAK",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 1",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1618,
+    "girisTarihi": "7.02.2023 03:46:08",
+    "hastane": "Adana Şehir EAH",
+    "isim": "BERİL MUTLUER",
+    "servisBakim": "GÖĞÜS CERRAHİ SERVİSİ",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1621,
+    "girisTarihi": "7.02.2023 07:53:20",
+    "hastane": "Adana Şehir EAH",
+    "isim": "ABDULHEY BEYDAK",
+    "servisBakim": "ORTOPEDİ SERVİSİ 1",
+    "gelis": "112 AMBULANSI"
+  },
+  {
+    "Numara": 1622,
+    "girisTarihi": "7.02.2023 04:31:12",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AYFER KARAVER",
+    "servisBakim": "ORTOPEDİ SERVİSİ 2",
+    "sevkGelis": "HATAY",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1626,
+    "girisTarihi": "7.02.2023 04:53:22",
+    "hastane": "Adana Şehir EAH",
+    "isim": "AHMED TABBUNİ",
+    "servisBakim": "DAHİLİ YOĞUN BAKIM 2",
+    "gelis": "Ayakta Geldi(Yürüyerek)"
+  },
+  {
+    "Numara": 1629,
+    "girisTarihi": "7.02.2023 04:59:15",
+    "hastane": "Adana Şehir EAH",
+    "isim": "FATİH TEMİZKAN",
+    "servisBakim": "KVC YOĞUN BAKIM",
+    "sevkGelis": "HATAY",
+    "gelis": "112 AMBULANSI"
+  }

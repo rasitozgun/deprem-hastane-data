@@ -2,7 +2,7 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 import f from "./data/data.json";
 import ReactPaginate from "react-paginate";
-import { Link } from "react-router-dom";
+import Navbar from "./components/Navbar";
 
 function App() {
   const [items, setItem] = useState([]);
@@ -42,33 +42,7 @@ function App() {
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <button
-          className="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
-            <li className="nav-item active">
-              <Link className="nav-link" to="/">
-                Mersin
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/kayseriPage">
-                Kayseri
-              </Link>
-            </li>
-          </ul>
-        </div>
-      </nav>
+      <Navbar />
       <h1 className="h1"> Mersin Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
@@ -96,7 +70,10 @@ function App() {
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={"text-center" + (d["ht"] === 1 ? " table-danger" : "")}>
+            <tr
+              key={d.Sno}
+              className={"text-center" + (d["ht"] === 1 ? " table-danger" : "")}
+            >
               <th scope="row">{d["sira"]}</th>
               <td>{d["isim"]}</td>
               <td>{d["yas"]}</td>
