@@ -92,7 +92,7 @@ function App() {
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={"text-center"}>
+            <tr key={d.Sno} className={"text-center" + (d["ht"] === 1 ? " table-danger" : "")}>
               <th scope="row">{d["sira"]}</th>
               <td>{d["isim"]}</td>
               <td>{d["yas"]}</td>
