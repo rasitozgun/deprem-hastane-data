@@ -73,11 +73,13 @@ function App() {
               <td>{d["isim"]}</td>
               <td>{d["yas"]}</td>
               <td>{d["yer"]}</td>
-              {d["ht"] ? (
-                <td>Hayati tehlike var</td>
-              ) : (
-                <td>Hayati tehlike yok</td>
-              )}
+              {
+                (d["ht"] = 1 ? (
+                  <td>Hayati tehlike var</td>
+                ) : (
+                  (d["ht"] = 0 ? <td>Hayati tehlike yok</td> : <td></td>)
+                ))
+              }
               <td>{d["detay"]}</td>
             </tr>
           ))}
