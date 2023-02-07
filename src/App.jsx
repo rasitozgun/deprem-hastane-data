@@ -31,11 +31,6 @@ function App() {
         item["isim"].toLowerCase().includes(e.target.value.toLowerCase())
       );
       setItem(filterResult);
-    } else if (regex.test(e.target.value)) {
-      const filterResult = searchItem.filter((item) =>
-        item["yer"].toLowerCase().includes(e.target.value.toLowerCase())
-      );
-      setItem(filterResult);
     }
     setFilterItem(e.target.value);
   };
