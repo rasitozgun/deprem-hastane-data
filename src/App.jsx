@@ -8,7 +8,7 @@ function App() {
   const [searchItem, setSearchItem] = useState([]);
   const [filterItem, setFilterItem] = useState("");
   const [currentItemPage, setCurrentItemPage] = useState(1);
-  const postItemPerPage = 30;
+  const postItemPerPage = 120;
 
   const regex = /[a-z]/g;
 
@@ -76,7 +76,7 @@ function App() {
               {d["ht"] ? (
                 <td>Hayati tehlike var</td>
               ) : (
-                <td>Hayati tehklike yok</td>
+                <td>Hayati tehlike yok</td>
               )}
               <td>{d["detay"]}</td>
             </tr>
