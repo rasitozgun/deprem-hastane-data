@@ -4,12 +4,7 @@ import "./index.css";
 import App from "./App";
 import KayseriPage from "./pages/KayseriPage";
 import reportWebVitals from "./reportWebVitals";
-import {
-  createBrowserRouter,
-  createRoutesFromElements,
-  Route,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const router = createBrowserRouter([
   {
