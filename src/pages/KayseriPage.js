@@ -57,10 +57,14 @@ function KayseriPage() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item active">
-              <Link to="/">Mersin</Link>
+              <Link className="nav-link" to="/">
+                Mersin
+              </Link>
             </li>
             <li className="nav-item">
-              <Link to="/kayseriPage">Kayseri</Link>
+              <Link className="nav-link" to="/kayseriPage">
+                Kayseri
+              </Link>
             </li>
           </ul>
         </div>
