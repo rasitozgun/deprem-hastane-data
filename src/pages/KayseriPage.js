@@ -11,7 +11,7 @@ function KayseriPage() {
   const [searchItem, setSearchItem] = useState([]);
   //filter item arama kutusundaki metni tutuyor
   const [filterIsimItem, setFilterIsimItem] = useState("");
-  
+
   const [filterYerItem, setFilterYerItem] = useState("");
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
@@ -34,7 +34,9 @@ function KayseriPage() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-      item["isim"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["isim"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }
@@ -45,7 +47,9 @@ function KayseriPage() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-      item["geldigiYer"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["geldigiYer"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }

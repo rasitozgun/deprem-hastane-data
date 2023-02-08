@@ -29,7 +29,9 @@ function App() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = searchItem.filter((item) =>
-        item["isim"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["isim"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }

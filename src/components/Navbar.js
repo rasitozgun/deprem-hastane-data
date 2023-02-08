@@ -32,6 +32,11 @@ const Navbar = () => {
               Adana
             </Link>
           </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/ankaraPage">
+              Ankara
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>

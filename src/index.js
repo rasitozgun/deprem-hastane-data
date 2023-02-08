@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import KayseriPage from "./pages/KayseriPage";
 import AdanaPage from "./pages/AdanaPage";
+import AnkaraPage from "./pages/AnkaraPage";
 import reportWebVitals from "./reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: "adanaPage",
     element: <AdanaPage />,
+  },
+  {
+    path: "ankaraPage",
+    element: <AnkaraPage />,
   },
 ]);
 
