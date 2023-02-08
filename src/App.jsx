@@ -1,7 +1,6 @@
-import './App.css';
-import React, { useState, useEffect } from 'react';
-import NavbarSite from './components/Navbar';
-import { Link } from 'react-router-dom';
+import "./App.css";
+import NavbarSite from "./components/Navbar";
+import { Link } from "react-router-dom";
 
 function App() {
   return (
