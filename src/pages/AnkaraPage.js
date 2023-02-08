@@ -1,10 +1,10 @@
 import "../App.css";
 import React, { useState, useEffect } from "react";
-import g from "../data/adanadata.json";
+import g from "../data/ankaradata.json";
 import ReactPaginate from "react-paginate";
 import Navbar from "../components/Navbar";
 
-function KayseriPage() {
+function AnkaraPage() {
   const [items, setItem] = useState([]);
   const [searchItem, setSearchItem] = useState([]);
   const [filterItem, setFilterItem] = useState("");
@@ -46,7 +46,10 @@ function KayseriPage() {
     <div>
       <Navbar />
 
-      <h1 className="h1"> Adana Şehir Hastanesine Getirilen Kişiler</h1>
+      <h1 className="h1">
+        {" "}
+        Ankara Hastanelerine Getirilen Kişiler 7 Şubat 22.50
+      </h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
@@ -63,23 +66,29 @@ function KayseriPage() {
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
           <tr className={"text-center"}>
-            <th scope="col">Numara</th>
+            <th scope="col">Sıra</th>
             <th scope="col">İsim</th>
             <th scope="col">Sevk Geldiği Yer</th>
             <th scope="col">Hastane</th>
-            <th scope="col">Kayıt Tarihi</th>
-            <th scope="col">Servis ve Yoğun Bakım</th>
+            <th scope="col">Cinsiyet</th>
+            <th scope="col">Servis</th>
+            <th scope="col">Yoğun bakım</th>
           </tr>
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={"text-center"}>
-              <th scope="row">{d["Numara"]}</th>
+            <tr key={d["sira"]} className={"text-center"}>
+              <th scope="row">{d["sira"]}</th>
               <td>{d["isim"]}</td>
-              <td>{d["sevkGelis"]}</td>
+              <td>{d["yer"]}</td>
               <td>{d["hastane"]}</td>
-              <td>{d["girisTarihi"]}</td>
-              <td>{d["servisBakim"]}</td>
+              <td>{d["cinsiyet"]}</td>
+              {d["servis"] === null ? <td></td> : <td>{d["servis"]}</td>}
+              {d["yogunBakim"] === null ? (
+                <td></td>
+              ) : (
+                <td>{d["yogunBakim"]}</td>
+              )}
             </tr>
           ))}
         </tbody>
@@ -108,4 +117,4 @@ function KayseriPage() {
   );
 }
 
-export default KayseriPage;
+export default AnkaraPage;

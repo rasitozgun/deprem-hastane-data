@@ -1,8 +1,8 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
-import f from "./data/data.json";
+import f from "./data/mersindata.json";
 import ReactPaginate from "react-paginate";
-import Navbar from "./components/Navbar";
+import NavbarSite from "./components/Navbar";
 
 function App() {
   const [items, setItem] = useState([]);
@@ -29,7 +29,9 @@ function App() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = searchItem.filter((item) =>
-        item["isim"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["isim"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }
@@ -42,7 +44,7 @@ function App() {
 
   return (
     <div>
-      <Navbar />
+      <NavbarSite />
       <h1 className="h1"> Mersin Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">

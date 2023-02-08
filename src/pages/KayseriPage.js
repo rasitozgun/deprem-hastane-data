@@ -2,7 +2,7 @@ import "../App.css";
 import React, { useState, useEffect } from "react";
 import g from "../data/kayseridata.json";
 import ReactPaginate from "react-paginate";
-import Navbar from "../components/Navbar";
+import NavbarSite from "../components/Navbar";
 
 function KayseriPage() {
   //gösterilecek filtrelenen veri
@@ -33,7 +33,9 @@ function KayseriPage() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-      item["isim"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["isim"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }
@@ -44,7 +46,9 @@ function KayseriPage() {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-      item["geldigiYer"].toLocaleLowerCase('tr-TR').includes(e.target.value.toLocaleLowerCase('tr-TR'))
+        item["geldigiYer"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }
@@ -57,7 +61,7 @@ function KayseriPage() {
 
   return (
     <div>
-      <Navbar />
+      <NavbarSite />
       <h1 className="h1"> Kayseri Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
