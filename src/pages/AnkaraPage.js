@@ -46,7 +46,10 @@ function AnkaraPage() {
     <div>
       <Navbar />
 
-      <h1 className="h1"> Ankara Hastanelerine Getirilen Kişiler</h1>
+      <h1 className="h1">
+        {" "}
+        Ankara Hastanelerine Getirilen Kişiler 7 Şubat 22.50
+      </h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
