@@ -74,6 +74,7 @@ function KayseriPage() {
             className={"form-control justify-content-center"}
             placeholder="İsim Aratınız"
           />
+          <br />
           <input
             type="search"
             value={filterYerItem}

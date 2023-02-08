@@ -6,8 +6,12 @@ import Navbar from "../components/Navbar";
 
 function AnkaraPage() {
   const [items, setItem] = useState([]);
+  //arama yapılacak veriyi tutuyor hiç değişmiyor
   const [searchItem, setSearchItem] = useState([]);
-  const [filterItem, setFilterItem] = useState("");
+  //filter item arama kutusundaki metni tutuyor
+  const [filterIsimItem, setFilterIsimItem] = useState("");
+
+  const [filterYerItem, setFilterYerItem] = useState("");
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
 
@@ -24,18 +28,31 @@ function AnkaraPage() {
 
   const totalPosts = Math.ceil(items.length / postItemPerPage);
 
-  const handleFilter = (e) => {
+  const handleIsimFilter = (e) => {
     if (e.target.value === "") {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
-      const filterResult = searchItem.filter((item) =>
+      const filterResult = items.filter((item) =>
         item["isim"]
           .toLocaleLowerCase("tr-TR")
           .includes(e.target.value.toLocaleLowerCase("tr-TR"))
       );
       setItem(filterResult);
     }
-    setFilterItem(e.target.value);
+    setFilterIsimItem(e.target.value);
+  };
+  const handleYerFilter = (e) => {
+    if (e.target.value === "") {
+      setItem(searchItem);
+    } else if (regex.test(e.target.value)) {
+      const filterResult = items.filter((item) =>
+        item["yer"]
+          .toLocaleLowerCase("tr-TR")
+          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
+      );
+      setItem(filterResult);
+    }
+    setFilterYerItem(e.target.value);
   };
 
   const handlePageClick = (data) => {
@@ -55,10 +72,18 @@ function AnkaraPage() {
         <div className="form-outline ">
           <input
             type="search"
-            value={filterItem}
-            onInput={(e) => handleFilter(e)}
+            value={filterIsimItem}
+            onInput={(e) => handleIsimFilter(e)}
             className={"form-control justify-content-center"}
-            placeholder="Search"
+            placeholder="İsim Aratınız"
+          />
+          <br />
+          <input
+            type="search"
+            value={filterYerItem}
+            onInput={(e) => handleYerFilter(e)}
+            className={"form-control justify-content-center"}
+            placeholder="Yer Bilgisi Aratınız"
           />
         </div>
       </div>
@@ -79,7 +104,7 @@ function AnkaraPage() {
           {currentPosts.map((d) => (
             <tr key={d["sira"]} className={"text-center"}>
               <th scope="row">{d["sira"]}</th>
-              <td>{d["isim"]}</td>
+              {d["isim"] === null ? <td></td> : <td>{d["isim"]}</td>}
               <td>{d["yer"]}</td>
               <td>{d["hastane"]}</td>
               <td>{d["cinsiyet"]}</td>
