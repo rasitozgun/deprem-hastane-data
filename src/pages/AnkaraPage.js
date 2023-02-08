@@ -6,16 +6,17 @@ import Navbar from "../components/Navbar";
 
 function AnkaraPage() {
   const [items, setItem] = useState([]);
-  const [searchItem, setSearchItem] = useState([]);
-  const [filterItem, setFilterItem] = useState("");
+  //arama yapılacak veriyi tutuyor hiç değişmiyor
+  //filter item arama kutusundaki metni tutuyor
+  const [filterIsimItem, setFilterIsimItem] = useState("");
+
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
 
-  const regex = /[a-z]/g;
+  // const regex = /[a-z]/g;
 
   useEffect(() => {
     setItem(g.data);
-    setSearchItem(g.data);
   }, []);
 
   const lastPostIndex = currentItemPage * postItemPerPage;
@@ -23,20 +24,6 @@ function AnkaraPage() {
   const currentPosts = items.slice(firstPostIndex, lastPostIndex);
 
   const totalPosts = Math.ceil(items.length / postItemPerPage);
-
-  const handleFilter = (e) => {
-    if (e.target.value === "") {
-      setItem(searchItem);
-    } else if (regex.test(e.target.value)) {
-      const filterResult = searchItem.filter((item) =>
-        item["isim"]
-          .toLocaleLowerCase("tr-TR")
-          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
-      );
-      setItem(filterResult);
-    }
-    setFilterItem(e.target.value);
-  };
 
   const handlePageClick = (data) => {
     setCurrentItemPage(data.selected + 1);
@@ -55,11 +42,12 @@ function AnkaraPage() {
         <div className="form-outline ">
           <input
             type="search"
-            value={filterItem}
-            onInput={(e) => handleFilter(e)}
+            value={filterIsimItem}
+            onInput={(e) => setFilterIsimItem(e.target.value)}
             className={"form-control justify-content-center"}
-            placeholder="Search"
+            placeholder="İsim Aratınız"
           />
+          <br />
         </div>
       </div>
       <br />
@@ -68,6 +56,7 @@ function AnkaraPage() {
           <tr className={"text-center"}>
             <th scope="col">Sıra</th>
             <th scope="col">İsim</th>
+            <th scope="col">Yaş</th>
             <th scope="col">Sevk Geldiği Yer</th>
             <th scope="col">Hastane</th>
             <th scope="col">Cinsiyet</th>
@@ -76,21 +65,28 @@ function AnkaraPage() {
           </tr>
         </thead>
         <tbody>
-          {currentPosts.map((d) => (
-            <tr key={d["sira"]} className={"text-center"}>
-              <th scope="row">{d["sira"]}</th>
-              <td>{d["isim"]}</td>
-              <td>{d["yer"]}</td>
-              <td>{d["hastane"]}</td>
-              <td>{d["cinsiyet"]}</td>
-              {d["servis"] === null ? <td></td> : <td>{d["servis"]}</td>}
-              {d["yogunBakim"] === null ? (
-                <td></td>
-              ) : (
-                <td>{d["yogunBakim"]}</td>
-              )}
-            </tr>
-          ))}
+          {currentPosts
+            .filter((item) => {
+              return filterIsimItem === ""
+                ? item
+                : item.isim.toLocaleLowerCase("tr-TR").includes(filterIsimItem);
+            })
+            .map((d) => (
+              <tr key={d["sira"]} className={"text-center"}>
+                <th scope="row">{d["sira"]}</th>
+                {d["isim"] === null ? <td></td> : <td>{d["isim"]}</td>}
+                {d["yas"] === null ? <td></td> : <td>{d["yas"]}</td>}
+                {d["yer"] === null ? <td></td> : <td>{d["yer"]}</td>}
+                <td>{d["hastane"]}</td>
+                <td>{d["cinsiyet"]}</td>
+                {d["servis"] === null ? <td></td> : <td>{d["servis"]}</td>}
+                {d["yogunBakim"] === null ? (
+                  <td></td>
+                ) : (
+                  <td>{d["yogunBakim"]}</td>
+                )}
+              </tr>
+            ))}
         </tbody>
       </table>
       <ReactPaginate

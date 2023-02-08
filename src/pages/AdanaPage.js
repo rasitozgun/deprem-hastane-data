@@ -53,7 +53,7 @@ function AdanaPage() {
           <input
             type="search"
             value={filterItem}
-            onInput={(e) => handleFilter(e)}
+            onChange={(e) => handleFilter(e)}
             className={'form-control justify-content-center'}
             placeholder="Search"
           />

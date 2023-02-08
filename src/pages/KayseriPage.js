@@ -1,8 +1,8 @@
-import "../App.css";
-import React, { useState, useEffect } from "react";
-import g from "../data/kayseridata.json";
-import ReactPaginate from "react-paginate";
-import NavbarSite from "../components/Navbar";
+import '../App.css';
+import React, { useState, useEffect } from 'react';
+import g from '../data/kayseridata.json';
+import ReactPaginate from 'react-paginate';
+import NavbarSite from '../components/Navbar';
 
 function KayseriPage() {
   //gösterilecek filtrelenen veri
@@ -10,8 +10,8 @@ function KayseriPage() {
   //arama yapılacak veriyi tutuyor hiç değişmiyor
   const [searchItem, setSearchItem] = useState([]);
   //filter item arama kutusundaki metni tutuyor
-  const [nameFilter, setNameFilter] = useState("");
-  const [placeFilter, setPlaceFilter] = useState("");
+  const [nameFilter, setNameFilter] = useState('');
+  const [placeFilter, setPlaceFilter] = useState('');
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
 
@@ -29,26 +29,26 @@ function KayseriPage() {
   const totalPosts = Math.ceil(items.length / postItemPerPage);
 
   const handleNameFilter = (e) => {
-    if (e.target.value === "") {
+    if (e.target.value === '') {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-        item["isim"]
-          .toLocaleLowerCase("tr-TR")
-          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
+        item['isim']
+          .toLocaleLowerCase('tr-TR')
+          .includes(e.target.value.toLocaleLowerCase('tr-TR'))
       );
       setItem(filterResult);
     }
     setNameFilter(e.target.value);
   };
   const handlePlaceFilter = (e) => {
-    if (e.target.value === "") {
+    if (e.target.value === '') {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = items.filter((item) =>
-        item["geldigiYer"]
-          .toLocaleLowerCase("tr-TR")
-          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
+        item['geldigiYer']
+          .toLocaleLowerCase('tr-TR')
+          .includes(e.target.value.toLocaleLowerCase('tr-TR'))
       );
       setItem(filterResult);
     }
@@ -69,15 +69,16 @@ function KayseriPage() {
           <input
             type="search"
             value={nameFilter}
-            onInput={(e) => handleNameFilter(e)}
-            className={"form-control justify-content-center"}
+            onChange={(e) => handleNameFilter(e)}
+            className={'form-control justify-content-center'}
             placeholder="İsim Aratınız"
           />
+          <br />
           <input
             type="search"
             value={placeFilter}
             onInput={(e) => handlePlaceFilter(e)}
-            className={"form-control justify-content-center"}
+            className={'form-control justify-content-center'}
             placeholder="Yer Bilgisi Aratınız"
           />
         </div>
@@ -85,7 +86,7 @@ function KayseriPage() {
       <br />
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
-          <tr className={"text-center"}>
+          <tr className={'text-center'}>
             <th scope="col">Giriş tarihi</th>
             <th scope="col">İsim</th>
             <th scope="col">Geldiği Yer</th>
@@ -96,36 +97,36 @@ function KayseriPage() {
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={"text-center"}>
-              <th scope="row">{d["girisTarihi"]}</th>
-              <td>{d["isim"]}</td>
-              <td>{d["geldigiYer"]}</td>
-              <td>{d["tani"]}</td>
-              <td>{d["birim"]}</td>
-              <td>{d["yatisYeri"]}</td>
+            <tr key={d.Sno} className={'text-center'}>
+              <th scope="row">{d['girisTarihi']}</th>
+              <td>{d['isim']}</td>
+              <td>{d['geldigiYer']}</td>
+              <td>{d['tani']}</td>
+              <td>{d['birim']}</td>
+              <td>{d['yatisYeri']}</td>
             </tr>
           ))}
         </tbody>
       </table>
       <ReactPaginate
-        previousLabel={"Previous"}
-        nextLabel={"Next"}
-        breakLabel={"..."}
+        previousLabel={'Previous'}
+        nextLabel={'Next'}
+        breakLabel={'...'}
         pageCount={totalPosts}
         marginPagesDisplayed={2}
         pageRangeDisplayed={2}
         onPageChange={handlePageClick}
-        containerClassName={"pagination justify-content-center"}
-        pageClassName={"page-item"}
-        pageLinkClassName={"page-link"}
-        previousClassName={"page-item"}
-        previousLinkClassName={"page-link"}
-        nextClassName={"page-item"}
-        nextLinkClassName={"page-link"}
-        breakClassName={"page-item"}
-        breakLinkClassName={"page-link"}
-        activeClassName={"active"}
-        activeLinkClassName={"page-link"}
+        containerClassName={'pagination justify-content-center'}
+        pageClassName={'page-item'}
+        pageLinkClassName={'page-link'}
+        previousClassName={'page-item'}
+        previousLinkClassName={'page-link'}
+        nextClassName={'page-item'}
+        nextLinkClassName={'page-link'}
+        breakClassName={'page-item'}
+        breakLinkClassName={'page-link'}
+        activeClassName={'active'}
+        activeLinkClassName={'page-link'}
       />
     </div>
   );

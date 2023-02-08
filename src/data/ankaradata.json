@@ -2,67 +2,67 @@
   "data": [
     {
       "sira": "1",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZEYNAL ABİDİN DELİCE",
       "cinsiyet": "ERKEK",
       "yas": "18",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T1 - 1A CERRAHİ yogunBakim "
+      "yogunBakim": "T1 - 1A CERRAHİ YOĞUN BAKIM "
     },
     {
       "sira": "2",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HOMA COSKUN2",
       "cinsiyet": "ERKEK",
       "yas": "62",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T3 - 1B GÖĞÜS CERRAHİSİ yogunBakim"
+      "yogunBakim": "T3 - 1B GÖĞÜS CERRAHİSİ YOĞUN BAKIM"
     },
     {
       "sira": "3",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DİLARA ERBAŞ",
       "cinsiyet": "KADIN",
       "yas": "23",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T1 - 1A CERRAHİ yogunBakim"
+      "yogunBakim": "T1 - 1A CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "4",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HASTA 4",
       "cinsiyet": "ERKEK",
       "yas": "15",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "5",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FİLİZ KARACA",
       "cinsiyet": "KADIN",
       "yas": "13",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "6",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HASTA 6",
       "cinsiyet": "KADIN",
       "yas": "60",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1B BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "7",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AHMET KAYA",
       "cinsiyet": "ERKEK",
       "yas": "28",
@@ -72,97 +72,97 @@
     },
     {
       "sira": "8",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KÜBRA TURAN",
       "cinsiyet": "KADIN",
       "yas": "26",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1A BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1A BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "9",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZEYNAL YUMUŞAK",
       "cinsiyet": "ERKEK",
       "yas": "48",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1A BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1A BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "10",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "YASEMİN REÇBER",
       "cinsiyet": "KADIN",
       "yas": "36",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T1 - 1A CERRAHİ yogunBakim"
+      "yogunBakim": "T1 - 1A CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "11",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET ALİ 11",
       "cinsiyet": "ERKEK",
       "yas": "5",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "12",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MASAL İKRA AYNA12",
       "cinsiyet": "ERKEK",
       "yas": "2",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "13",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SEVGÜL ÇALIŞ",
       "cinsiyet": "KADIN",
       "yas": "49",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2- 2A REANİMASYON yogunBakim"
+      "yogunBakim": "T2- 2A REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "14",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SİNAN SERKAN ARSLAN",
       "cinsiyet": "ERKEK",
       "yas": "50",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1B BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "15",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ESİN ŞAHİN",
       "cinsiyet": "KADIN",
       "yas": "40",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T3-1C REANİMASYON yogunBakim"
+      "yogunBakim": "T3-1C REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "16",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KEZBAN AKKOÇ 16",
       "cinsiyet": "KADIN",
       "yas": "47",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1B BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "17",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABDULLAH YOLDAŞ17",
       "cinsiyet": "ERKEK",
       "yas": "46",
@@ -172,57 +172,57 @@
     },
     {
       "sira": "18",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SALİH KAYA 18",
       "cinsiyet": "ERKEK",
       "yas": "37",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T3 - 1C REANİMASYON yogunBakim"
+      "yogunBakim": "T3 - 1C REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "19",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HELİN KIZIL 19",
       "cinsiyet": "KADIN",
       "yas": "34",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T5 - 1B REANİMASYON yogunBakim"
+      "yogunBakim": "T5 - 1B REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "20",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ORHUN TAŞ",
       "cinsiyet": "ERKEK",
       "yas": "23",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T5 - 1B REANİMASYON yogunBakim"
+      "yogunBakim": "T5 - 1B REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "21",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HACER ÇİFÇİ 21",
       "cinsiyet": "KADIN",
       "yas": "27",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T5 - 1B REANİMASYON yogunBakim"
+      "yogunBakim": "T5 - 1B REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "22",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "CANSU ÇAKILKAYA 22",
       "cinsiyet": "KADIN",
       "yas": "21",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T5 - 1B REANİMASYON yogunBakim"
+      "yogunBakim": "T5 - 1B REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "23",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET ARAS ERYILDIRIM",
       "cinsiyet": "ERKEK",
       "yas": "12",
@@ -230,7 +230,7 @@
     },
     {
       "sira": "24",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZELİHA KARADAĞ",
       "cinsiyet": "KADIN",
       "yas": "43",
@@ -240,7 +240,7 @@
     },
     {
       "sira": "25",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "BİLGE ASLI KARADAĞ 24",
       "cinsiyet": "KADIN",
       "yas": "17",
@@ -250,7 +250,7 @@
     },
     {
       "sira": "26",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SİBEL MERCAN",
       "cinsiyet": "KADIN",
       "yas": "42",
@@ -260,7 +260,7 @@
     },
     {
       "sira": "27",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FAHREDDİN OSMANCA",
       "cinsiyet": "ERKEK",
       "yas": "35",
@@ -270,7 +270,7 @@
     },
     {
       "sira": "28",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AYŞEGÜL KESME OSMANCA 26",
       "cinsiyet": "KADIN",
       "yas": "34",
@@ -280,7 +280,7 @@
     },
     {
       "sira": "29",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLCE OSMANCA ",
       "cinsiyet": "KADIN",
       "yas": "3",
@@ -288,7 +288,7 @@
     },
     {
       "sira": "30",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ECE ŞEYMA CEYLAN 28",
       "cinsiyet": "KADIN",
       "yas": "27",
@@ -296,7 +296,7 @@
     },
     {
       "sira": "31",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SOUHILA BELARBI 30",
       "cinsiyet": "KADIN",
       "yas": "31",
@@ -304,7 +304,7 @@
     },
     {
       "sira": "32",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET AVCI 29",
       "cinsiyet": "ERKEK",
       "yas": "36",
@@ -312,7 +312,7 @@
     },
     {
       "sira": "33",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "EMİNE KÖSEZADE",
       "cinsiyet": "KADIN",
       "yas": "52",
@@ -322,17 +322,17 @@
     },
     {
       "sira": "34",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZEKERYA CERAN 32",
       "cinsiyet": "ERKEK",
       "yas": "41",
       "yer": "HATAY",
 
-      "yogunBakim": "T3 - 1B GÖĞÜS CERRAHİSİ yogunBakim"
+      "yogunBakim": "T3 - 1B GÖĞÜS CERRAHİSİ YOĞUN BAKIM"
     },
     {
       "sira": "35",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DURSUN BİRİCİ 33",
       "cinsiyet": "ERKEK",
       "yas": "43",
@@ -342,7 +342,7 @@
     },
     {
       "sira": "36",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUSTAFA BİRİCİ 34",
       "cinsiyet": "ERKEK",
       "yas": "73",
@@ -352,47 +352,47 @@
     },
     {
       "sira": "37",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FURKAN KUŞLU 35",
       "cinsiyet": "ERKEK",
       "yas": "21",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T2 - 1B BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "38",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SEVGİ KAMIŞLI 36",
       "cinsiyet": "KADIN",
       "yas": "47",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T6 - 1C DAHİLİYE yogunBakim"
+      "yogunBakim": "T6 - 1C DAHİLİYE YOĞUN BAKIM"
     },
     {
       "sira": "39",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ÖMER TOPRAK ÇOCUK 4",
       "cinsiyet": "ERKEK",
       "yas": "5",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "40",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "NİLSU ZEREN ERDEM ÇOCUK 6",
       "cinsiyet": "KADIN",
       "yas": "7",
       "yer": "GAZİANTEP",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "41",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABDURRAHMAN ERTÜRK 37",
       "cinsiyet": "ERKEK",
       "yas": "28",
@@ -402,7 +402,7 @@
     },
     {
       "sira": "42",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "RİM LATHA ÇOCUK 3",
       "cinsiyet": "ERKEK",
       "yas": "9",
@@ -412,57 +412,57 @@
     },
     {
       "sira": "43",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABDULHAKİM BOYBAY 38",
       "cinsiyet": "ERKEK",
       "yas": "23",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T6 - 1C DAHİLİYE yogunBakim"
+      "yogunBakim": "T6 - 1C DAHİLİYE YOĞUN BAKIM"
     },
     {
       "sira": "44",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DEFNE ELİF BAYKARA ÇOCUK 7",
       "cinsiyet": "KADIN",
       "yas": "11",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 2B ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 2B ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "45",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SEMİH OLGUN ÇOCUK 8",
       "cinsiyet": "ERKEK",
       "yas": "13",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "46",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "IRMAK KESKİN ÇOCUK 9",
       "cinsiyet": "KADIN",
       "yas": "13",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 2B ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 2B ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "47",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AHMET YASİN SÜZEN ÇOCUK 10",
       "cinsiyet": "ERKEK",
       "yas": "17",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 2B ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 2B ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "48",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İBRAHİM EFE ALSAN ÇOCUK 5",
       "cinsiyet": "ERKEK",
       "yas": "6",
@@ -472,7 +472,7 @@
     },
     {
       "sira": "49",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "EREN ATALAY ÇOCUK 11",
       "cinsiyet": "ERKEK",
       "yas": "17",
@@ -482,37 +482,37 @@
     },
     {
       "sira": "50",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AYŞEGÜL ÖNCEBE ÇOCUK 12",
       "cinsiyet": "KADIN",
       "yas": "14",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "51",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SAMEL SÜVEYD ÇOCUK 13",
       "cinsiyet": "ERKEK",
       "yas": "12",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "52",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HANDAN ÖZELÇİ 40",
       "cinsiyet": "KADIN",
       "yas": "43",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T3 - 1C REANİMASYON yogunBakim"
+      "yogunBakim": "T3 - 1C REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "53",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İMAM HÜSEYİN KAMIŞLI 39",
       "cinsiyet": "ERKEK",
       "yas": "51",
@@ -522,27 +522,27 @@
     },
     {
       "sira": "54",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SEMİH VERTDEMİR ÇOCUK 14",
       "cinsiyet": "ERKEK",
       "yas": "10",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T4 - 1A ÇOCUK yogunBakim"
+      "yogunBakim": "T4 - 1A ÇOCUK YOĞUN BAKIM"
     },
     {
       "sira": "55",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SAFİYE AYAZ 41",
       "cinsiyet": "KADIN",
       "yas": "54",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T1 - 2C REANİMASYON yogunBakim"
+      "yogunBakim": "T1 - 2C REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "56",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "BEDRİYE ÇORAK 42",
       "cinsiyet": "KADIN",
       "yas": "24",
@@ -552,17 +552,17 @@
     },
     {
       "sira": "57",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SEMRA ÇURUM 43",
       "cinsiyet": "KADIN",
       "yas": "26",
       "yer": "ADIYAMAN",
 
-      "yogunBakim": "T3 - 1C REANİMASYON yogunBakim"
+      "yogunBakim": "T3 - 1C REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "58",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "YUSUF ASAF AYAZ ÇOCUK 15",
       "cinsiyet": "ERKEK",
       "yas": "15",
@@ -572,17 +572,17 @@
     },
     {
       "sira": "59",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MELEK POLAT 44",
       "cinsiyet": "KADIN",
       "yas": "52",
       "yer": "GAZİANTEP",
 
-      "yogunBakim": "T2 - 1B BEYİN CERRAHİ yogunBakim"
+      "yogunBakim": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
     },
     {
       "sira": "60",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HİRANUR BUHARA",
       "cinsiyet": "KADIN",
       "yas": "4",
@@ -592,7 +592,7 @@
     },
     {
       "sira": "61",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HAMZA BAHADIR BUHARA",
       "cinsiyet": "ERKEK",
       "yas": "6",
@@ -602,7 +602,7 @@
     },
     {
       "sira": "62",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZEHRAGÜL BUHARA",
       "cinsiyet": "KADIN",
       "yas": "15",
@@ -612,7 +612,7 @@
     },
     {
       "sira": "63",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FEVZİYE BUHARA",
       "cinsiyet": "KADIN",
       "yas": "13",
@@ -622,7 +622,7 @@
     },
     {
       "sira": "64",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "BAZAR BUHARA 45",
       "cinsiyet": "KADIN",
       "yas": "52",
@@ -632,7 +632,7 @@
     },
     {
       "sira": "65",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "EMİNE KÜBRA DOĞAN 21",
       "cinsiyet": "KADIN",
       "yas": "6",
@@ -642,7 +642,7 @@
     },
     {
       "sira": "66",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "RİMEZ MUHAMMED ÇOCUK 23",
       "cinsiyet": "KADIN",
       "yas": "14",
@@ -652,7 +652,7 @@
     },
     {
       "sira": "67",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "TUNA DOĞAN 47",
       "cinsiyet": "KADIN",
       "yas": "41",
@@ -662,7 +662,7 @@
     },
     {
       "sira": "68",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÖNÜL ÖZDEMİR 48",
       "cinsiyet": "KADIN",
       "yas": "50",
@@ -672,7 +672,7 @@
     },
     {
       "sira": "69",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET KAĞAN DOĞAN ÇOCUK 22",
       "cinsiyet": "ERKEK",
       "yas": "16",
@@ -682,7 +682,7 @@
     },
     {
       "sira": "70",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABİR HACALİ 46",
       "cinsiyet": "KADIN",
       "yas": "28",
@@ -692,7 +692,7 @@
     },
     {
       "sira": "71",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEDİHA YUMUŞAK",
       "cinsiyet": "KADIN",
       "yas": "44",
@@ -702,7 +702,7 @@
     },
     {
       "sira": "72",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AYBALA YUMUŞAK",
       "cinsiyet": "KADIN",
       "yas": "21",
@@ -712,7 +712,7 @@
     },
     {
       "sira": "73",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KEREM YUMUŞAK ÇOCUK 24",
       "cinsiyet": "ERKEK",
       "yas": "14",
@@ -720,17 +720,17 @@
     },
     {
       "sira": "74",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLŞEN DEDE 51",
       "cinsiyet": "KADIN",
       "yas": "60",
       "yer": "MALATYA",
 
-      "yogunBakim": "T2 - 2A REANİMASYON yogunBakim"
+      "yogunBakim": "T2 - 2A REANİMASYON YOĞUN BAKIM"
     },
     {
       "sira": "75",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÖKHAN YEŞİLLİ 52",
       "cinsiyet": "ERKEK",
       "yas": "26",
@@ -739,7 +739,7 @@
     },
     {
       "sira": "76",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "RASİM MISTIKOĞLU",
       "cinsiyet": "ERKEK",
       "yas": "60",
@@ -749,7 +749,7 @@
     },
     {
       "sira": "77",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "NAZIM MISTIKOĞLU",
       "cinsiyet": "ERKEK",
       "yas": "32",
@@ -759,7 +759,7 @@
     },
     {
       "sira": "78",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUAZZEZ MISTIKOĞLU",
       "cinsiyet": "KADIN",
       "yas": "34",
@@ -769,7 +769,7 @@
     },
     {
       "sira": "79",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEVLÜDE MISTIKOĞLU",
       "cinsiyet": "KADIN",
       "yas": "60",
@@ -779,7 +779,7 @@
     },
     {
       "sira": "80",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "NAZİFE ÇAĞLIN",
       "cinsiyet": "KADIN",
       "yas": "31",
@@ -789,7 +789,7 @@
     },
     {
       "sira": "81",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KEMAL ÇAĞLIN",
       "cinsiyet": "ERKEK",
       "yas": "32",
@@ -799,7 +799,7 @@
     },
     {
       "sira": "82",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İLKER ÇAĞLIN",
       "cinsiyet": "ERKEK",
       "yas": "11 AYLIK",
@@ -809,7 +809,7 @@
     },
     {
       "sira": "83",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İPEK ÇAĞLIN",
       "cinsiyet": "KIZ",
       "yas": "11 AYLIK",
@@ -819,7 +819,7 @@
     },
     {
       "sira": "84",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SIDIKA CÜNNÜK",
       "cinsiyet": "KADIN",
       "yas": "62",
@@ -829,7 +829,7 @@
     },
     {
       "sira": "85",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUSTAFA CÜNNÜK",
       "cinsiyet": "ERKEK",
       "yas": "72",
@@ -839,7 +839,7 @@
     },
     {
       "sira": "86",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZEYNEP ADA KILINÇ ÇOCUK 27",
       "cinsiyet": "KADIN",
       "yas": "17",
@@ -849,7 +849,7 @@
     },
     {
       "sira": "87",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İLHAN KILINÇ 61",
       "cinsiyet": "ERKEK",
       "yas": "47",
@@ -859,7 +859,7 @@
     },
     {
       "sira": "88",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLCAN KILINÇ 62",
       "cinsiyet": "KADIN",
       "yas": "48",
@@ -869,7 +869,7 @@
     },
     {
       "sira": "89",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABBAS BURAK BİNBOĞA",
       "cinsiyet": "ERKEK",
       "yas": "38",
@@ -880,7 +880,7 @@
     },
     {
       "sira": "90",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ÜMMÜGÜLSÜM ÜNAL 64",
       "cinsiyet": "KADIN",
       "yas": "24",
@@ -891,7 +891,7 @@
     },
     {
       "sira": "91",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET KELEŞ 65",
       "cinsiyet": "ERKEK",
       "yas": "26",
@@ -902,7 +902,7 @@
     },
     {
       "sira": "92",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLAY KOCADAĞ",
       "cinsiyet": "KADIN",
       "yas": "47",
@@ -913,7 +913,7 @@
     },
     {
       "sira": "93",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İBRAHİM HAKKI ÇANKAYA",
       "cinsiyet": "ERKEK",
       "yas": "42",
@@ -923,7 +923,7 @@
     },
     {
       "sira": "94",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DİLARA ÇAVDAR 68",
       "cinsiyet": "KADIN",
       "yas": "33",
@@ -933,7 +933,7 @@
     },
     {
       "sira": "95",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MELİH CIBIR 69",
       "cinsiyet": "ERKEK",
       "yas": "35",
@@ -943,7 +943,7 @@
     },
     {
       "sira": "96",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HASTA ÇOCUK 16",
       "cinsiyet": "ERKEK",
       "yas": "9",
@@ -953,7 +953,7 @@
     },
     {
       "sira": "97",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İBRAHİM TURGAY CÜNNÜK 70",
       "cinsiyet": "ERKEK",
       "yas": "39",
@@ -963,7 +963,7 @@
     },
     {
       "sira": "98",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ÜMİT BARAN 71",
       "cinsiyet": "ERKEK",
       "yas": "43",
@@ -973,7 +973,7 @@
     },
     {
       "sira": "99",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "BEYHAN ÇETİN 72",
       "cinsiyet": "ERKEK",
       "yas": "37",
@@ -983,7 +983,7 @@
     },
     {
       "sira": "100",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUSTAFA TÜRKAN 73",
       "cinsiyet": "ERKEK",
       "yas": "35",
@@ -993,7 +993,7 @@
     },
     {
       "sira": "101",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET OCAK 74",
       "cinsiyet": "ERKEK",
       "yas": "19",
@@ -1003,7 +1003,7 @@
     },
     {
       "sira": "102",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KÜBRA YAMANER 75",
       "cinsiyet": "KADIN",
       "yas": "23",
@@ -1011,7 +1011,7 @@
     },
     {
       "sira": "103",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FİLİZ YAMANER 76",
       "cinsiyet": "KADIN",
       "yas": "53",
@@ -1019,7 +1019,7 @@
     },
     {
       "sira": "104",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SÜLEYMAN YAMANER 77",
       "cinsiyet": "ERKEK",
       "yas": "29",
@@ -1027,7 +1027,7 @@
     },
     {
       "sira": "105",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUHİTTİN YAMANER 78",
       "cinsiyet": "ERKEK",
       "yas": "59",
@@ -1035,7 +1035,7 @@
     },
     {
       "sira": "106",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HASAN İBRAHİM GÜMÜŞ 79",
       "cinsiyet": "ERKEK",
       "yas": "33",
@@ -1043,7 +1043,7 @@
     },
     {
       "sira": "107",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET SERVET HALBABA 80",
       "cinsiyet": "ERKEK",
       "yas": "73",
@@ -1051,7 +1051,7 @@
     },
     {
       "sira": "108",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AYLİN EMEK 81",
       "cinsiyet": "KADIN",
       "yas": "34",
@@ -1061,7 +1061,7 @@
     },
     {
       "sira": "109",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AHU YILDIRIM 82",
       "cinsiyet": "KADIN",
       "yas": "44",
@@ -1071,7 +1071,7 @@
     },
     {
       "sira": "110",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET YILDIRIM 83",
       "cinsiyet": "ERKEK",
       "yas": "46",
@@ -1081,7 +1081,7 @@
     },
     {
       "sira": "111",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HAYRİYE KÖYLÜ 86",
       "cinsiyet": "KADIN",
       "yas": "67",
@@ -1091,7 +1091,7 @@
     },
     {
       "sira": "112",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUSTAFA TUTUCU 87",
       "cinsiyet": "ERKEK",
       "yas": "38",
@@ -1101,7 +1101,7 @@
     },
     {
       "sira": "113",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLNAZ ÖZER 87",
       "cinsiyet": "KADIN",
       "yas": "24",
@@ -1111,7 +1111,7 @@
     },
     {
       "sira": "114",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DÖNDÜ TATLI",
       "cinsiyet": "KADIN",
       "yas": "48",
@@ -1121,7 +1121,7 @@
     },
     {
       "sira": "115",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SUDE TATLI ÇOCUK 28",
       "cinsiyet": "KADIN",
       "yas": "12",
@@ -1131,7 +1131,7 @@
     },
     {
       "sira": "116",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLLÜ GEYİK 89",
       "cinsiyet": "KADIN",
       "yas": "48",
@@ -1141,7 +1141,7 @@
     },
     {
       "sira": "117",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HATİCE ÇETİN 90",
       "cinsiyet": "KADIN",
       "yas": "42",
@@ -1151,7 +1151,7 @@
     },
     {
       "sira": "118",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "İZZET TATLI 91",
       "cinsiyet": "ERKEK",
       "yas": "57",
@@ -1161,7 +1161,7 @@
     },
     {
       "sira": "119",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "DİLEK TAĞA 92",
       "cinsiyet": "KADIN",
       "yas": "25",
@@ -1171,7 +1171,7 @@
     },
     {
       "sira": "120",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABDULLAH EMRE ÇAĞLAR 93",
       "cinsiyet": "ERKEK",
       "yas": "31",
@@ -1181,7 +1181,7 @@
     },
     {
       "sira": "121",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ŞÜKRÜ ÇAĞLAR 94",
       "cinsiyet": "ERKEK",
       "yas": "44",
@@ -1191,7 +1191,7 @@
     },
     {
       "sira": "122",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "HATİCE NALAN İŞLEK 95",
       "cinsiyet": "KADIN",
       "yas": "49",
@@ -1201,7 +1201,7 @@
     },
     {
       "sira": "123",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET ZOR",
       "cinsiyet": "ERKEK",
       "yas": "52",
@@ -1210,7 +1210,7 @@
     },
     {
       "sira": "124",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ABDULVAHAP PARLAK 96",
       "cinsiyet": "ERKEK",
       "yas": "30",
@@ -1219,7 +1219,7 @@
     },
     {
       "sira": "125",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "FERİDE ATALAR",
       "cinsiyet": "KADIN",
       "yas": "53",
@@ -1228,7 +1228,7 @@
     },
     {
       "sira": "126",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GİZEM NUR VURAL",
       "cinsiyet": "KADIN",
       "yas": "24",
@@ -1237,7 +1237,7 @@
     },
     {
       "sira": "127",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ALİ ÖLMEZ",
       "cinsiyet": "ERKEK",
       "yas": "62",
@@ -1246,7 +1246,7 @@
     },
     {
       "sira": "128",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MUSTAFA ŞEYH ALİ ÇOCUK",
       "cinsiyet": "ERKEK",
       "yas": "7",
@@ -1255,7 +1255,7 @@
     },
     {
       "sira": "129",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "KADİR ÖZER",
       "cinsiyet": "ERKEK",
       "yas": "57",
@@ -1264,7 +1264,7 @@
     },
     {
       "sira": "130",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MEHMET YAYLI",
       "cinsiyet": "ERKEK",
       "yas": "42",
@@ -1274,7 +1274,7 @@
     },
     {
       "sira": "131",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SALİM KAPLAN",
       "cinsiyet": "ERKEK",
       "yas": "59",
@@ -1284,7 +1284,7 @@
     },
     {
       "sira": "132",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZÜBEYDE BUĞLEM KURT ÇOCUK",
       "cinsiyet": "KADIN",
       "yas": "8",
@@ -1294,7 +1294,7 @@
     },
     {
       "sira": "133",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜLÜŞAN KAPLAN",
       "cinsiyet": "KADIN",
       "yas": "58",
@@ -1304,7 +1304,7 @@
     },
     {
       "sira": "134",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZELİHA NUR KAPLAN",
       "cinsiyet": "KADIN",
       "yas": "24",
@@ -1314,7 +1314,7 @@
     },
     {
       "sira": "135",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ZAHİRE ORAKLI",
       "cinsiyet": "KADIN",
       "yas": "53",
@@ -1324,7 +1324,7 @@
     },
     {
       "sira": "136",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "MERVE PEHLİVANLI",
       "cinsiyet": "KADIN",
       "yas": "32",
@@ -1334,7 +1334,7 @@
     },
     {
       "sira": "137",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "EROL ÇELİK",
       "cinsiyet": "ERKEK",
       "yas": "60",
@@ -1344,7 +1344,7 @@
     },
     {
       "sira": "138",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "NURGÜL ÇELİK",
       "cinsiyet": "KADIN",
       "yas": "54",
@@ -1354,7 +1354,7 @@
     },
     {
       "sira": "139",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "SERAP YAMAN",
       "cinsiyet": "KADIN",
       "yas": "50",
@@ -1364,7 +1364,7 @@
     },
     {
       "sira": "140",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "GÜRSEL DENİZ",
       "cinsiyet": "ERKEK",
       "yas": "18",
@@ -1374,7 +1374,7 @@
     },
     {
       "sira": "141",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "AHMET ÇAĞLAR",
       "cinsiyet": "ERKEK",
       "yas": "40",
@@ -1384,7 +1384,7 @@
     },
     {
       "sira": "142",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "RAMAZAN ARIKCAN",
       "cinsiyet": "ERKEK",
       "yas": "47",
@@ -1394,7 +1394,7 @@
     },
     {
       "sira": "143",
-      "hastane": "ETLİK ŞEHİR hastaneSİ",
+      "hastane": "ETLİK ŞEHİR Hastanesi",
       "isim": "ASİF YÜKSEL",
       "cinsiyet": "ERKEK",
       "yas": "48",
@@ -1478,7 +1478,7 @@
       "yas": "40",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "ANESTEZİ yogunBakim",
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM",
       "servis": "ORTOPEDİ "
     },
     {
@@ -1499,7 +1499,7 @@
       "yas": "41",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "ANESTEZİ yogunBakim"
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM"
     },
     {
       "sira": "154",
@@ -1508,7 +1508,7 @@
       "cinsiyet": "KADIN",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "DAHİLİYE yogunBakim"
+      "yogunBakim": "DAHİLİYE YOĞUN BAKIM"
     },
     {
       "sira": "155",
@@ -1518,7 +1518,7 @@
       "yas": "25",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "ANESTEZİ yogunBakim"
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM"
     },
     {
       "sira": "156",
@@ -1528,7 +1528,7 @@
       "yas": "46",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "DAHİLİYE yogunBakim",
+      "yogunBakim": "DAHİLİYE YOĞUN BAKIM",
       "servis": "BEYİN CERRAHİSİ"
     },
     {
@@ -1549,7 +1549,7 @@
       "yas": "32",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "ANESTEZİ yogunBakim"
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM"
     },
     {
       "sira": "159",
@@ -1558,7 +1558,7 @@
       "cinsiyet": "KADIN",
       "yer": "ADIYAMAN/MERKEZ",
 
-      "yogunBakim": "ANESTEZİ yogunBakim"
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM"
     },
     {
       "sira": "160",
@@ -1568,7 +1568,7 @@
       "yas": "31",
       "yer": "HATAY/ANTAKYA",
 
-      "yogunBakim": "DAHİLİYE yogunBakim"
+      "yogunBakim": "DAHİLİYE YOĞUN BAKIM"
     },
     {
       "sira": "161",
@@ -3118,7 +3118,7 @@
     },
     {
       "sira": "333",
-      "hastane": "ÖZEL GÜVEN hastaneSİ",
+      "hastane": "ÖZEL GÜVEN Hastanesi",
       "isim": "Buket Elif ÇELİK",
       "cinsiyet": "Kadın",
       "yas": "30",
@@ -3128,7 +3128,7 @@
     },
     {
       "sira": "334",
-      "hastane": "ÖZEL GÜVEN hastaneSİ",
+      "hastane": "ÖZEL GÜVEN Hastanesi",
       "isim": "Hanifi ÇELİK",
       "cinsiyet": "Erkek",
       "yas": "67",
@@ -3138,7 +3138,7 @@
     },
     {
       "sira": "335",
-      "hastane": "ÖZEL GÜVEN hastaneSİ",
+      "hastane": "ÖZEL GÜVEN Hastanesi",
       "isim": "Fatma ÇELİK",
       "cinsiyet": "Kadın",
       "yas": "70",
@@ -3148,7 +3148,7 @@
     },
     {
       "sira": "336",
-      "hastane": "ÖZEL GÜVEN hastaneSİ",
+      "hastane": "ÖZEL GÜVEN Hastanesi",
       "isim": "Arzu YILMAZ",
       "cinsiyet": "KADIN",
       "yas": "41",
@@ -3338,7 +3338,7 @@
       "yas": "59",
       "yer": "HATAY",
 
-      "yogunBakim": "CERRAHİ yogunBakim",
+      "yogunBakim": "CERRAHİ YOĞUN BAKIM",
       "servis": "YOK"
     },
     {
@@ -3388,7 +3388,7 @@
       "yas": "49",
       "yer": "İSKENDERUN",
 
-      "yogunBakim": "ANESTEZİ yogunBakim"
+      "yogunBakim": "ANESTEZİ YOĞUN BAKIM"
     },
     {
       "sira": "362",
@@ -3703,7 +3703,7 @@
     },
     {
       "sira": "393",
-      "hastane": "ÖZEL LOKMAN HEKİM hastaneSİ",
+      "hastane": "ÖZEL LOKMAN HEKİM Hastanesi",
       "isim": "BEBEK EFNAN ERGEN",
       "cinsiyet": "ERKEK",
       "yas": "6 GÜNLÜK",
@@ -3713,7 +3713,7 @@
     },
     {
       "sira": "394",
-      "hastane": "ÖZEL LOKMAN HEKİM hastaneSİ",
+      "hastane": "ÖZEL LOKMAN HEKİM Hastanesi",
       "isim": "NEZİHE ÖZDEMİR",
       "cinsiyet": "KADIN",
       "yas": "44",
@@ -4153,7 +4153,7 @@
     },
     {
       "sira": "438",
-      "hastane": "ÖZEL MEMORİAL ANKARA hastaneSİ",
+      "hastane": "ÖZEL MEMORİAL ANKARA Hastanesi",
       "isim": "Birsen Çağlar",
       "cinsiyet": "KADIN ",
       "yas": "72",
@@ -4415,7 +4415,7 @@
     },
     {
       "sira": "463",
-      "hastane": "ÖZEL MEDİSUN ÇAYYOLU hastaneSİ",
+      "hastane": "ÖZEL MEDİSUN ÇAYYOLU Hastanesi",
       "isim": "NURTEN YARDIMCI",
       "cinsiyet": "KADIN",
       "yas": "66",
@@ -4425,7 +4425,7 @@
     },
     {
       "sira": "464",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "UĞUR CAN DOĞAN ",
       "cinsiyet": "ERKEK ",
       "yas": "24",
@@ -4435,7 +4435,7 @@
     },
     {
       "sira": "465",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "OĞUZ ÇEVİK",
       "cinsiyet": "ERKEK ",
       "yas": "23",
@@ -4445,7 +4445,7 @@
     },
     {
       "sira": "466",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "GÖKHAN ŞANLI",
       "cinsiyet": "ERKEK ",
       "yas": "35",
@@ -4455,7 +4455,7 @@
     },
     {
       "sira": "467",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "FURKAN GİRAY ÖZKARA",
       "cinsiyet": "ERKEK ",
       "yas": "26",
@@ -4465,7 +4465,7 @@
     },
     {
       "sira": "468",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "İLKAN KELEŞOĞLU",
       "cinsiyet": "ERKEK ",
       "yas": "24",
@@ -4475,7 +4475,7 @@
     },
     {
       "sira": "469",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "ADNAN TAYFUR",
       "cinsiyet": "ERKEK ",
       "yas": "30",
@@ -4485,7 +4485,7 @@
     },
     {
       "sira": "470",
-      "hastane": "ACIBADEM ANKARA hastaneSİ",
+      "hastane": "ACIBADEM ANKARA Hastanesi",
       "isim": "OUSSEM BOUDJENAH",
       "cinsiyet": "ERKEK ",
       "yas": "32",
@@ -4494,7 +4494,7 @@
       "servis": "TABURCU"
     },
     {
-      "hastane": "ÖZEL LOSANTE hastaneSİ",
+      "hastane": "ÖZEL LOSANTE Hastanesi",
       "isim": "SEMA ÖMEROĞLU",
       "cinsiyet": "KADIN",
       "yas": "77",
@@ -4508,7 +4508,7 @@
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "hastane ADI"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ETLİK ŞEHİR hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ETLİK ŞEHİR Hastanesi"
     },
     {
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "BİLKENT ŞH"
@@ -4547,7 +4547,7 @@
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "SANATORYUM EAH"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ACIBADEM ANKARA hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ACIBADEM ANKARA Hastanesi"
     },
     {
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "MAMAK DH"
@@ -4559,7 +4559,7 @@
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "DIŞKAPI EAH"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL GÜVEN hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL GÜVEN Hastanesi"
     },
     {
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "BEYTEPE DH"
@@ -4568,19 +4568,19 @@
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "YENİMAHALLE EAH"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOKMAN HEKİM hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOKMAN HEKİM Hastanesi"
     },
     {
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÇUBUK DH"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEMORİAL ANKARA hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEMORİAL ANKARA Hastanesi"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEDİSUN ÇAYYOLU hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEDİSUN ÇAYYOLU Hastanesi"
     },
     {
-      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOSANTE hastaneSİ"
+      "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOSANTE Hastanesi"
     },
     {
       "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "TOPLAM "
