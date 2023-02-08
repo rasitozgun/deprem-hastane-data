@@ -1,10 +1,10 @@
 import '../App.css';
 import React, { useState, useEffect } from 'react';
-import g from '../data/adanadata.json';
+import f from '../data/mersindata.json';
 import ReactPaginate from 'react-paginate';
-import Navbar from '../components/Navbar';
+import NavbarSite from '../components/Navbar';
 
-function AdanaPage() {
+function MersinPage() {
   const [items, setItem] = useState([]);
   const [searchItem, setSearchItem] = useState([]);
   const [filterItem, setFilterItem] = useState('');
@@ -14,8 +14,8 @@ function AdanaPage() {
   const regex = /[a-z]/g;
 
   useEffect(() => {
-    setItem(g.data);
-    setSearchItem(g.data);
+    setItem(f.data);
+    setSearchItem(f.data);
   }, []);
 
   const lastPostIndex = currentItemPage * postItemPerPage;
@@ -44,9 +44,8 @@ function AdanaPage() {
 
   return (
     <div>
-      <Navbar />
-
-      <h1 className="h1"> Adana Şehir Hastanesine Getirilen Kişiler</h1>
+      <NavbarSite />
+      <h1 className="h1"> Mersin Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
@@ -63,23 +62,32 @@ function AdanaPage() {
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
           <tr className={'text-center'}>
-            <th scope="col">Numara</th>
+            <th scope="col">Sıra</th>
             <th scope="col">İsim</th>
-            <th scope="col">Sevk Geldiği Yer</th>
-            <th scope="col">Hastane</th>
-            <th scope="col">Kayıt Tarihi</th>
-            <th scope="col">Servis ve Yoğun Bakım</th>
+            <th scope="col">Yaş</th>
+            <th scope="col">Yer</th>
+            <th scope="col">Hayati tehlike</th>
+            <th scope="col">Açıklama</th>
           </tr>
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={'text-center'}>
-              <th scope="row">{d['Numara']}</th>
+            <tr
+              key={d.Sno}
+              className={'text-center' + (d['ht'] === 1 ? ' table-danger' : '')}
+            >
+              <th scope="row">{d['sira']}</th>
               <td>{d['isim']}</td>
-              <td>{d['sevkGelis']}</td>
-              <td>{d['hastane']}</td>
-              <td>{d['girisTarihi']}</td>
-              <td>{d['servisBakim']}</td>
+              <td>{d['yas']}</td>
+              <td>{d['yer']}</td>
+              {d['ht'] === 1 ? (
+                <td>Hayati tehlike var</td>
+              ) : d['ht'] === 0 ? (
+                <td>Hayati tehlike yok</td>
+              ) : (
+                <td></td>
+              )}
+              <td>{d['detay']}</td>
             </tr>
           ))}
         </tbody>
@@ -108,4 +116,4 @@ function AdanaPage() {
   );
 }
 
-export default AdanaPage;
+export default MersinPage;
