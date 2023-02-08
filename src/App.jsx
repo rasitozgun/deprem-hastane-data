@@ -52,7 +52,7 @@ function App() {
           <input
             type="search"
             value={filterItem}
-            onInput={(e) => handleFilter(e)}
+            onChange={(e) => handleFilter(e)}
             className={"form-control justify-content-center"}
             placeholder="Search"
           />
@@ -73,7 +73,7 @@ function App() {
         <tbody>
           {currentPosts.map((d) => (
             <tr
-              key={d.Sno}
+              key={d.sira}
               className={"text-center" + (d["ht"] === 1 ? " table-danger" : "")}
             >
               <th scope="row">{d["sira"]}</th>
