@@ -70,7 +70,7 @@ function KayseriPage() {
           <input
             type="search"
             value={filterIsimItem}
-            onInput={(e) => handleIsimFilter(e)}
+            onChange={(e) => handleIsimFilter(e)}
             className={"form-control justify-content-center"}
             placeholder="İsim Aratınız"
           />
