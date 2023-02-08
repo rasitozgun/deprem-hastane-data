@@ -1,13 +1,13 @@
-import "../App.css";
-import React, { useState, useEffect } from "react";
-import g from "../data/adanadata.json";
-import ReactPaginate from "react-paginate";
-import Navbar from "../components/Navbar";
+import '../App.css';
+import React, { useState, useEffect } from 'react';
+import g from '../data/adanadata.json';
+import ReactPaginate from 'react-paginate';
+import Navbar from '../components/Navbar';
 
-function KayseriPage() {
+function AdanaPage() {
   const [items, setItem] = useState([]);
   const [searchItem, setSearchItem] = useState([]);
-  const [filterItem, setFilterItem] = useState("");
+  const [filterItem, setFilterItem] = useState('');
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
 
@@ -25,13 +25,13 @@ function KayseriPage() {
   const totalPosts = Math.ceil(items.length / postItemPerPage);
 
   const handleFilter = (e) => {
-    if (e.target.value === "") {
+    if (e.target.value === '') {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
       const filterResult = searchItem.filter((item) =>
-        item["isim"]
-          .toLocaleLowerCase("tr-TR")
-          .includes(e.target.value.toLocaleLowerCase("tr-TR"))
+        item['isim']
+          .toLocaleLowerCase('tr-TR')
+          .includes(e.target.value.toLocaleLowerCase('tr-TR'))
       );
       setItem(filterResult);
     }
@@ -54,7 +54,7 @@ function KayseriPage() {
             type="search"
             value={filterItem}
             onChange={(e) => handleFilter(e)}
-            className={"form-control justify-content-center"}
+            className={'form-control justify-content-center'}
             placeholder="Search"
           />
         </div>
@@ -62,7 +62,7 @@ function KayseriPage() {
       <br />
       <table className="table table-hover table-striped table-sm table-responsive-sm table-bordered">
         <thead>
-          <tr className={"text-center"}>
+          <tr className={'text-center'}>
             <th scope="col">Numara</th>
             <th scope="col">İsim</th>
             <th scope="col">Sevk Geldiği Yer</th>
@@ -73,39 +73,39 @@ function KayseriPage() {
         </thead>
         <tbody>
           {currentPosts.map((d) => (
-            <tr key={d.Sno} className={"text-center"}>
-              <th scope="row">{d["Numara"]}</th>
-              <td>{d["isim"]}</td>
-              <td>{d["sevkGelis"]}</td>
-              <td>{d["hastane"]}</td>
-              <td>{d["girisTarihi"]}</td>
-              <td>{d["servisBakim"]}</td>
+            <tr key={d.Sno} className={'text-center'}>
+              <th scope="row">{d['Numara']}</th>
+              <td>{d['isim']}</td>
+              <td>{d['sevkGelis']}</td>
+              <td>{d['hastane']}</td>
+              <td>{d['girisTarihi']}</td>
+              <td>{d['servisBakim']}</td>
             </tr>
           ))}
         </tbody>
       </table>
       <ReactPaginate
-        previousLabel={"Previous"}
-        nextLabel={"Next"}
-        breakLabel={"..."}
+        previousLabel={'Previous'}
+        nextLabel={'Next'}
+        breakLabel={'...'}
         pageCount={totalPosts}
         marginPagesDisplayed={2}
         pageRangeDisplayed={2}
         onPageChange={handlePageClick}
-        containerClassName={"pagination justify-content-center"}
-        pageClassName={"page-item"}
-        pageLinkClassName={"page-link"}
-        previousClassName={"page-item"}
-        previousLinkClassName={"page-link"}
-        nextClassName={"page-item"}
-        nextLinkClassName={"page-link"}
-        breakClassName={"page-item"}
-        breakLinkClassName={"page-link"}
-        activeClassName={"active"}
-        activeLinkClassName={"page-link"}
+        containerClassName={'pagination justify-content-center'}
+        pageClassName={'page-item'}
+        pageLinkClassName={'page-link'}
+        previousClassName={'page-item'}
+        previousLinkClassName={'page-link'}
+        nextClassName={'page-item'}
+        nextLinkClassName={'page-link'}
+        breakClassName={'page-item'}
+        breakLinkClassName={'page-link'}
+        activeClassName={'active'}
+        activeLinkClassName={'page-link'}
       />
     </div>
   );
 }
 
-export default KayseriPage;
+export default AdanaPage;
