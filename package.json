@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
     "lodash": "^4.17.21",
     "netlify-cli": "^12.2.10",
     "nth-check": "^2.0.0",
@@ -16,6 +17,7 @@
     "react-paginate": "^8.1.4",
     "react-router-dom": "^6.8.1",
     "react-search-box": "^2.3.0",
+    "reactstrap": "^9.1.5",
     "simple-react-pagination": "^1.0.5",
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"

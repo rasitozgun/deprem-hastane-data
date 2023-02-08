@@ -1,0 +1,4784 @@
+{
+"Sayfa1":[
+ {
+  "SIRA NO": 1,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZEYNAL ABİDİN DELİCE",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 18,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T1 - 1A CERRAHİ YOĞUN BAKIM "
+ },
+ {
+  "SIRA NO": 2,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HOMA COSKUN2",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 62,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T3 - 1B GÖĞÜS CERRAHİSİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 3,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DİLARA ERBAŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T1 - 1A CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 4,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HASTA 4",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 5,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FİLİZ KARACA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 13,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 6,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HASTA 6",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 7,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AHMET KAYA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T2 - 5B BEYİN CERRAHİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 8,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KÜBRA TURAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1A BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 9,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZEYNAL YUMUŞAK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1A BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 10,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "YASEMİN REÇBER",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T1 - 1A CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 11,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET ALİ 11",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 5,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 12,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MASAL İKRA AYNA12",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 2,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 13,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SEVGÜL ÇALIŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2- 2A REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 14,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SİNAN SERKAN ARSLAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 15,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ESİN ŞAHİN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T3-1C REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 16,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KEZBAN AKKOÇ 16",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 17,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABDULLAH YOLDAŞ17",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T1 - 9A KBB SERVİSİ"
+ },
+ {
+  "SIRA NO": 18,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SALİH KAYA 18",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T3 - 1C REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 19,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HELİN KIZIL 19",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T5 - 1B REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 20,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ORHUN TAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T5 - 1B REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 21,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HACER ÇİFÇİ 21",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T5 - 1B REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 22,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "CANSU ÇAKILKAYA 22",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T5 - 1B REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 23,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET ARAS ERYILDIRIM",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 12,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 24,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZELİHA KARADAĞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 25,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "BİLGE ASLI KARADAĞ 24",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T4 - 7C ÇOCUK 5 SERVİSİ"
+ },
+ {
+  "SIRA NO": 26,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SİBEL MERCAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 27,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FAHREDDİN OSMANCA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 28,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AYŞEGÜL KESME OSMANCA 26",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 29,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLCE OSMANCA ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 3,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 30,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ECE ŞEYMA CEYLAN 28",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 31,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SOUHILA BELARBI 30",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 32,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET AVCI 29",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 33,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "EMİNE KÖSEZADE",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T2 - 8A ORTOPEDİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 34,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZEKERYA CERAN 32",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "T3 - 1B GÖĞÜS CERRAHİSİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 35,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DURSUN BİRİCİ 33",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 5A NEFROLOJİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 36,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUSTAFA BİRİCİ 34",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 73,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 3B GASTROENTEROLOJİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 37,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FURKAN KUŞLU 35",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 38,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SEVGİ KAMIŞLI 36",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T6 - 1C DAHİLİYE YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 39,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ÖMER TOPRAK ÇOCUK 4",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 5,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 40,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "NİLSU ZEREN ERDEM ÇOCUK 6",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 7,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 41,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABDURRAHMAN ERTÜRK 37",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T1 - 4B İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 42,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "RİM LATHA ÇOCUK 3",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 9,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T4 - 7C ÇOCUK 5 SERVİSİ"
+ },
+ {
+  "SIRA NO": 43,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABDULHAKİM BOYBAY 38",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T6 - 1C DAHİLİYE YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 44,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DEFNE ELİF BAYKARA ÇOCUK 7",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 11,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 2B ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 45,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SEMİH OLGUN ÇOCUK 8",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 13,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 46,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "IRMAK KESKİN ÇOCUK 9",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 13,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 2B ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 47,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AHMET YASİN SÜZEN ÇOCUK 10",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 2B ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 48,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İBRAHİM EFE ALSAN ÇOCUK 5",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 49,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "EREN ATALAY ÇOCUK 11",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T2 - 6A PLASTİK CERRAHİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 50,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AYŞEGÜL ÖNCEBE ÇOCUK 12",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 14,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 51,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SAMEL SÜVEYD ÇOCUK 13",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 12,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 52,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HANDAN ÖZELÇİ 40",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T3 - 1C REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 53,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İMAM HÜSEYİN KAMIŞLI 39",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T2 - 8A ORTOPEDİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 54,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SEMİH VERTDEMİR ÇOCUK 14",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 10,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T4 - 1A ÇOCUK YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 55,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SAFİYE AYAZ 41",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 54,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T1 - 2C REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 56,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "BEDRİYE ÇORAK 42",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "GÖĞÜS CERRAHİ YATIŞ ???"
+ },
+ {
+  "SIRA NO": 57,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SEMRA ÇURUM 43",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T3 - 1C REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 58,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "YUSUF ASAF AYAZ ÇOCUK 15",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T4 - 8A ÇOCUK 6 SERVİSİ"
+ },
+ {
+  "SIRA NO": 59,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MELEK POLAT 44",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "T2 - 1B BEYİN CERRAHİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 60,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HİRANUR BUHARA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 4,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 61,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HAMZA BAHADIR BUHARA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "AMELİYAT BEKLİYOR"
+ },
+ {
+  "SIRA NO": 62,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZEHRAGÜL BUHARA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 63,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FEVZİYE BUHARA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 13,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 64,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "BAZAR BUHARA 45",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 65,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "EMİNE KÜBRA DOĞAN 21",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 66,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "RİMEZ MUHAMMED ÇOCUK 23",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 14,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 67,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "TUNA DOĞAN 47",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 68,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÖNÜL ÖZDEMİR 48",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T2-7A ORTOPEDİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 69,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET KAĞAN DOĞAN ÇOCUK 22",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 16,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 70,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABİR HACALİ 46",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T5-4B SDL DOĞUM SERVİSİ"
+ },
+ {
+  "SIRA NO": 71,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEDİHA YUMUŞAK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 72,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AYBALA YUMUŞAK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "T1 - 4B ACİL İÇ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 73,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KEREM YUMUŞAK ÇOCUK 24",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 14,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 74,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLŞEN DEDE 51",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "MALATYA",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "T2 - 2A REANİMASYON YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 75,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÖKHAN YEŞİLLİ 52",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 26,
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 76,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "RASİM MISTIKOĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 77,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "NAZIM MISTIKOĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 78,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUAZZEZ MISTIKOĞLU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 79,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEVLÜDE MISTIKOĞLU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 80,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "NAZİFE ÇAĞLIN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 81,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KEMAL ÇAĞLIN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 82,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İLKER ÇAĞLIN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "11 AYLIK",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 83,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İPEK ÇAĞLIN",
+  "CİNSİYET": "KIZ",
+  "YAŞ": "11 AYLIK",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR"
+ },
+ {
+  "SIRA NO": 84,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SIDIKA CÜNNÜK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 62,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T3 - 6A GÖĞÜS CERRAHİ SERVİSİ"
+ },
+ {
+  "SIRA NO": 85,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUSTAFA CÜNNÜK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 72,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "T1 - 10C GÖZ HASTALIKLARI SERVİSİ"
+ },
+ {
+  "SIRA NO": 86,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZEYNEP ADA KILINÇ ÇOCUK 27",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 87,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İLHAN KILINÇ 61",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 88,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLCAN KILINÇ 62",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 89,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABBAS BURAK BİNBOĞA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 90,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ÜMMÜGÜLSÜM ÜNAL 64",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 91,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET KELEŞ 65",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 92,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLAY KOCADAĞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "BEKLİYOR",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 93,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İBRAHİM HAKKI ÇANKAYA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 94,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DİLARA ÇAVDAR 68",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 95,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MELİH CIBIR 69",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 96,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HASTA ÇOCUK 16",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 9,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 97,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İBRAHİM TURGAY CÜNNÜK 70",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 39,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 98,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ÜMİT BARAN 71",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 99,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "BEYHAN ÇETİN 72",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 100,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUSTAFA TÜRKAN 73",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 101,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET OCAK 74",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 19,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 102,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KÜBRA YAMANER 75",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 23,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 103,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FİLİZ YAMANER 76",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 104,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SÜLEYMAN YAMANER 77",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 29,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 105,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUHİTTİN YAMANER 78",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 59,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 106,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HASAN İBRAHİM GÜMÜŞ 79",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 33,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 107,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET SERVET HALBABA 80",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 73,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 108,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AYLİN EMEK 81",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 109,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AHU YILDIRIM 82",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 110,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET YILDIRIM 83",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 111,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HAYRİYE KÖYLÜ 86",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 67,
+  "GELDİĞİ YER": "MALATYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 112,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUSTAFA TUTUCU 87",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 113,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLNAZ ÖZER 87",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 114,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DÖNDÜ TATLI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 115,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SUDE TATLI ÇOCUK 28",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 12,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 116,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLLÜ GEYİK 89",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 117,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HATİCE ÇETİN 90",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 118,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "İZZET TATLI 91",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 119,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "DİLEK TAĞA 92",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 25,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 120,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABDULLAH EMRE ÇAĞLAR 93",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 121,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ŞÜKRÜ ÇAĞLAR 94",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 122,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "HATİCE NALAN İŞLEK 95",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 123,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET ZOR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 52,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 124,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ABDULVAHAP PARLAK 96",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 30,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 125,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "FERİDE ATALAR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 126,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GİZEM NUR VURAL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 127,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ALİ ÖLMEZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 62,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 128,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MUSTAFA ŞEYH ALİ ÇOCUK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 7,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 129,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "KADİR ÖZER",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 57,
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 130,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MEHMET YAYLI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 131,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SALİM KAPLAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 132,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZÜBEYDE BUĞLEM KURT ÇOCUK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 8,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAKLA",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 133,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜLÜŞAN KAPLAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 134,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZELİHA NUR KAPLAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 135,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ZAHİRE ORAKLI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAKLA",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 136,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "MERVE PEHLİVANLI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "HATAY ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 137,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "EROL ÇELİK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 138,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "NURGÜL ÇELİK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 54,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 139,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "SERAP YAMAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 140,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "GÜRSEL DENİZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 18,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 141,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "AHMET ÇAĞLAR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 142,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "RAMAZAN ARIKCAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 143,
+  "HASTANE": "ETLİK ŞEHİR HASTANESİ",
+  "ADI-SOYADI": "ASİF YÜKSEL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 144,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "SAADET BİRİCİK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "HATAY\/MERKEZ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "SONUÇ (TABURCU- YATTIĞI KLİNİK)",
+  "SERVİS": " "
+ },
+ {
+  "SIRA NO": 145,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "CANAN GÜLEŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 20,
+  "GELDİĞİ YER": "HATAY\/SAMANDAĞI",
+  "GELİŞ ŞEKLİ": "ŞAHSİ ",
+  "YOĞUN BAKIM": "ORTOPEDİ SERVİS YATIŞ"
+ },
+ {
+  "SIRA NO": 146,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "HANİFE YİĞİTER",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ ",
+  "YOĞUN BAKIM": "KBB – ORTOPEDİ POLİKLİNİK KONTOL"
+ },
+ {
+  "SIRA NO": 147,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "YÜKSEL ŞEN",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "NRŞ- ORTOPEDİ POL KONTROL"
+ },
+ {
+  "SIRA NO": 148,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "AYKUT YİĞİTER",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ ",
+  "YOĞUN BAKIM": "ORTOPEDİ POLİKLİNİK KONTROL"
+ },
+ {
+  "SIRA NO": 149,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "MEHMET BERKE BODUROĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "ORTOPEDİ POLİKLİNİK KONTROL"
+ },
+ {
+  "SIRA NO": 150,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "İSA ÖZTÜRK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 18,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "ORTOPEDİ POLİKLİNİK KONTROL"
+ },
+ {
+  "SIRA NO": 151,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "MURAT ALTINSOY",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM",
+  "SERVİS": "ORTOPEDİ "
+ },
+ {
+  "SIRA NO": 152,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "SERPİL CAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "ORTOPEDİ YATIŞ"
+ },
+ {
+  "SIRA NO": 153,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "EROL ULAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK  ",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 154,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "RABİYA NAZERİ",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK     ",
+  "YOĞUN BAKIM": "DAHİLİYE YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 155,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "BARIŞ YAPICI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 25,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK    ",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 156,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "FATMA ARİFE DURMUŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK     ",
+  "YOĞUN BAKIM": "DAHİLİYE YOĞUN BAKIM",
+  "SERVİS": "BEYİN CERRAHİSİ"
+ },
+ {
+  "SIRA NO": 157,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "MUHAMMET NURİ BULĞU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK     ",
+  "YOĞUN BAKIM": "BEYİN CERRAHİSİ"
+ },
+ {
+  "SIRA NO": 158,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "ÖMER FARUK ALİOĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK     ",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 159,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "HATİCE KARADUT",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "ADIYAMAN\/MERKEZ",
+  "GELİŞ ŞEKLİ": "UÇAK    ",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 160,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "ŞİRİN SAMUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ        ",
+  "YOĞUN BAKIM": "DAHİLİYE YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 161,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "EYMEN SAMUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ       ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 162,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "NURCAN TAŞKAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ        ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 163,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "OZAN TAŞKAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ        ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 164,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "SEREN PEKUZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ      ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 165,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "HACI PEKUZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ      ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 166,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "İMDAT TAŞKAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ      ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 167,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "BÜŞRA TAŞKAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 168,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "YUSUF EREN BAY",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 22,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TABURCULUĞU PLANLANDI"
+ },
+ {
+  "SIRA NO": 169,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "DEVRAN TAŞKAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 170,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "ERSİN NARİN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 171,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "HATİCE YAŞAR",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 172,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "ÖZCAN BEZİRGAN",
+  "CİNSİYET": "ERKEK",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "YOĞUN BAKIM": "TETKİKLER DEVAM EDİYOR"
+ },
+ {
+  "SIRA NO": 173,
+  "HASTANE": "GÜLHANE EAH",
+  "ADI-SOYADI": "BEHİYE İSMAİLOĞLU",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ  ",
+  "SERVİS": "ortapedi"
+ },
+ {
+  "SIRA NO": 174,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ABDALLAH ZABADİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 175,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ABDURRAHMAN ZABADİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 5,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 176,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ALİ DABLAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "ALSANCAK MAH. Mah. CSBM: LİSE CAD. Kapı No: 95 Daire: 5 KIRIKHAN HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 177,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ALİ YILDIRIM",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 74,
+  "GELDİĞİ YER": "KADIOĞLUÇİFTLİĞİ MAH. Mah. CSBM: KADIOĞLUÇİFTLİĞİ12 SK. Kapı No: 10 TÜRKOĞLU KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 178,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ALİ ZABADİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 3,
+  "GELDİĞİ YER": "ANKARA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 179,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AYBÜKE KONUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 11,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: MELTEM SK. Kapı No: 1 Daire: 4 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 180,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AYNUR ÖZGE GÜLSÜN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 18,
+  "GELDİĞİ YER": "TURGUT REİS MAH. Mah. CSBM: ZEY CAD. Kapı No: 41 Daire: 5 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 181,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AYŞENUR ŞENEL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "kahramanmaraş",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 182,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AZMİ GÖKHAN ERCİYAS",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "CEBRAİL MAH. Mah. CSBM: 3.VARLIK SK. Kapı No: 6 Daire: 5 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 183,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BAHADDİN GÖRMEZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "MARA MAH. Mah. CSBM: 1327 SK. Kapı No: 7 Daire: 4 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 184,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BAŞAK KAYA DOĞAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "YENİ MAH. Mah. CSBM: 2666 SK. Kapı No: 8C Daire: 7 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 185,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BEYHAN KONUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: 3170. SK. Kapı No: 28 Daire: 4 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 186,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BÜNYAMİN ERİK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "ÜNGÜT MAH. Mah. CSBM: 71067. SK. Kapı No: 41\/1 Daire: 3 ONİKİŞUBAT KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 187,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BÜŞRA DÖNMEZER",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "ATATÜRK MAH. Mah. CSBM: ŞEHİT AHMETUĞUR EDEOĞLU SK. Kapı No: 10 Daire: 4 MERKEZ KİLİS",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 188,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "CABİN ÖVER",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "ÜRGEN PAŞA MAH. Mah. CSBM: ŞEHİT İSMAİL YILDIRIM SK. Kapı No: 19 Daire: 13 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 189,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "EDA EREN BEKTAŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "YENİ SANAYİ MAH. Mah. CSBM: 1 ARALIK CAD. Kapı No: 5C Daire: 34 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 190,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "EFENDİ DEMİR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "BARBAROS HAYRETTİN MAH. Mah. CSBM: ATATÜRK BULVARI Kapı No: 89 Daire: 8 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 191,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ELVAN KOSKA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "BOĞAZİÇİ MAH. Mah. CSBM: 95001. SK. Kapı No: 8 Daire: 9 ONİKİŞUBAT KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 192,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "EMEL ŞAHAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "HATAY İSKENDUR",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 193,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "EMİNE AKBULUT",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "GELDİĞİ YER": "YAVUZSELİM MAH. Mah. CSBM: 904 NOLU SK. Kapı No: 16 Daire: 8 NURDAĞI GAZİANTEP",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 194,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "EMRE YÜKSEL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "MUSTAFA KEMAL MAH. Mah. CSBM: İBRAHİM KARAOĞLANOĞLU CAD. Kapı No: 146 Daire: 8 İSKENDERUN HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 195,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ENİSE GÜL KOÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ODABAŞI MAH. Mah. CSBM: ATATÜRK 10 BULVARI Kapı No: 109 Daire: 10 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 196,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ENVER UÇAR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "EKİNCİ MAH. Mah. CSBM: ÇAĞLAR SK. Kapı No: 29 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 197,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ERGÜN GÜÇLÜ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "DUMLUPINAR MAH. Mah. CSBM: 265. SK. Kapı No: 5 Daire: 1 İSKENDERUN HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 198,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FATMA KARLI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "ESKİSARAY MAH. Mah. CSBM: 708 SK. Kapı No: 2 Daire: 2 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 199,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FEVZİYE DOĞRU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "GÜZELBURÇ MAH. Mah. CSBM: DİKMECE CAD. Kapı No: 16 Daire: 1 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 200,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "GÖNÜL KARAKAYA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "FATİH MAH. Mah. CSBM: 73141 SK. Kapı No: 1 Daire: 1 SEYHAN ADANA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 201,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "GÖZDE DABLAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "ORHANLI MAH. Mah. CSBM: ORHANLI CAD. Kapı No: 57 Daire: 1 DEFNE HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 202,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HACİ MEHMET ODUNCU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 56,
+  "GELDİĞİ YER": "BARBAROS HAYRETTİN MAH. Mah. CSBM: ŞEHİT YÜZBAŞI RIZA FIRAT CAD. Kapı No: 61 Daire: 4 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 203,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HAKAN SESLİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "BAĞ MAH. Mah. CSBM: ABDULVAHAP KOCAMAN CAD. Kapı No: 58 Daire: 2 KADİRLİ OSMANİYE",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 204,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HALİL İBRAHİM UÇAR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "EKİNCİ MAH. Mah. CSBM: ÇAĞLAR SK. Kapı No: 29 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 205,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HALİT KILIÇARSLAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "TAYFURSÖKMEN MAH. Mah. CSBM: 8053. SK. Kapı No: 16 REYHANLI HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 206,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HATİCE DEMİRKAYA",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "TURGUT ÖZAL MAH. Mah. CSBM: GÜLÜMSER CAD. Kapı No: 62 Daire: 15 YEŞİLYURT MALATYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 207,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HATİCE KONUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 39,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: MELTEM SK. Kapı No: 1 Daire: 4 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 208,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HATİCE TÜMSAVAŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: 1229 SK. Kapı No: 3 Daire: 3 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 209,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HAVVANUR BAŞCI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "ESENYURT MAH. Mah. CSBM: CUMHURİYET NOLU CAD. Kapı No: 48 Daire: 1 NURDAĞI GAZİANTEP",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 210,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HÜLYA YILMAZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "BARBAROS HAYRETTİN MAH. Mah. CSBM: 1606 SK. Kapı No: 9 Daire: 8 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 211,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HÜSEYİN ABAKAY",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 54,
+  "GELDİĞİ YER": "YENİ MAH. Mah. CSBM: HAYDAR EFENDİ CAD. Kapı No: 328 Daire: 1 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 212,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "İBRAHİM OLUR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: BOZBEY CAD. Kapı No: 21\/1 Daire: 6 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 213,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "İLKER ÜMİT UYĞUL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 20,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: 1203 SK. Kapı No: 2 Daire: 3 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 214,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "İSMAİL AKBULUT",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "YAVUZSELİM MAH. Mah. CSBM: 904 NOLU SK. Kapı No: 16 Daire: 8 NURDAĞI GAZİANTEP",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 215,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "İSMAİL ENES GÖZÜKARA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 22,
+  "GELDİĞİ YER": "DEDEBABA MAH. Mah. CSBM: KIRIM SK. Kapı No: 16 Daire: 6 AFŞİN KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 216,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "İSMET KARLI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "HOCAÖMER MAH. Mah. CSBM: 201 SK. Kapı No: 3 Daire: 1 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 217,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KADİR AKSAÇ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "İSTİKLAL MAH. Mah. CSBM: 304. SK. Kapı No: 1\/1 Daire: 16 PERTEK TUNCELİ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 218,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KADRİYE TAŞHAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "YUNUS EMRE MAH. Mah. CSBM: 76010. SK. Kapı No: 19 Daire: 01 ONİKİŞUBAT KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 219,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KEVSER ŞİMİR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: 1229 SK. Kapı No: 5 Daire: 2 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 220,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MEHMET GÜNAY",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 55,
+  "GELDİĞİ YER": "YAVUZ SELİM MAH. Mah. CSBM: ABDALMUSA CAD. Kapı No: 2 Daire: 18 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 221,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MEHMET HALİL AKGÜL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 62,
+  "GELDİĞİ YER": "MUTLUKENT MAH. Mah. CSBM: 1920 CAD. Kapı No: 81 Daire: 30 ÇANKAYA ANKARA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 222,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MEHMET MUSTAFA KETENCİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 64,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: ATATÜRK BULVARI Kapı No: 132 Daire: 5 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 223,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MELİHA KOÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "ELVAN MAH. Mah. CSBM: 1819 CAD. Kapı No: 19 Daire: 6 ETİMESGUT ANKARA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 224,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MENEKŞE KONUR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: 3170. SK. Kapı No: 28 Daire: 4 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 225,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MERT GAZİ İZCİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 16,
+  "GELDİĞİ YER": "SIRATUT MAH. Mah. CSBM: CUMHURİYET CAD. Kapı No: 3 Daire: 4 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 226,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MERVE AKSAÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "İSTİKLAL MAH. Mah. CSBM: 304. SK. Kapı No: 1\/1 Daire: 16 PERTEK TUNCELİ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 227,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MERYEM ERCİYAS",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "CEBRAİL MAH. Mah. CSBM: 3.VARLIK SK. Kapı No: 6 Daire: 5 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 228,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MUHAMMED BARAN KILIÇ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 19,
+  "GELDİĞİ YER": "CUMHURİYET MAH. Mah. CSBM: 2541 SK. Kapı No: 17B Daire: 8 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 229,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MURAT ŞİYAR AKBULUT",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "YAVUZSELİM MAH. Mah. CSBM: 904 NOLU SK. Kapı No: 16 Daire: 8 NURDAĞI GAZİANTEP",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 230,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MUZAFFER KONUR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 12,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: MELTEM SK. Kapı No: 1 Daire: 5 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 231,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "NALAN PERİHAN BALCI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 64,
+  "GELDİĞİ YER": "ÇAY MAH. Mah. CSBM: 1452. SK. Kapı No: 11 Daire: 3 İSKENDERUN HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 232,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "NEVZİYE AKÜZÜM",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "CUMHURİYET MAH. Mah. CSBM: 30 AĞUSTOS CAD. Kapı No: 3 Daire: 2 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 233,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "NİHAL KİRAZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "TEPEBAŞI MAH. Mah. CSBM: 699C SK. Kapı No: 4- Daire: 2- KIZILTEPE MARDİN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 234,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ONUR DOĞRU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "GÜZELBURÇ MAH. Mah. CSBM: DİKMECE CAD. Kapı No: 16 Daire: 1 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 235,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ÖMER AKSAÇ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 2,
+  "GELDİĞİ YER": "İSTİKLAL MAH. Mah. CSBM: 304. SK. Kapı No: 1\/1 Daire: 16 PERTEK TUNCELİ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 236,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ÖMER FARUK EDİZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 19,
+  "GELDİĞİ YER": "SÜMEREVLER MAH. Mah. CSBM: 1711 SK. Kapı No: 9 Daire: 5 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 237,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ÖZEN KONUR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: MELTEM SK. Kapı No: 1 Daire: 5 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 238,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ÖZKAN KONUR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 45,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: MELTEM SK. Kapı No: 1 Daire: 4 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 239,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "PERİHAN TUNÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "CUMHURİYET MAH. Mah. CSBM: 2519 SK. Kapı No: 23 Daire: 2 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 240,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "RABİA BİLGİÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: 1204 SK. Kapı No: 11 Daire: 1 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 241,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "RAVA ZABADİ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 242,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "RECEP KELAHMETOĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 69,
+  "GELDİĞİ YER": "KÜÇÜKDALYAN MAH. Mah. CSBM: ABDÜLREZZAK PAŞA CAD. Kapı No: 1 Daire: 1 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 243,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SAFFAN MUTTALİP BOYRAZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "CUMHURİYET MAH. Mah. CSBM: 2596 SK. Kapı No: 2 Daire: 4 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 244,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SAMİ EMRE DOĞRU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 10,
+  "GELDİĞİ YER": "GÜZELBURÇ MAH. Mah. CSBM: DİKMECE CAD. Kapı No: 16 Daire: 1 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 245,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SELVER YILDIRIM",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 64,
+  "GELDİĞİ YER": "KADIOĞLUÇİFTLİĞİ MAH. Mah. CSBM: KADIOĞLUÇİFTLİĞİ12 SK. Kapı No: 10 TÜRKOĞLU KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 246,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SERCAN DEDE",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: 432 SK. Kapı No: 3 Daire: 10 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 247,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SİNEM DOĞRU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "GÜZELBURÇ MAH. Mah. CSBM: DİKMECE CAD. Kapı No: 16 Daire: 1 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 248,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "TUBA BİLGİÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 16,
+  "GELDİĞİ YER": "ALİTAŞI MAH. Mah. CSBM: 1204 SK. Kapı No: 11 Daire: 1 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 249,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "TUBA NAZ ŞENTÜRK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 13,
+  "GELDİĞİ YER": "SAKARYA MAH. Mah. CSBM: 1857. SK. Kapı No: 29E Daire: 9 İSKENDERUN HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 250,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "VESİLE GENÇ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "UZUNBAĞ MAH. Mah. CSBM: ANTAKYA SAMANDAĞ YOLU CAD. Kapı No: 75 Daire: 1 SAMANDAĞ HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 251,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "YAREN KUYDEŞEN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 22,
+  "GELDİĞİ YER": "ATAKENT MAH. Mah. CSBM: 804 CAD. Kapı No: 6\/8 Daire: 20 ETİMESGUT ANKARA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 252,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "YUNUS HAKVERDİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "KARATEPE MAH. Mah. CSBM: KARATEPE KÜME EVLERİ Kapı No: 38 BATTALGAZİ MALATYA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 253,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "YUSUF DEDE",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 72,
+  "GELDİĞİ YER": "AKEVLER MAH. Mah. CSBM: 432 SK. Kapı No: 3 Daire: 10 ANTAKYA HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 254,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ZEYNEP GÖRMEZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "MARA MAH. Mah. CSBM: 1327 SK. Kapı No: 7 Daire: 2 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 255,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ZEYNEP ZEYTİN ERKEK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "KARAPINAR MAH. Mah. CSBM: KARAPINAR CAD. Kapı No: 77 Daire: 6 MERKEZ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 256,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AHMET TOPUZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 79,
+  "GELDİĞİ YER": "HATAY ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 257,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AYSİMA KONUR",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "HATAY ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 258,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BAHADIR SEVİM",
+  "CİNSİYET": "ERKEK",
+  "GELDİĞİ YER": "HATAY ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 259,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "DURDANE ARSLAN",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 260,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ESRA TAŞDEMİR ",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "OSMANİYE",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 261,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FATMA DİKEN",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 262,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FATMANUR KAPLAN",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "OSMANİYE",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 263,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HATİCE AKSAÇ",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 264,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HİLAL SEVİM",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 265,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "MEDİHA TEKÇE",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 266,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "RÜZGAR DOĞRU",
+  "CİNSİYET": "ERKEK",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 267,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SEYRAN BARSAN",
+  "CİNSİYET": "KADIN",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 268,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KİMLİKSİZ HASTA 2023\/10",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 269,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KİMLİKSİZ HASTA 2023\/11",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 270,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KİMLİKSİZ HASTA 2023\/12",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 271,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KİMLİKSİZ HASTA 2023\/13",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 272,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KİMLİKSİZ HASTA 2023\/14",
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK"
+ },
+ {
+  "SIRA NO": 273,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "ALİ MERT ÇAYIR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 6,
+  "GELDİĞİ YER": " \/ KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 274,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "AZIZE OSMANI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "ERİŞKİN",
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 275,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BEBEK FATIMA OSMANI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 0,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 276,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BERAT KURT",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 277,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "DOĞU KARLI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 9,
+  "GELDİĞİ YER": " \/ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 278,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FATIMA OSMANI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 279,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "FATMA KARAKUŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "MERKEZ \/ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 280,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HİTMAN TAŞKIN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 58,
+  "GELDİĞİ YER": " \/ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 281,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "HÜSEYİN HEKİMOĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 7,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 282,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "KEREM DEMİRCİ",
+  "CİNSİYET": 4,
+  "YAŞ": 0,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 283,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SERKAN TAŞTAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "MERKEZ \/ ADIYAMAN",
+  "GELİŞ ŞEKLİ": "UÇAK",
+  "YOĞUN BAKIM": "X"
+ },
+ {
+  "SIRA NO": 284,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "SÜMER HEKİMOĞLU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 79,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "X"
+ },
+ {
+  "SIRA NO": 285,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "DERYA KAPUSUZ YAVUZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 286,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BÜŞRA GÖNÜLAL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ANTAKYA \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 287,
+  "HASTANE": "BİLKENT ŞH",
+  "ADI-SOYADI": "BURCU KURT",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 288,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "DEDE BİLDİRİCİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 72,
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 289,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "İNCİ DEMİR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 77,
+  "GELDİĞİ YER": "ANKARA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Bölüm 64 Kalp-Damar Cerrahisi"
+ },
+ {
+  "SIRA NO": 290,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "GÜLTEN BAKIR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "Yoğun Bakım Beyin ve Sinir Cerrahisi"
+ },
+ {
+  "SIRA NO": 291,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "ALİ ASLAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Bölüm 41 Plastik Cerrahi"
+ },
+ {
+  "SIRA NO": 292,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "ÖZKAN ÇANKIR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "Yoğun Bakım Anestezi-Reanimasyon 2"
+ },
+ {
+  "SIRA NO": 293,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "NACİYE ÇANKIR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 66,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 294,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "NADİYE ÇANKIR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "Yoğun Bakım İç Hastalıkları(Acil Binası) 1"
+ },
+ {
+  "SIRA NO": 295,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "TÜRKAN BEYGE",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 65,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Bölüm 52 Ortopedi"
+ },
+ {
+  "SIRA NO": 296,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "ZELİHA ARI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 54,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Acil Kritik Bakım"
+ },
+ {
+  "SIRA NO": 297,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "HATİCE SOYAK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Bölüm 62 Ortopedi"
+ },
+ {
+  "SIRA NO": 298,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "HAMZA SOYAK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 299,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "MUSTAFA BAKIR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Bölüm 54 Kalp-Damar Cerrahisi"
+ },
+ {
+  "SIRA NO": 300,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "HATİCE ÇEKMECELİOĞLU KUH",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 301,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "ECRİN ÇANKIR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 10,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Çocuk Acil Gözlem"
+ },
+ {
+  "SIRA NO": 302,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "ÇINAR ÇANKIR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Çocuk Acil Gözlem"
+ },
+ {
+  "SIRA NO": 303,
+  "HASTANE": "HACETTEPE ÜNİV.",
+  "ADI-SOYADI": "BURCU ARI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Çocuk Acil Gözlem"
+ },
+ {
+  "SIRA NO": 304,
+  "HASTANE": "YENİMAHALLE EAH",
+  "ADI-SOYADI": "NUH ÇELİK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "AİCL SERVİS"
+ },
+ {
+  "SIRA NO": 305,
+  "HASTANE": "YENİMAHALLE EAH",
+  "ADI-SOYADI": "KANİME DURAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 91,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "BEYİN CERRAHİSİ"
+ },
+ {
+  "SIRA NO": 306,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "HALİT KILIÇARSLAN",
+  "CİNSİYET": "E",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 307,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "TAYFUN ÜNAL ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ORTOPEDİ KONTROL "
+ },
+ {
+  "SIRA NO": 308,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "FUAT ASLAN",
+  "CİNSİYET": "E ",
+  "YAŞ": 14,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 309,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "ANIL KÜÇÜKAVCU",
+  "CİNSİYET": "E",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 310,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "BÜŞRA KOCACIK",
+  "CİNSİYET": "K",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 311,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "GAMZE PERDİ",
+  "CİNSİYET": "K",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 312,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "MEHMET ALKAN",
+  "CİNSİYET": "E",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "MALATYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 313,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "COŞKUN SOYLU ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 9,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 314,
+  "HASTANE": "GÖLBAŞI DH",
+  "ADI-SOYADI": "BÜŞRA KAPLAN ",
+  "CİNSİYET": "K",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 315,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "AYŞE ÖZKAN",
+  "CİNSİYET": "K ",
+  "YAŞ": 86,
+  "GELDİĞİ YER": "BELEN\/HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 316,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "TEMAM AVŞAR",
+  "CİNSİYET": "K ",
+  "YAŞ": 87,
+  "GELDİĞİ YER": "BELEN \/ HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 317,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "MUSTAFA HAKİM",
+  "CİNSİYET": "E",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 318,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "MECİT HAKİM ",
+  "CİNSİYET": "E",
+  "YAŞ": 19,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 319,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "YARA ALSHALABİ",
+  "CİNSİYET": "K ",
+  "YAŞ": 22,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 320,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "MUHAMMED HAKİM",
+  "CİNSİYET": "E",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 321,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "MUNTEHA AŞUR",
+  "CİNSİYET": "K ",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 322,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "İZZETTİN GÖZE",
+  "CİNSİYET": "E",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 323,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "CİHAT YILMAZ",
+  "CİNSİYET": "E",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 324,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "MEHMET ONUR ŞEYHİSMAİLOĞLU",
+  "CİNSİYET": "E",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 325,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "LEYLA YILMAZ",
+  "CİNSİYET": "K ",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 326,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "DENİZ BURTAŞKIRAY",
+  "CİNSİYET": "E",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 327,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "BETÜL ARAS",
+  "CİNSİYET": "K ",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 328,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "HASRET ÖRNEK",
+  "CİNSİYET": "K ",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 329,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "NADİDE ÖZDEMİR",
+  "CİNSİYET": "K ",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 330,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "ŞABAN BİRİŞBEK",
+  "CİNSİYET": "E",
+  "YAŞ": 71,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 331,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "ABDULLAH ÇAĞRI KİBARKAYA",
+  "CİNSİYET": "E",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 332,
+  "HASTANE": "29 MAYIS DH",
+  "ADI-SOYADI": "FATMA ÖZCAN ÖZDİL",
+  "CİNSİYET": "K ",
+  "YAŞ": 72,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 333,
+  "HASTANE": "ÖZEL GÜVEN HASTANESİ",
+  "ADI-SOYADI": "Buket Elif ÇELİK",
+  "CİNSİYET": "Kadın",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Acil Servis"
+ },
+ {
+  "SIRA NO": 334,
+  "HASTANE": "ÖZEL GÜVEN HASTANESİ",
+  "ADI-SOYADI": "Hanifi ÇELİK",
+  "CİNSİYET": "Erkek",
+  "YAŞ": 67,
+  "GELDİĞİ YER": "Antakya",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Acil Servis"
+ },
+ {
+  "SIRA NO": 335,
+  "HASTANE": "ÖZEL GÜVEN HASTANESİ",
+  "ADI-SOYADI": "Fatma ÇELİK",
+  "CİNSİYET": "Kadın",
+  "YAŞ": 70,
+  "GELDİĞİ YER": "Antakya",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "Acil Servis"
+ },
+ {
+  "SIRA NO": 336,
+  "HASTANE": "ÖZEL GÜVEN HASTANESİ",
+  "ADI-SOYADI": "Arzu YILMAZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "Antakya",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "Kol askısı uygulandı.",
+  "SERVİS": "HAYIR"
+ },
+ {
+  "SIRA NO": 337,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MAHİ ÖZTÜRK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 55,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 338,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MEHMET ÇINAR",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 339,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "HAKAN DURMUŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "PLASTİK CERRAHİ"
+ },
+ {
+  "SIRA NO": 340,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MELİKE DURMUŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "ORTOPEDİ"
+ },
+ {
+  "SIRA NO": 341,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "ŞEVKET MÜDÜROĞLU",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 342,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MEZİYET ALEV TEKDEMİR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "ANTAKYA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 343,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "LÜTFİYE ERYETLİ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 344,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "BURCU ARACI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "ANTAKYA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 345,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "LÜTFİYE ARACI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 70,
+  "GELDİĞİ YER": "ANTAKYA",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "exitus"
+ },
+ {
+  "SIRA NO": 346,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "ÜMRAN HAKVERDİ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 31,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "BELİRSİZ",
+  "SERVİS": "ORTOPEDİ"
+ },
+ {
+  "SIRA NO": 347,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "ALİ ARACI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 94,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "BELİRSİZ"
+ },
+ {
+  "SIRA NO": 348,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MUSA ZENGİN",
+  "CİNSİYET": "Erkek",
+  "YAŞ": 67,
+  "GELDİĞİ YER": "ADANA    ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "AMELİYAT"
+ },
+ {
+  "SIRA NO": 349,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "ATİLLA ÖZDEMİR",
+  "CİNSİYET": "ERKEK         ",
+  "YAŞ": 64,
+  "GELDİĞİ YER": "ANTAKYA",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 350,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "FATIMA EZZAHRA MAAKOUL",
+  "CİNSİYET": "KADIN        ",
+  "YAŞ": 22,
+  "GELDİĞİ YER": "ANTAKYA",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 351,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "SABAHAT ÖZDEMİR",
+  "CİNSİYET": "KADIN        ",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "HATAY",
+  "SERVİS": "NEFROLOJİ "
+ },
+ {
+  "SIRA NO": 352,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "MEHMET ALİ ÖZDEMİR",
+  "CİNSİYET": "ERKEK         ",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "HATAY",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 353,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "HÜLYA YURTSEVER",
+  "CİNSİYET": "KADIN     ",
+  "YAŞ": 53,
+  "GELDİĞİ YER": "HATAY",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 354,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "NİHAT AYDINLIOĞLU ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "HATAY"
+ },
+ {
+  "SIRA NO": 355,
+  "HASTANE": "GAZİ ÜNİVERSİTESİ",
+  "ADI-SOYADI": "OĞULCAN USUFLU ",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY"
+ },
+ {
+  "SIRA NO": 356,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "SÜHAM NAZİK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "CERRAHİ YOĞUN BAKIM",
+  "SERVİS": "YOK"
+ },
+ {
+  "SIRA NO": 357,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "Ege HİŞMİOĞLULLARI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "YOK",
+  "SERVİS": "YOK"
+ },
+ {
+  "SIRA NO": 358,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "EYÜP SARI ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ"
+ },
+ {
+  "SIRA NO": 359,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "SEZER KUŞEYRİ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 360,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "CEYHUN UÇAR ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "OSMANİYE",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 361,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "HÜLYA TANIR",
+  "CİNSİYET": "K",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "ANESTEZİ YOĞUN BAKIM"
+ },
+ {
+  "SIRA NO": 362,
+  "HASTANE": "SANATORYUM EAH",
+  "ADI-SOYADI": "BÜŞRA YÖRÜK",
+  "CİNSİYET": "K",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 363,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "NİHAL GÜLER",
+  "CİNSİYET": "K",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 364,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "SEDANUR YILMAZ",
+  "CİNSİYET": "K",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 365,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "BUSE SENEM ÖLÇÜCÜ",
+  "CİNSİYET": "K",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 366,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "SADİYE YILMAZ",
+  "CİNSİYET": "K",
+  "YAŞ": 60,
+  "GELDİĞİ YER": "ZONGULDAK",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 367,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "TUNAHAN GÜLER",
+  "CİNSİYET": "E",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 368,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "YUSUF KANAL",
+  "CİNSİYET": "E",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS            ORTOPEDİ                 DAHİLİYE"
+ },
+ {
+  "SIRA NO": 369,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "ALİ KANAL",
+  "CİNSİYET": "E",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS            ORTOPEDİ    "
+ },
+ {
+  "SIRA NO": 370,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "MİRAÇ ATEŞ",
+  "CİNSİYET": "E",
+  "YAŞ": 37,
+  "GELDİĞİ YER": "MALATYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS            ORTOPEDİ    "
+ },
+ {
+  "SIRA NO": 371,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "MUSTAFA TUTUCU",
+  "CİNSİYET": "E",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 372,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "MEHMET AKGÜN",
+  "CİNSİYET": "E",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 373,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "BETÜL AKGÜN",
+  "CİNSİYET": "K",
+  "YAŞ": 1,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 374,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "NESLİHAN ASLI AKGÜN",
+  "CİNSİYET": "K",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS            ORTOPEDİ   "
+ },
+ {
+  "SIRA NO": 375,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "BEBEK TEKE",
+  "CİNSİYET": "E",
+  "YAŞ": 0,
+  "GELDİĞİ YER": "ADANA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ÇOCUK POLK."
+ },
+ {
+  "SIRA NO": 376,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "SEVİN AL",
+  "CİNSİYET": "K",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 377,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "SELİN SEDA HAN",
+  "CİNSİYET": "K",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 378,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "GÖKTÜRK BUĞRA BAL",
+  "CİNSİYET": "E",
+  "YAŞ": 6,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 379,
+  "HASTANE": "ETİMESGUT DH",
+  "ADI-SOYADI": "ZAHİDE ATEŞ",
+  "CİNSİYET": "K",
+  "YAŞ": 39,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 380,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "HELİN İKLİM KAYA ",
+  "CİNSİYET": "K",
+  "YAŞ": 21,
+  "GELDİĞİ YER": "HATAY ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 381,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "MEHMET BUĞDAYCIGİL",
+  "CİNSİYET": "E ",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ORTOPEDİ YATIŞ"
+ },
+ {
+  "SIRA NO": 382,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "FATMA AYFER KELLECİ ",
+  "CİNSİYET": "K",
+  "YAŞ": 64,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ORTOPEDİ YATIŞ BEKLİYOR"
+ },
+ {
+  "SIRA NO": 383,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "MERYEM DİLA GÖNEN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 10,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ORTOPEDİ YATIŞ BEKLİYOR"
+ },
+ {
+  "SIRA NO": 384,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "FERHAT TUFAN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİSTE TEDAVİ ALTINDA"
+ },
+ {
+  "SIRA NO": 385,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "LATİFE TUFAN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 28,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİSTE TEDAVİ ALTINDA"
+ },
+ {
+  "SIRA NO": 386,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "AYSEL GÜNAL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİSTE TEDAVİ ALTINDA"
+ },
+ {
+  "SIRA NO": 387,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "ŞAHİN ÇETİNKAYA",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİSTE TEDAVİ ALTINDA"
+ },
+ {
+  "SIRA NO": 388,
+  "HASTANE": " ANKARA ÜNİ. İBN-İ SİNA",
+  "ADI-SOYADI": "AYSEL GÜNAL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 53,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİSTE TEDAVİ ALTINDA"
+ },
+ {
+  "SIRA NO": 389,
+  "HASTANE": "BEYTEPE DH",
+  "ADI-SOYADI": "HATİCE GÜLTEN ESMERGÜL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 76,
+  "GELDİĞİ YER": "ANTAKYA MERKEZ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "_",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 390,
+  "HASTANE": "BEYTEPE DH",
+  "ADI-SOYADI": "ÖZLEM YAĞMUR ÖĞÜTMEN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 391,
+  "HASTANE": "BEYTEPE DH",
+  "ADI-SOYADI": "MELTEM BAYEL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 392,
+  "HASTANE": "BEYTEPE DH",
+  "ADI-SOYADI": "ERKAN BAYEL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 393,
+  "HASTANE": "ÖZEL LOKMAN HEKİM HASTANESİ",
+  "ADI-SOYADI": "BEBEK EFNAN ERGEN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "6 GÜNLÜK",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 394,
+  "HASTANE": "ÖZEL LOKMAN HEKİM HASTANESİ",
+  "ADI-SOYADI": "NEZİHE ÖZDEMİR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "ADANA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 395,
+  "HASTANE": "ONKOLOJİ EAH",
+  "ADI-SOYADI": "NEHİD EBUDEY",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 40,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 396,
+  "HASTANE": "ONKOLOJİ EAH",
+  "ADI-SOYADI": "NECMETTİN KARATAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 58,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 397,
+  "HASTANE": "ONKOLOJİ EAH",
+  "ADI-SOYADI": "YUSUF KARATAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 398,
+  "HASTANE": "ONKOLOJİ EAH",
+  "ADI-SOYADI": "FERİDE ADAŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 399,
+  "HASTANE": "ONKOLOJİ EAH",
+  "ADI-SOYADI": "NURGİN ADAŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 400,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "AHMET CUMA ÇAPER",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 59,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 401,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "SEVAL ÇAPER",
+  "CİNSİYET": "K",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 402,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "KAAN ÇAPER",
+  "CİNSİYET": "E",
+  "YAŞ": 1,
+  "GELDİĞİ YER": "HATAY\/ANTAKYA",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 403,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "ELİF DİLAN FİLİZAY",
+  "CİNSİYET": "K",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 404,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "ÖMER DORUK FİLİZAY",
+  "CİNSİYET": "E",
+  "YAŞ": 2.5,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS\/ENJEKSİYON"
+ },
+ {
+  "SIRA NO": 405,
+  "HASTANE": "MAMAK DH",
+  "ADI-SOYADI": "MUHAMMED KASIMOĞLU",
+  "CİNSİYET": "E",
+  "YAŞ": 36,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 406,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "AYŞE SALMIŞ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 69,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 407,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "MURAT SALMIŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 43,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 408,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "CAFER YAYLACI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "47 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 409,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "MELTEM YAYLACI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "46 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 410,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "ŞÜKRÜ DAĞCI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "48 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 411,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "ELİF DAĞCI",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": "46 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 412,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "GİZEM AÇIKEL",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "22 yaş",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "KADIN DOĞUM SERVİSİ"
+ },
+ {
+  "SIRA NO": 413,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "BUKET ÖZDEMİR",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "23 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "KADIN DOĞUM SERVİSİ"
+ },
+ {
+  "SIRA NO": 414,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "NAZIM EFE YAYLACI",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "16 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 415,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "CABİN ÖVER",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": "56 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 416,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "SEVİM ÖVER",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "50 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 417,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "İLKNUR CAN ŞİMŞEK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": "11 YAŞ",
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 418,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "SİBEL ŞİMŞEK",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 42,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 419,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "RUHİ ŞİMŞEK",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 44,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 420,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "SERHAT SALMIŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 421,
+  "HASTANE": "SİNCAN DH ",
+  "ADI-SOYADI": "AYAZ EFE ÜLGÜT",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 7,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 422,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "YUSUF OĞUZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 20,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 423,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "MERVE SERTKAYA",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 424,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Özlem Gümüş",
+  "CİNSİYET": "K",
+  "YAŞ": 41,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 425,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "İsmail Gümüş",
+  "CİNSİYET": "E",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 426,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Büşra Gümüş",
+  "CİNSİYET": "K",
+  "YAŞ": 15,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 427,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Neslin Hülya Kanıbir",
+  "CİNSİYET": "K",
+  "YAŞ": 52,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 428,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Levent Manaz",
+  "CİNSİYET": "E",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "İskenderun",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 429,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Umut Kuşluoğlu",
+  "CİNSİYET": "E",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "Osmaniye",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 430,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Barış Virancıklı",
+  "CİNSİYET": "E",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 431,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Seda Çobaner",
+  "CİNSİYET": "K",
+  "YAŞ": 38,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 432,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "İlker Çobaner",
+  "CİNSİYET": "E",
+  "YAŞ": 39,
+  "GELDİĞİ YER": "Hatay",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 433,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "SEMA ÖMEROĞLU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 77,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 434,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Mustafa Biçer",
+  "CİNSİYET": "E",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "Kahramanmaraş",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 435,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Merva Biçer",
+  "CİNSİYET": "K",
+  "YAŞ": 34,
+  "GELDİĞİ YER": "Kahramanmaraş",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 436,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Haydar Irmaklı",
+  "CİNSİYET": "E",
+  "YAŞ": 47,
+  "GELDİĞİ YER": "Kahramanmaraş",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 437,
+  "HASTANE": "ANKARA EAH",
+  "ADI-SOYADI": "Gülay Akıl",
+  "CİNSİYET": "K",
+  "YAŞ": 63,
+  "GELDİĞİ YER": "Hatay-Kırıkhan",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 438,
+  "HASTANE": "ÖZEL MEMORİAL ANKARA HASTANESİ",
+  "ADI-SOYADI": "Birsen Çağlar",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 72,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 439,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "NESRİN ÇEMTAŞ ",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 46,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 440,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "ZEYNEP NUR CEMTAŞ",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 17,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 441,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "HAYRULLAH ALTUN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 48,
+  "GELDİĞİ YER": "İSKENDERUN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 442,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "ALİ CEMTAŞ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 56,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 443,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "KEREM ÖZ",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 50,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 444,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "AYŞE SÖNMEZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 27,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 445,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "FATMA SÖNMEZ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 29,
+  "GELDİĞİ YER": "KAHRAMANMARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 446,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "NUĞMAN BOLAT",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 56,
+  "GELDİĞİ YER": "GAZİANTEP",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 447,
+  "HASTANE": "DIŞKAPI EAH",
+  "ADI-SOYADI": "DURDANE BAŞAK ÖZ ",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL"
+ },
+ {
+  "SIRA NO": 448,
+  "HASTANE": "ÇUBUK DH",
+  "ADI-SOYADI": "BÜŞRA ŞAHİN",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 449,
+  "HASTANE": "ÇUBUK DH",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ORTOPEDİ POLK."
+ },
+ {
+  "SIRA NO": 450,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "GÜLCAN AYDOĞAN",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 451,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "ÜNSAL ÜNVEREN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 49,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 452,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "YUSUF EMİN ÜNVEREN",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 18,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 453,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "SARE GÖĞEBAKANLI",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 45,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 454,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "MUHAMMED ELABİAL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 455,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "TÜRKAN ÖZKAN",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 456,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "AYFER ÇAYLI",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 51,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 457,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "FATMA AYTEMİZ",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 57,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 458,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "REMZİ AYTEMİZ",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "K.MARAŞ",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 459,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "BESİME GÜNEŞ",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 75,
+  "GELDİĞİ YER": "ADIYAMAN",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 460,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "NURCAN İNCE",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 461,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "NURSEN GÜSÜM",
+  "CİNSİYET": "KADIN ",
+  "YAŞ": 33,
+  "GELDİĞİ YER": "OSMANİYE",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 462,
+  "HASTANE": "PURSAKLAR DH",
+  "ADI-SOYADI": "ALİ FUAT ÜNAL",
+  "CİNSİYET": "ERKEK",
+  "YAŞ": 55,
+  "GELDİĞİ YER": "OSMANİYE",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "YOĞUN BAKIM": "-",
+  "SERVİS": "-"
+ },
+ {
+  "SIRA NO": 463,
+  "HASTANE": "ÖZEL MEDİSUN ÇAYYOLU HASTANESİ",
+  "ADI-SOYADI": "NURTEN YARDIMCI",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 66,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "ACİL SERVİS"
+ },
+ {
+  "SIRA NO": 464,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "UĞUR CAN DOĞAN ",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 465,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "OĞUZ ÇEVİK",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 23,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 466,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "GÖKHAN ŞANLI",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 35,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 467,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "FURKAN GİRAY ÖZKARA",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 26,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 468,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "İLKAN KELEŞOĞLU",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 24,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 469,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "ADNAN TAYFUR",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 30,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "SIRA NO": 470,
+  "HASTANE": "ACIBADEM ANKARA HASTANESİ",
+  "ADI-SOYADI": "OUSSEM BOUDJENAH",
+  "CİNSİYET": "ERKEK ",
+  "YAŞ": 32,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ },
+ {
+  "HASTANE": "ÖZEL LOSANTE HASTANESİ",
+  "ADI-SOYADI": "SEMA ÖMEROĞLU",
+  "CİNSİYET": "KADIN",
+  "YAŞ": 77,
+  "GELDİĞİ YER": "HATAY",
+  "GELİŞ ŞEKLİ": "ŞAHSİ",
+  "SERVİS": "TABURCU"
+ }
+],
+"Sayfa2":[
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "HASTANE ADI",
+  "Column2": "GELEN VAKA SAYISI ",
+  "Column3": "TABURCU SAYISI",
+  "Column4": "VEFAT SAYISI",
+  "Column5": "AKTİF HASTA "
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ETLİK ŞEHİR HASTANESİ",
+  "Column2": 143,
+  "Column3": 18,
+  "Column4": 2,
+  "Column5": 123
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "BİLKENT ŞH",
+  "Column2": 114,
+  "Column3": 18,
+  "Column4": 1,
+  "Column5": 95
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "GÜLHANE EAH",
+  "Column2": 30,
+  "Column3": 6,
+  "Column4": 0,
+  "Column5": 24
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "GAZİ ÜNİVERSİTESİ",
+  "Column2": 19,
+  "Column3": 7,
+  "Column4": 1,
+  "Column5": 11
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "29 MAYIS DH",
+  "Column2": 18,
+  "Column3": 15,
+  "Column4": 0,
+  "Column5": 3
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ETİMESGUT DH",
+  "Column2": 17,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 17
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "HACETTEPE ÜNİV.",
+  "Column2": 16,
+  "Column3": 0,
+  "Column4": 1,
+  "Column5": 15
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "SİNCAN DH ",
+  "Column2": 16,
+  "Column3": 1,
+  "Column4": 0,
+  "Column5": 15
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "PURSAKLAR DH",
+  "Column2": 13,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 13
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ANKARA EAH",
+  "Column2": 16,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 16
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": " ANKARA ÜNİ. İBN-İ SİNA",
+  "Column2": 9,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": 5
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "GÖLBAŞI DH",
+  "Column2": 9,
+  "Column3": 2,
+  "Column4": 0,
+  "Column5": 7
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "SANATORYUM EAH",
+  "Column2": 7,
+  "Column3": 6,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ACIBADEM ANKARA HASTANESİ",
+  "Column2": 7,
+  "Column3": 7,
+  "Column4": 0,
+  "Column5": 0
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "MAMAK DH",
+  "Column2": 6,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 6
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ONKOLOJİ EAH",
+  "Column2": 5,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 5
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "DIŞKAPI EAH",
+  "Column2": 9,
+  "Column3": 8,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL GÜVEN HASTANESİ",
+  "Column2": 4,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": 0
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "BEYTEPE DH",
+  "Column2": 4,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 4
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "YENİMAHALLE EAH",
+  "Column2": 2,
+  "Column3": 1,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOKMAN HEKİM HASTANESİ",
+  "Column2": 2,
+  "Column3": 1,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÇUBUK DH",
+  "Column2": 2,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 2
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEMORİAL ANKARA HASTANESİ",
+  "Column2": 1,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL MEDİSUN ÇAYYOLU HASTANESİ",
+  "Column2": 1,
+  "Column3": 0,
+  "Column4": 0,
+  "Column5": 1
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "ÖZEL LOSANTE HASTANESİ",
+  "Column2": 1,
+  "Column3": 1,
+  "Column4": 0,
+  "Column5": 0
+ },
+ {
+  "ANKARA İL SAĞLIK MÜDÜRLÜĞÜ\nAFETZEDE HASTA BİLGİSİ": "TOPLAM ",
+  "Column2": 470,
+  "Column3": 99,
+  "Column4": 5,
+  "Column5": 367
+ }
+]
+}

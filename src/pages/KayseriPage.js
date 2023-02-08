@@ -2,7 +2,7 @@ import "../App.css";
 import React, { useState, useEffect } from "react";
 import g from "../data/kayseridata.json";
 import ReactPaginate from "react-paginate";
-import Navbar from "../components/Navbar";
+import NavbarSite from "../components/Navbar";
 
 function KayseriPage() {
   const [items, setItem] = useState([]);
@@ -42,7 +42,7 @@ function KayseriPage() {
 
   return (
     <div>
-      <Navbar />
+      <NavbarSite />
       <h1 className="h1"> Kayseri Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">

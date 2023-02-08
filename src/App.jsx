@@ -1,8 +1,8 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
-import f from "./data/data.json";
+import f from "./data/mersindata.json";
 import ReactPaginate from "react-paginate";
-import Navbar from "./components/Navbar";
+import NavbarSite from "./components/Navbar";
 
 function App() {
   const [items, setItem] = useState([]);
@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div>
-      <Navbar />
+      <NavbarSite />
       <h1 className="h1"> Mersin Şehir Hastanesine Getirilen Kişiler</h1>
       <br />
       <div className="input-group">
