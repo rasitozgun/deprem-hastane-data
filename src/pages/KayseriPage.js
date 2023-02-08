@@ -10,9 +10,8 @@ function KayseriPage() {
   //arama yapılacak veriyi tutuyor hiç değişmiyor
   const [searchItem, setSearchItem] = useState([]);
   //filter item arama kutusundaki metni tutuyor
-  const [filterIsimItem, setFilterIsimItem] = useState("");
-  
-  const [filterYerItem, setFilterYerItem] = useState("");
+  const [nameFilter, setNameFilter] = useState("");
+  const [placeFilter, setPlaceFilter] = useState("");
   const [currentItemPage, setCurrentItemPage] = useState(1);
   const postItemPerPage = 120;
 
@@ -29,7 +28,7 @@ function KayseriPage() {
 
   const totalPosts = Math.ceil(items.length / postItemPerPage);
 
-  const handleIsimFilter = (e) => {
+  const handleNameFilter = (e) => {
     if (e.target.value === "") {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
@@ -38,9 +37,9 @@ function KayseriPage() {
       );
       setItem(filterResult);
     }
-    setFilterIsimItem(e.target.value);
+    setNameFilter(e.target.value);
   };
-  const handleYerFilter = (e) => {
+  const handlePlaceFilter = (e) => {
     if (e.target.value === "") {
       setItem(searchItem);
     } else if (regex.test(e.target.value)) {
@@ -49,7 +48,7 @@ function KayseriPage() {
       );
       setItem(filterResult);
     }
-    setFilterYerItem(e.target.value);
+    setPlaceFilter(e.target.value);
   };
 
   const handlePageClick = (data) => {
@@ -65,15 +64,15 @@ function KayseriPage() {
         <div className="form-outline ">
           <input
             type="search"
-            value={filterIsimItem}
-            onInput={(e) => handleIsimFilter(e)}
+            value={nameFilter}
+            onInput={(e) => handleNameFilter(e)}
             className={"form-control justify-content-center"}
             placeholder="İsim Aratınız"
           />
           <input
             type="search"
-            value={filterYerItem}
-            onInput={(e) => handleYerFilter(e)}
+            value={placeFilter}
+            onInput={(e) => handlePlaceFilter(e)}
             className={"form-control justify-content-center"}
             placeholder="Yer Bilgisi Aratınız"
           />
