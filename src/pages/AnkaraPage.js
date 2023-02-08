@@ -105,7 +105,7 @@ function AnkaraPage() {
             <tr key={d["sira"]} className={"text-center"}>
               <th scope="row">{d["sira"]}</th>
               {d["isim"] === null ? <td></td> : <td>{d["isim"]}</td>}
-              <td>{d["yer"]}</td>
+              {d["yer"] === null ? <td></td> : <td>{d["yer"]}</td>}
               <td>{d["hastane"]}</td>
               <td>{d["cinsiyet"]}</td>
               {d["servis"] === null ? <td></td> : <td>{d["servis"]}</td>}
