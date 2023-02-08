@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import g from '../data/adanadata.json';
 import ReactPaginate from 'react-paginate';
 import Navbar from '../components/Navbar';
+import LocIcon from '../components/LocIcon';
 
 function AdanaPage() {
   const [items, setItem] = useState([]);
@@ -46,7 +47,13 @@ function AdanaPage() {
     <div>
       <Navbar />
 
-      <h1 className="h1"> Adana Şehir Hastanesine Getirilen Kişiler</h1>
+      <h1 className="h1">
+        {' '}
+        Adana Şehir Hastanesine Getirilen Kişiler{' '}
+        <a href="https://goo.gl/maps/YVuwSzPTcGY8RTSs7">
+          <LocIcon></LocIcon>
+        </a>
+      </h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
