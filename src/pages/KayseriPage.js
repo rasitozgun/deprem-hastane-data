@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import g from '../data/kayseridata.json';
 import ReactPaginate from 'react-paginate';
 import NavbarSite from '../components/Navbar';
-
+import LocIcon from '../components/LocIcon';
 function KayseriPage() {
   //gösterilecek filtrelenen veri
   const [items, setItem] = useState([]);
@@ -62,7 +62,13 @@ function KayseriPage() {
   return (
     <div>
       <NavbarSite />
-      <h1 className="h1"> Kayseri Şehir Hastanesine Getirilen Kişiler</h1>
+      <h1 className="h1">
+        {' '}
+        Kayseri Şehir Hastanesine Getirilen Kişiler
+        <a href="https://goo.gl/maps/cos8h8BXhV3GpUQw8">
+          <LocIcon></LocIcon>
+        </a>
+      </h1>
       <br />
       <div className="input-group">
         <div className="form-outline ">
