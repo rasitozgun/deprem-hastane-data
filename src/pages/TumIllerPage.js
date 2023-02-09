@@ -3,7 +3,6 @@ import React, { useState, useEffect } from "react";
 import g from "../data/localization.json";
 import ReactPaginate from "react-paginate";
 import NavbarSite from "../components/Navbar";
-import LocIcon from "../components/LocIcon";
 function TumIllerPage() {
   //gösterilecek filtrelenen veri
   const [items, setItem] = useState([]);
