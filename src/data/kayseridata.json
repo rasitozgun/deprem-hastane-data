@@ -1,2313 +1,2016 @@
 {
   "data": [
     {
-      "girisTarihi": "7.02.2023",
-      "isim": "ADALET BİRTEK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "pelvis yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GÖZ SERVİSİ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET BUĞRA KARAKAŞ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AHMET ÇINAR ÇAYLAR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET GÖKDENİZ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET KEKEÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "lomber vertebra kırığı",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET ÖZDEMİR",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET YANIK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış,\nyer tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET YÜÇE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AHMET YÜÇE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AİŞE EMİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Üst solunum yolu diğer hastalıkları",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AKKIZ ÇAKMAK",
-
-      "geldigiYer": "GAZİANTEP",
-      "tani": "Başın açık yarası",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ALİ DEMİR",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ALİ EREN BERK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ALİ FARUK ASLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ALİN GÜNEN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ALPARSLAN KÖYLÜ",
-
-      "geldigiYer": "ŞANLIURFA",
-      "tani": "Üst solunum yolu diğer hastalıkları",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ALPEREN KÖYLÜ",
-
-      "geldigiYer": "ŞANLIURFA",
-      "tani": "Üst solunum yolu diğer hastalıkları",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AMİNE ÖZBOLAT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Epilepsi, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ARAFA DURDU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ARAS YÜCEL",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Travmatik pnömotoraks",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ASEL YETER KURT",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ATİKE DEĞİRMENCI",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ATİKE DEĞİRMENCI",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYHAN AKSOY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AYNUR BİLİNMİYOR",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AYSEL ASLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kalça burkulma ve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYSEL KARAVELİOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AYŞE AKAY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dizin diğer ve tanımlanmamış yerlerinin\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYŞE BECERİKLİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "bulantı kusma",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AYŞE KAMALAK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYŞE OĞUZHANOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYŞE YAPRAK",
-
-      "geldigiYer": "HATAY",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYŞENUR EFE KILIÇ",
-
-      "geldigiYer": "HATAY",
-      "tani": "Gebelik durumu",
-      "birim": "ACİL KADIN DOĞUM",
-      "yatisYeri": "LDR DOĞUM SERVİSİ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYTEKİN İKBAL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın açık yarası",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "AYTEN TOPLAMA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "AZRA DENİZ HAKVERDİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BAHAR AKKUŞ",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BASRA KARADAĞ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Femur kırığı, yer tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GENEL CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BASRA KARADAĞ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Femur kırığı, yer tanımlanmamış",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "GENEL CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BATUHAN KOCA",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK ABDULLAH",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK BATTAL",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK BUCAK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK CEYHAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK DENİZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK DENİZ 2",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK EJDERHA",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK ENES",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK FUAO",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK HAYRİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK KILINÇ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kardiyak arrest, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "EX DUHUL"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEBEK KILINÇ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK KITAY",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Üst solunum yolunun hastalığı,\ntanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK KURT",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kardiyak arrest, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK ÖZÇELİK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Rutin çocuk sağlığı muayenesi",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEBEK SULAR",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK PALYATİF BAKIM SERVİS YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEKİR AĞZIBÜYÜK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BENZİL BOLOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "HUMERUS KONDİL FX",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BENZİL BOLOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "HUMERUS KONDİL FX",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BEREN NİSA KOYUNCU",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BERRA KARAVELİOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BETÜL DÖKME",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "BEYZA NUR OĞUZHANOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BİSEN KUREYTİM",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "BÜŞRA ÇELEBİ",
-
-      "geldigiYer": "HATAY",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "CEMİL ŞENOL",
-
-      "geldigiYer": "GAZİANTEP",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "CİHAN BOSTAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "CUMA GÜL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "DAVUT DAL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "baş ağrısı",
-      "birim": "ACİL YEŞİL MUAYENE 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "DERYA BOLAT",
-
-      "geldigiYer": "HATAY",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "DERYA METE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak parmak(lar)ın burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "DİĞER BEBEK BEBEK DAĞ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "DÖNDÜ ÖZDEMİR",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "DÖNDÜ SÜMEYYE BERK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ECRİN ADA POLAT",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "EDA KAPLAN",
-
-      "geldigiYer": "SİVAS",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ELİF ALPARSLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Karın ağrısı diğer ve tanımlanmamış",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ELİF ASEL ŞENOL",
-
-      "geldigiYer": "GAZİANTEP",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ELİF DEMİRBİLEK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ELİF HAC HALİL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ELİF KÖROĞLU",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ELİF NİSA KÖVCE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ELİF ÖZDEN",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Düşme, tanımlanmamış",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EMİN BİLGİÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "omuzun bursiti",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EMİNE BALTACI",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "EMİNE ÇİFTÇİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüksekten Düşme",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "EMİNE ÇİFTÇİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüksekten Düşme",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EMİNE GÖZBÜYÜK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EMİNE HAMİŞ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve elin açık yarası",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EMİR CAN TÜYLÜ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ENES KAMALAK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ADÖLESAN SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ENES KOYUNCU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ERENCAN YILDIRIM",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Sürücü yaralanması, trafik kazalarında diğer\nve tanımlanmamış motorlu araçlarla\nçarpışmada",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EROL AKSAKAL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Subaraknoid hemoraji, tanımlanmamış",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ESMA NUR KARAOĞLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "YANIK SERVİS YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ESRA DOBAOĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ESRA ÖNER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ESRA ŞAHİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "EYLÜL ÇİFTLİKÇİ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "EZGİ ŞEN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FADİME DEĞİRMENCİ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FADİME DEĞİRMENCİ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FATMA BUSE TAŞ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "baldırın yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FATMA CULFA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "FATMA KENGER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FAZIL BİLİNMİYOR",
-      "geldigiYer": "?",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FEHMİ ZOR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FEHMİ ZOR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "FERHAN DALDABAN",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FİLİZ KAYA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "FİRAS HAC HALİL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GAMZE ERYILMAZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GAMZE GÖZEL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GİZEM GEÇİMLİ",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Ayak parmak(lar)ın burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "GONCA KENGER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÖKHAN ÇELK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "GÜL NİHAL SÜRMELİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "GÜLAY AY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Thrakal Fraktur",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÜLLÜ CULFA",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÜLŞAH KURT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÜLÜMSER AÇIKGÖZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Deprem kurbanı",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÜMÜŞ SARIÇOBAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "GÜNEŞ YARIM",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "srebral palsi",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HACER AÇIKGÖZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HACER CERAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HACER CEREN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HACI ALİ HARMANCIKLI",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Birden fazla kırıklar, tanımlanmamış, kapalı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HACI VEYSEL KARAGÜN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HANDE UZUNKAYA",
-
-      "geldigiYer": "HATAY",
-      "tani": "Gebelik durumu",
-      "birim": "ACİL KADIN DOĞUM",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HASAN GERİMAHMED",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Lumbago, siyatik ile",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HASAN HÜSEYİN KARA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "ön kol yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HAŞİM AYTAÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dirsek burkulma ve gerilmesi",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HAŞİM AYTAÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dirsek burkulma ve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HATİCE ARSLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HATİCE AYTAÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HATİCE AYTAÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HATİCE NUR DAĞDÖNDEREN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dorsalji",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HATİCE POLAT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Birden fazla vücut bölgesinin yanık ve\nkorozyonları",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "YANIK SERVİS YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HATİCE SETTAR",
-      "geldigiYer": "KAYSERİ",
-      "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HAYRUNİSA ARSLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Üst solunum yolu diğer hastalıkları",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "HİLAL AY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Boyun ağrısı",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HSAN KARTAL",
-      "geldigiYer": "ADIYAMAN",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "HÜSNE DÖKME",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İBRAHİM MARPE",
-
-      "geldigiYer": "?",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "İBRAHİM ŞAHUTOGLU",
-
-      "geldigiYer": "HATAY",
-      "tani": "Diyalize bağımlılık",
-      "birim": "ACİL YEŞİL MUAYENE 1",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "İKBAL CAFEROĞLU",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "İKRA ERÇIKTI",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İKRAM ALAKAŞ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "baş ağrısı",
-      "birim": "ACİL YEŞİL MUAYENE 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İKRANAZ BALTACI",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İSİMSİZ A MARAŞ İSİMSİZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İSİMSİZ MARAŞ D",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "İSMAİL KIRAÇ",
-
-      "geldigiYer": "ADIYAMAN",
-      "tani": "Omuz eklemi burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İSMAİL TAHİROĞLU",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "İSMAİL TÜYSÜZ",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "İSRA ŞERİF",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "KADİR CAN AĞZIBÜYÜK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "KEMAL ARAS GÖZEL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Travmatik pnömotoraks",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI 4",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "KENAN ALMA",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Bir ayak ve diğer bacak [herhangi bir\nseviyede, ayak hariç] travmatik ampütasyonu",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "KEREM ABDULLAH ANTÜRK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "KISMET POLAT",
-      "geldigiYer": "ADIYAMAN",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "KÜBRA KEKEÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nBurkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MAHMUT BAHAR",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Femur Boyun Fraktürü",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MAHMUT BAHAR",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Femur Boyun Fraktürü",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MARAŞ İSİMSİZ B",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MARAŞ İSİMSİZ C",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEHMET ALİ KURTUL",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEHMET DİNÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEHMET DÖKME",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Alt karnın diğer bölgelerine lokalize ağrı",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MEHMET KAYA",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEHMET POLAT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "SÜT ÇOCUĞU SERVİSİ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEHMET TOPAL",
-
-      "geldigiYer": "MALATYA",
-      "tani": "baş ağrısı",
-      "birim": "ACİL MUAYNE 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MELEK ÖZDEMİR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "karın bel ve pelvisin yüzeysel yaralanmaları",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MELİKE POLAT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MEMİŞ POYRAZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MERDİYE ZOR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Bel ağrısı",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MERT KIŞLAK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Akut bronşit, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ADÖLESAN SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MERYEM DİLA GÖNEN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MERYEM DİLA GÖNEN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MERYEM TOPLAMA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MESUT TÖR",
-      "geldigiYer": "HATAY",
-      "tani": "lomber vertebra kırığı",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MİRAY GÖZÜBÜYÜK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MİRTÜRK DAĞLIOĞLU",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMED AKDERE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Birden fazla çıkık, burkulma ve gerilmeleri,\ntanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMED EFE ARSLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMED EMİN ÇETİN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMED İNBAYED",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMET EMİN AĞZIBÜYÜK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Epilepsi, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMET KOBBAŞ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHAMMET YAKUP AYKIN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHİBE YILMAZ",
-
-      "geldigiYer": "HATAY",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHİTTİN BOYALI",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUHİTTİN YILMAZ",
-
-      "geldigiYer": "HATAY",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MURAT AĞZIKÜÇÜK",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MUSA ÇELİK",
-
-      "geldigiYer": "HATAY",
-      "tani": "Omuz eklemi burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUSTAFA BAYRI",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış, yer tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUSTAFA BERKAY GÜNDÜZ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUSTAFA GÜLER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "KVC YOĞUN BAKIM"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUSTAFA MERT",
-
-      "geldigiYer": "HATAY",
-      "tani": "baldırın yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "MUSTAFA ÖNER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MÜCAHİT ERSOY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "MÜŞÜDE ŞAHİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış, yer tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "NACİYE GEMCİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kronik böbrek yetmezliği, tanımlanmamış",
-      "birim": "ACİL SARI ALAN MUAYENE\n1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "NAZMİYE ÇİÇEK",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Dirsek eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "NEJLA KRAL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Boyun ve başın çıkık, burkulma ve gerilmeleri",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "NERGİZ POLAT",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "NESLİ ACER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Düşme, tanımlanmamış",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "NİDA NUR SOYUER",
-
-      "geldigiYer": "ADIYAMAN",
-      "tani": "Bel ağrısı",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "NUR BANU KANKALLI",
-
-      "geldigiYer": "GAZİANTEP",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "OĞUZHAN KARAHÖYÜKLÜ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dorsalji",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "OKAN ÇELEBİ",
-
-      "geldigiYer": "AMASYA",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ORHAN ÇETİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "OSMAN EYMEN ATAÇ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Travmatik pnömotoraks",
-      "birim": "ACİL RESÜSİTASYON 2",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ÖMER ÇAMOĞLU",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ÖMER TEL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ÖYKÜ KÖVCE",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "RABİA DOĞAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "RAGİBE YILDIRIM",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "RAHİME SUNULU",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Düşme, tanımlanmamış",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "RAMAZAN SARIBAŞ",
-
-      "geldigiYer": "?",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "REVAN ŞERİF",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "REYYAN NEVA YILMAZ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "RUKİYE CEYHAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "RUVEYDA NETCAR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "RÜVEYDA ŞERİF",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "SABİHA FİNCAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Kalça burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SALİH DÖKME",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SEHER AĞZIBÜYÜK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SELÇUK YAVUZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SELMA TEKİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "SELVER ACER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SERAP ÇİÇEK",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Omuz eklemi burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "SERKAN ERÇIKTI",
-
-      "geldigiYer": "MALATYA",
-      "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SERPİL KARAGÖZ TOPAL",
-      "geldigiYer": "MALATYA",
-      "tani": "Karın ağrısı diğer ve tanımlanmamış",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SEVİLAY SÖNMEZ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "KALP DAMAR CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "SEYDİ GÜNGÖR",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SIDIKA TEK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "dismonere",
-      "birim": "ACİL KADIN DOĞUM",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "SITKI AYDIN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "SONAY CULFA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yüzeysel kafa yaralanması",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ŞABAN YALÇIN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ŞENGÜL KARAGÖZ",
-      "geldigiYer": "MALATYA",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "TANER ALPARSLAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Eklem ağrısı",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "TUBA YEŞİL",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "TUĞBA ALPAY",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "TUĞBA BILDIRCIN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "TUNCAY YILDIZ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Solunum yetmezliği, tanımlanmamış",
-      "birim": "ACİL ÇOCUK MUAYENE\nODASI",
-      "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "TURGAY KABA",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "EX DUHUL",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "EX DUHUL"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "TÜRKAN UĞRAŞ",
-
-      "geldigiYer": "KAYSERİ",
-      "tani": "Toraks yüzeysel yaralanması",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "UHUD KAAN KILIÇ",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ÜMRAN HAKVERDİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "SAĞ LATERAL VE MEDİAL MALLEOL FX",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ÜMÜS AYDIN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ÜRGER SUNULU",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Dirsek burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TABURCU"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "VELLE SÜLEYMAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAĞIZ EFE ÖNER",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAĞIZ EREN AKSOY",
-
-      "geldigiYer": "HATAY",
-      "tani": "El bileği burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "YAHYA CANİK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL RESÜSİTASYON 1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAHYA CANİK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAHYA CANİK",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAREN DEĞİRMENCİ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "YAŞAR KEMAL TAN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Omuz eklemi burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YAŞAR TIRINK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
-      "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
-      "yatisYeri": "GASTRO SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "YUSUF ŞİRİN",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileğinin burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "YÜCEL YILDIRIM",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 1",
-      "yatisYeri": "GÖZ SERVİSİ"
-    },
-    {
-      "girisTarihi": "6.02.2023",
-      "isim": "ZEHRA ANTÜRK",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ZEYNEP ALPASLAN",
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ZEYNEP GÜLŞEN",
-
-      "geldigiYer": "DİYARBAKIR",
-      "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL TRAVMA BİRİMİ 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
-    },
-    {
-      "girisTarihi": "7.02.2023",
-      "isim": "ZEYNEP YILMAZ",
-
-      "geldigiYer": "KAHRAMANMARAŞ",
-      "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
-      "birim": "ACİL MUAYENE 3",
-      "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+        "girisTarihi": "7.02.2023",
+        "isim": "ADALET BİRTEK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "pelvis yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GÖZ SERVİSİ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET BUĞRA KARAKAŞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AHMET ÇINAR ÇAYLAR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET GÖKDENİZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET KEKEÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "lomber vertebra kırığı",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET ÖZDEMİR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET YANIK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış,\nyer tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AHMET YÜÇE",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AİŞE EMİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Üst solunum yolu diğer hastalıkları",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AKKIZ ÇAKMAK",
+        "geldigiYer": "GAZİANTEP",
+        "tani": "Başın açık yarası",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ALİ DEMİR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ALİ EREN BERK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ALİ FARUK ASLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ALİN GÜNEN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ALPARSLAN KÖYLÜ",
+        "geldigiYer": "ŞANLIURFA",
+        "tani": "Üst solunum yolu diğer hastalıkları",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ALPEREN KÖYLÜ",
+        "geldigiYer": "ŞANLIURFA",
+        "tani": "Üst solunum yolu diğer hastalıkları",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AMİNE ÖZBOLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Epilepsi, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ARAFA DURDU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ARAS YÜCEL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Travmatik pnömotoraks",
+        "birim": "ACİL RESÜSİTASYON 2",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ASEL YETER KURT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ATİKE DEĞİRMENCI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYHAN AKSOY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AYNUR BİLİNMİYOR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AYSEL ASLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kalça burkulma ve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYSEL KARAVELİOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AYŞE AKAY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Dizin diğer ve tanımlanmamış yerlerinin\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYŞE BECERİKLİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "bulantı kusma",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AYŞE KAMALAK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYŞE OĞUZHANOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYŞE YAPRAK",
+        "geldigiYer": "HATAY",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYŞENUR EFE KILIÇ",
+        "geldigiYer": "HATAY",
+        "tani": "Gebelik durumu",
+        "birim": "ACİL KADIN DOĞUM",
+        "yatisYeri": "LDR DOĞUM SERVİSİ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYTEKİN İKBAL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın açık yarası",
+        "birim": "ACİL RESÜSİTASYON 2",
+        "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "AYTEN TOPLAMA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "AZRA DENİZ HAKVERDİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BAHAR AKKUŞ",
+        "geldigiYer": "KAYSERİ",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BASRA KARADAĞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Femur kırığı, yer tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GENEL CERRAHİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BATUHAN KOCA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEBEK ABDULLAH",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK BATTAL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK BUCAK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEBEK CEYHAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK DENİZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK DENİZ 2",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK EJDERHA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEBEK ENES",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEBEK FUAO",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEBEK HAYRİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK KILINÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kardiyak arrest, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "EX DUHUL"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK KITAY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Üst solunum yolunun hastalığı,\ntanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK KURT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kardiyak arrest, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK ÖZÇELİK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Rutin çocuk sağlığı muayenesi",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEBEK SULAR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK PALYATİF BAKIM SERVİS YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEKİR AĞZIBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BENZİL BOLOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "HUMERUS KONDİL FX",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BEREN NİSA KOYUNCU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BERRA KARAVELİOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BETÜL DÖKME",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "BEYZA NUR OĞUZHANOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BİSEN KUREYTİM",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "BÜŞRA ÇELEBİ",
+        "geldigiYer": "HATAY",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "CEMİL ŞENOL",
+        "geldigiYer": "GAZİANTEP",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "CİHAN BOSTAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "CUMA GÜL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "DAVUT DAL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "baş ağrısı",
+        "birim": "ACİL YEŞİL MUAYENE 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "DERYA BOLAT",
+        "geldigiYer": "HATAY",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "DERYA METE",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak parmak(lar)ın burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "DİĞER BEBEK BEBEK DAĞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "DÖNDÜ ÖZDEMİR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "DÖNDÜ SÜMEYYE BERK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ECRİN ADA POLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "EDA KAPLAN",
+        "geldigiYer": "SİVAS",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ELİF ALPARSLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Karın ağrısı diğer ve tanımlanmamış",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ELİF ASEL ŞENOL",
+        "geldigiYer": "GAZİANTEP",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ELİF DEMİRBİLEK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ELİF HAC HALİL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ELİF KÖROĞLU",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ELİF NİSA KÖVCE",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ELİF ÖZDEN",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Düşme, tanımlanmamış",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EMİN BİLGİÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "omuzun bursiti",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EMİNE BALTACI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "EMİNE ÇİFTÇİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüksekten Düşme",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EMİNE GÖZBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EMİNE HAMİŞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve elin açık yarası",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EMİR CAN TÜYLÜ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ENES KAMALAK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ADÖLESAN SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ENES KOYUNCU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ERENCAN YILDIRIM",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Sürücü yaralanması, trafik kazalarında diğer\nve tanımlanmamış motorlu araçlarla\nçarpışmada",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EROL AKSAKAL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Subaraknoid hemoraji, tanımlanmamış",
+        "birim": "ACİL RESÜSİTASYON 2",
+        "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ESMA NUR KARAOĞLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "YANIK SERVİS YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ESRA DOBAOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ESRA ÖNER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ESRA ŞAHİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "EYLÜL ÇİFTLİKÇİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "EZGİ ŞEN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FADİME DEĞİRMENCİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FATMA BUSE TAŞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "baldırın yüzeysel yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FATMA CULFA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "FATMA KENGER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FAZIL BİLİNMİYOR",
+        "geldigiYer": "?",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FEHMİ ZOR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "FERHAN DALDABAN",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FİLİZ KAYA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "FİRAS HAC HALİL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GAMZE ERYILMAZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GAMZE GÖZEL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GİZEM GEÇİMLİ",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Ayak parmak(lar)ın burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "GONCA KENGER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÖKHAN ÇELK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "GÜL NİHAL SÜRMELİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "GÜLAY AY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Thrakal Fraktur",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÜLLÜ CULFA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÜLŞAH KURT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÜLÜMSER AÇIKGÖZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Deprem kurbanı",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÜMÜŞ SARIÇOBAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "GÜNEŞ YARIM",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "srebral palsi",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HACER AÇIKGÖZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HACER CERAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HACER CEREN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HACI ALİ HARMANCIKLI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Birden fazla kırıklar, tanımlanmamış, kapalı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ANESTEZİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HACI VEYSEL KARAGÜN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HANDE UZUNKAYA",
+        "geldigiYer": "HATAY",
+        "tani": "Gebelik durumu",
+        "birim": "ACİL KADIN DOĞUM",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HASAN GERİMAHMED",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Lumbago, siyatik ile",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HASAN HÜSEYİN KARA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "ön kol yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HAŞİM AYTAÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Dirsek burkulma ve gerilmesi",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HATİCE ARSLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HATİCE AYTAÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HATİCE NUR DAĞDÖNDEREN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Dorsalji",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HATİCE POLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Birden fazla vücut bölgesinin yanık ve\nkorozyonları",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "YANIK SERVİS YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HATİCE SETTAR",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Kalça eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HAYRUNİSA ARSLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Üst solunum yolu diğer hastalıkları",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "HİLAL AY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Boyun ağrısı",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HSAN KARTAL",
+        "geldigiYer": "ADIYAMAN",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL RESÜSİTASYON 2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "HÜSNE DÖKME",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İBRAHİM MARPE",
+        "geldigiYer": "?",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "İBRAHİM ŞAHUTOGLU",
+        "geldigiYer": "HATAY",
+        "tani": "Diyalize bağımlılık",
+        "birim": "ACİL YEŞİL MUAYENE 1",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "İKBAL CAFEROĞLU",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "İKRA ERÇIKTI",
+        "geldigiYer": "MALATYA",
+        "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İKRAM ALAKAŞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "baş ağrısı",
+        "birim": "ACİL YEŞİL MUAYENE 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İKRANAZ BALTACI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İSİMSİZ A MARAŞ İSİMSİZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İSİMSİZ MARAŞ D",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "İSMAİL KIRAÇ",
+        "geldigiYer": "ADIYAMAN",
+        "tani": "Omuz eklemi burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İSMAİL TAHİROĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "İSMAİL TÜYSÜZ",
+        "geldigiYer": "MALATYA",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "İSRA ŞERİF",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "KADİR CAN AĞZIBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "KEMAL ARAS GÖZEL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Travmatik pnömotoraks",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI 4",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "KENAN ALMA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Bir ayak ve diğer bacak [herhangi bir\nseviyede, ayak hariç] travmatik ampütasyonu",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "KEREM ABDULLAH ANTÜRK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "KISMET POLAT",
+        "geldigiYer": "ADIYAMAN",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "KÜBRA KEKEÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nBurkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MAHMUT BAHAR",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Femur Boyun Fraktürü",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MARAŞ İSİMSİZ B",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MARAŞ İSİMSİZ C",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEHMET ALİ KURTUL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEHMET DİNÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEHMET DÖKME",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Alt karnın diğer bölgelerine lokalize ağrı",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MEHMET KAYA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEHMET POLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "SÜT ÇOCUĞU SERVİSİ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEHMET TOPAL",
+        "geldigiYer": "MALATYA",
+        "tani": "baş ağrısı",
+        "birim": "ACİL MUAYNE 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MELEK ÖZDEMİR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "karın bel ve pelvisin yüzeysel yaralanmaları",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MELİKE POLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MEMİŞ POYRAZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MERDİYE ZOR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Bel ağrısı",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MERT KIŞLAK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Akut bronşit, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ADÖLESAN SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MERYEM DİLA GÖNEN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MERYEM TOPLAMA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MESUT TÖR",
+        "geldigiYer": "HATAY",
+        "tani": "lomber vertebra kırığı",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MİRAY GÖZÜBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MİRTÜRK DAĞLIOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMED AKDERE",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Birden fazla çıkık, burkulma ve gerilmeleri,\ntanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMED EFE ARSLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMED EMİN ÇETİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMED İNBAYED",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMET EMİN AĞZIBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Epilepsi, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMET KOBBAŞ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "YENİDOĞAN YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHAMMET YAKUP AYKIN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHİBE YILMAZ",
+        "geldigiYer": "HATAY",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHİTTİN BOYALI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUHİTTİN YILMAZ",
+        "geldigiYer": "HATAY",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MURAT AĞZIKÜÇÜK",
+        "geldigiYer": "MALATYA",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MUSA ÇELİK",
+        "geldigiYer": "HATAY",
+        "tani": "Omuz eklemi burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUSTAFA BAYRI",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış, yer tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUSTAFA BERKAY GÜNDÜZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUSTAFA GÜLER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "KVC YOĞUN BAKIM"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUSTAFA MERT",
+        "geldigiYer": "HATAY",
+        "tani": "baldırın yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "MUSTAFA ÖNER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MÜCAHİT ERSOY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "MÜŞÜDE ŞAHİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış, yer tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "NACİYE GEMCİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kronik böbrek yetmezliği, tanımlanmamış",
+        "birim": "ACİL SARI ALAN MUAYENE\n1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "NAZMİYE ÇİÇEK",
+        "geldigiYer": "MALATYA",
+        "tani": "Dirsek eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "NEJLA KRAL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Boyun ve başın çıkık, burkulma ve gerilmeleri",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "NERGİZ POLAT",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "NESLİ ACER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Düşme, tanımlanmamış",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "NİDA NUR SOYUER",
+        "geldigiYer": "ADIYAMAN",
+        "tani": "Bel ağrısı",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "NUR BANU KANKALLI",
+        "geldigiYer": "GAZİANTEP",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "OĞUZHAN KARAHÖYÜKLÜ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Dorsalji",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "OKAN ÇELEBİ",
+        "geldigiYer": "AMASYA",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ORHAN ÇETİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "OSMAN EYMEN ATAÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Travmatik pnömotoraks",
+        "birim": "ACİL RESÜSİTASYON 2",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ÖMER ÇAMOĞLU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "BEYİN CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ÖMER TEL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ÖYKÜ KÖVCE",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Akut üst solunum yolu enfeksiyonu,\ntanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "RABİA DOĞAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "RAGİBE YILDIRIM",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozuklukları diğer,\ntanımlanmış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "RAHİME SUNULU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Düşme, tanımlanmamış",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "RAMAZAN SARIBAŞ",
+        "geldigiYer": "?",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "REVAN ŞERİF",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "REYYAN NEVA YILMAZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "RUKİYE CEYHAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "GENEL CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "RUVEYDA NETCAR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "RÜVEYDA ŞERİF",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "SABİHA FİNCAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Kalça burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SALİH DÖKME",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "GÖĞÜS CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SEHER AĞZIBÜYÜK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SELÇUK YAVUZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SELMA TEKİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "SELVER ACER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SERAP ÇİÇEK",
+        "geldigiYer": "MALATYA",
+        "tani": "Omuz eklemi burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "SERKAN ERÇIKTI",
+        "geldigiYer": "MALATYA",
+        "tani": "Diz eklem ve ligamentlerinin çıkık, burkulma\nve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SERPİL KARAGÖZ TOPAL",
+        "geldigiYer": "MALATYA",
+        "tani": "Karın ağrısı diğer ve tanımlanmamış",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SEVİLAY SÖNMEZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "KALP DAMAR CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "SEYDİ GÜNGÖR",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SIDIKA TEK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "dismonere",
+        "birim": "ACİL KADIN DOĞUM",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "SITKI AYDIN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "FTR ORTOPEDİK REHABİLİTASYON SERVİS\nYATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "SONAY CULFA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yüzeysel kafa yaralanması",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "BEYİN CERRAHİ YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ŞABAN YALÇIN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ŞENGÜL KARAGÖZ",
+        "geldigiYer": "MALATYA",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "TANER ALPARSLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Eklem ağrısı",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n1",
+        "yatisYeri": "DAHİLİYE YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "TUBA YEŞİL",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Toraks eklem ve ligamentlerinin çıkığı,\ngerilmesi, burkulması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "TUĞBA ALPAY",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Omuz kemeri eklem ve ligamentlerinin çıkık,\nburkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "TUĞBA BILDIRCIN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "TUNCAY YILDIZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Solunum yetmezliği, tanımlanmamış",
+        "birim": "ACİL ÇOCUK MUAYENE\nODASI",
+        "yatisYeri": "ÇOCUK YOĞUN BAKIM YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "TURGAY KABA",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "EX DUHUL",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "EX DUHUL"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "TÜRKAN UĞRAŞ",
+        "geldigiYer": "KAYSERİ",
+        "tani": "Toraks yüzeysel yaralanması",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "UHUD KAAN KILIÇ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ÜMRAN HAKVERDİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "SAĞ LATERAL VE MEDİAL MALLEOL FX",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ÜMÜS AYDIN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ENDOKRİLONOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ÜRGER SUNULU",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Dirsek burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TABURCU"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "VELLE SÜLEYMAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayağın yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "YAĞIZ EFE ÖNER",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "YAĞIZ EREN AKSOY",
+        "geldigiYer": "HATAY",
+        "tani": "El bileği burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "YAHYA CANİK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL RESÜSİTASYON 1",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "YAREN DEĞİRMENCİ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın diğer kısımlarının yüzeysel yaralanması",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "NEFROLOJİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "YAŞAR KEMAL TAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Omuz eklemi burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "İÇ HASTALIKLARI SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "YAŞAR TIRINK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Yumuşak doku bozukluğu, tanımlanmamış",
+        "birim": "ACİL MÖNİTÖRLÜ GÖZLEM\n2",
+        "yatisYeri": "GASTRO SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "YUSUF ŞİRİN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileğinin burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "YÜCEL YILDIRIM",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 1",
+        "yatisYeri": "GÖZ SERVİSİ"
+    },
+    {
+        "girisTarihi": "6.02.2023",
+        "isim": "ZEHRA ANTÜRK",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ÇOCUK CERRAHİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ZEYNEP ALPASLAN",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Başın yüzeysel yaralanması, tanımlanmamış\nkısım",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "TEDAVİSİ DEVAM EDİYOR"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ZEYNEP GÜLŞEN",
+        "geldigiYer": "DİYARBAKIR",
+        "tani": "El bileği ve el düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL TRAVMA BİRİMİ 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
+    },
+    {
+        "girisTarihi": "7.02.2023",
+        "isim": "ZEYNEP YILMAZ",
+        "geldigiYer": "KAHRAMANMARAŞ",
+        "tani": "Ayak bileği ve ayak düzeyinde eklem ve\nligamentlerin çıkık, burkulma ve gerilmesi",
+        "birim": "ACİL MUAYENE 3",
+        "yatisYeri": "ORTOPEDİ SERVİSİ YATIŞ"
     }
   ]
 }
