@@ -1,41 +1,49 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import MersinPage from './pages/MersinPage';
-import KayseriPage from './pages/KayseriPage';
-import AdanaPage from './pages/AdanaPage';
-import AnkaraPage from './pages/AnkaraPage';
-import reportWebVitals from './reportWebVitals';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import MersinPage from "./pages/MersinPage";
+import KayseriPage from "./pages/KayseriPage";
+import AdanaPage from "./pages/AdanaPage";
+import AnkaraPage from "./pages/AnkaraPage";
+import TumIllerPage from "./pages/TumIllerPage";
+import Footer from "./components/Footer";
+
+import reportWebVitals from "./reportWebVitals";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <App />,
   },
   {
-    path: 'mersinPage',
+    path: "mersinPage",
     element: <MersinPage />,
   },
   {
-    path: 'kayseriPage',
+    path: "kayseriPage",
     element: <KayseriPage />,
   },
   {
-    path: 'adanaPage',
+    path: "adanaPage",
     element: <AdanaPage />,
   },
   {
-    path: 'ankaraPage',
+    path: "ankaraPage",
     element: <AnkaraPage />,
+  },
+  {
+    path: "tumIllerPage",
+    element: <TumIllerPage />,
   },
 ]);
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <RouterProvider router={router} />
+    <Footer />
   </React.StrictMode>
 );
 

@@ -22,6 +22,9 @@ function App() {
           <Link className="nav-link" to="/ankaraPage">
             Ankara
           </Link>
+          <Link className="nav-link" to="/ankaraPage">
+            Tüm İller
+          </Link>
         </h2>
       </div>
     </div>
