@@ -2,6 +2,8 @@
 
 https://hastane.netlify.app/
 
+https://yakinimnerede.com.tr/
+
 # What This Project Is About?
 
 This website provides a platform for tracking earthquake victims and their location in hospitals in Turkey. The goal of the website is to help the relatives of the victims to quickly find their loved ones and ensure they are receiving the necessary medical assistance.
